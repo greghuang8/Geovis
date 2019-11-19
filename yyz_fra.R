@@ -2,12 +2,12 @@
 #Using Mapdeck in R 
 #Author: Gregory Huang
 #Reference: David Cooley, https://symbolixau.github.io/mapdeck/articles/mapdeck.html
-#Current Version: 0.2
+#Current Version: 0.3
 #Date: 19 November 2019
 #Past Versions:
 #0.1         Initial Code Creation
 #0.2         Added shinyApp capabilities
-#
+#0.3         Added more shinyApp capabilities
 #
 #This is part 2 of the Geovisualization project. 
 
@@ -124,7 +124,7 @@ mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16l
     layer_id = 'fra_arcs')
 
 
-# Shiny capabilities 
+# Shiny capabilities (drop-down menu) 
 shinyApp(
   ui <- fluidPage(
     selectInput("select", label = h3("Select a map:"),
@@ -189,3 +189,57 @@ shinyApp(
                          layer_id = 'yyz_fra_arcs')}})}
 )
 
+
+
+#shiny slidertable function 
+
+ui2 <- dashboardPage(
+  dashboardHeader(), dashboardSidebar(),
+  dashboardBody(
+    mapdeckOutput(outputId = 'myMap'),
+    sliderInput(
+      inputId = "longitudes",
+      label = "Longitudes",
+      min = -180,
+      max = 180,
+      value = c(-180,-90)),
+    verbatimTextOutput(outputId = "observed_click")))
+
+server2 <- function(input, output) {
+  
+  set_token(key) 
+  slidertable <- fra_flights
+  
+  output$myMap <- renderMapdeck({
+    mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) 
+  })
+  
+  ## plot points & lines according to the selected longitudes
+  slidertable_reactive <- reactive({
+    if(is.null(input$longitudes)) return(NULL)
+    lons <- input$longitudes
+    return(
+      slidertable[slidertable$destination_long >= lons[1] & slidertable$destination_long <= lons[2], ]
+    )
+  })
+  
+  observeEvent({input$longitudes}, {
+    if(is.null(input$longitudes)) return()
+    
+    mapdeck_update(map_id = 'myMap') %>%
+      add_arc(
+        data = slidertable_reactive(),
+        origin = c("origin_long", "origin_lat"),
+        destination = c("destination_long", "destination_lat"),
+        stroke_from = "From",
+        stroke_to = "To",
+        layer_id = "myArcLayer",
+        auto_highlight = TRUE,
+        tooltip = "RouteInfo",
+        stroke_width = 3,
+        update_view = FALSE
+      )
+    })
+  }
+
+shinyApp(ui2,server2)
