@@ -1,0 +1,498 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,FRA,ABV,Lufthansa (LH),Lufthansa,2834,06:10,,,,,343,,,"Direct",340,260,3320
+- -,FRA,ABZ,Lufthansa (LH),Lufthansa,661,01:49,,,,,735,,,"Direct",340,532,3320
+- -,FRA,ACC,Lufthansa (LH),Lufthansa,3109,06:43,,,,,333,,,"Codeshare",340,248,3320
+- -,FRA,ACE,Condor Flugdienst (DE),Condor Flugdienst,1860,04:13,,,,,757,,,"Direct",340,1055,1868
+- -,FRA,ACE,TUIfly (X3),TUIfly,1860,04:13,,,,,73H,,,"Direct",340,1055,2681
+- -,FRA,ADB,SunExpress (XQ),SunExpress,1220,02:56,,,,,738,,,"Direct",340,1706,4573
+- -,FRA,ADD,Ethiopian Airlines (ET),Ethiopian Airlines,3321,07:08,,,,,788,,,"Direct",340,1107,2220
+- -,FRA,ADD,Lufthansa (LH),Lufthansa,3321,07:08,,,,,788,,,"Codeshare",340,1107,3320
+- -,FRA,AGA,Condor Flugdienst (DE),Condor Flugdienst,1649,03:47,,,,,32S,,,"Direct",340,1064,1868
+- -,FRA,AGP,Lufthansa (LH),Lufthansa,1128,02:45,,,,,321 320,,,"Direct",340,1230,3320
+- -,FRA,ALA,Lufthansa (LH),Lufthansa,3160,06:49,,,,,333,,,"Direct",340,2908,3320
+- -,FRA,ALC,Air Berlin (AB),Air Berlin,927,02:21,,,,,320,,,"Direct",340,1212,214
+- -,FRA,ALG,Air Algerie (AH),Air Algerie,959,02:25,,,,,736,,,"Direct",340,210,794
+- -,FRA,ALG,Lufthansa (LH),Lufthansa,959,02:25,,,,,319,,,"Direct",340,210,3320
+- -,FRA,AMM,Air Berlin (AB),Air Berlin,1890,04:16,,,,,319,,,"Codeshare",340,2170,214
+- -,FRA,AMM,Lufthansa (LH),Lufthansa,1890,04:16,,,,,321,,,"Direct",340,2170,3320
+- -,FRA,AMM,Royal Jordanian (RJ),Royal Jordanian,1890,04:16,,,,,319,,,"Direct",340,2170,4259
+- -,FRA,AMS,Ethiopian Airlines (ET),Ethiopian Airlines,227,00:57,,,,,733,,,"Codeshare",340,580,2220
+- -,FRA,AMS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,227,00:57,,,,,EMJ F70,,,"Codeshare",340,580,3090
+- -,FRA,AMS,Lufthansa (LH),Lufthansa,227,00:57,,,,,735 320 319 733 32A 321,,,"Direct",340,580,3320
+- -,FRA,AMS,China Eastern Airlines (MU),China Eastern Airlines,227,00:57,,,,,EMJ,,,"Codeshare",340,580,1758
+- -,FRA,ARN,Ethiopian Airlines (ET),Ethiopian Airlines,759,02:01,,,,,32A 321,,,"Codeshare",340,737,2220
+- -,FRA,ARN,Lufthansa (LH),Lufthansa,759,02:01,,,,,321 32A,,,"Direct",340,737,3320
+- -,FRA,ARN,Scandinavian Airlines System (SK),Scandinavian Airlines System,759,02:01,,,,,73W 73H 717 736 73G,,,"Direct",340,737,4319
+- -,FRA,ASB,Turkmenistan Airlines (T5),Turkmenistan Airlines,2555,05:36,,,,,738,,,"Direct",340,2976,5083
+- -,FRA,ATH,Aegean Airlines (A3),Aegean Airlines,1127,02:45,,,,,321,,,"Direct",340,3941,96
+- -,FRA,ATH,Lufthansa (LH),Lufthansa,1127,02:45,,,,,321,,,"Direct",340,3941,3320
+- -,FRA,ATL,Air France (AF),Air France,4601,09:42,,,,,764,,,"Codeshare",340,3682,137
+- -,FRA,ATL,British Airways (BA),British Airways,4601,09:42,,,,,,,,"Direct",340,3682,1355
+- -,FRA,ATL,Delta Air Lines (DL),Delta Air Lines,4601,09:42,,,,,764,,,"Direct",340,3682,2009
+- -,FRA,ATL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4601,09:42,,,,,764,,,"Codeshare",340,3682,3090
+- -,FRA,ATL,Lufthansa (LH),Lufthansa,4601,09:42,,,,,343,,,"Direct",340,3682,3320
+- -,FRA,ATL,United Airlines (UA),United Airlines,4601,09:42,,,,,343,,,"Codeshare",340,3682,5209
+- -,FRA,AUH,Air Berlin (AB),Air Berlin,3019,06:32,,,,,332 333,,,"Codeshare",340,2179,214
+- -,FRA,AUH,Air Baltic (BT),Air Baltic,3019,06:32,,,,,332 333,,,"Direct",340,2179,333
+- -,FRA,AUH,Etihad Airways (EY),Etihad Airways,3019,06:32,,,,,332 333,,,"Direct",340,2179,2222
+- -,FRA,AUH,Lufthansa (LH),Lufthansa,3019,06:32,,,,,333,,,"Direct",340,2179,3320
+- -,FRA,AUH,United Airlines (UA),United Airlines,3019,06:32,,,,,333,,,"Codeshare",340,2179,5209
+- -,FRA,AYT,Condor Flugdienst (DE),Condor Flugdienst,1427,03:21,,,,,757,,,"Direct",340,1688,1868
+- -,FRA,AYT,Germania (ST),Germania,1427,03:21,,,,,321,,,"Direct",340,1688,2547
+- -,FRA,AYT,TUIfly (X3),TUIfly,1427,03:21,,,,,73H,,,"Direct",340,1688,2681
+- -,FRA,AYT,SunExpress (XQ),SunExpress,1427,03:21,,,,,738,,,"Direct",340,1688,4573
+- -,FRA,BAH,Gulf Air Bahrain (GF),Gulf Air Bahrain,2757,06:00,,,,,320,,,"Direct",340,2057,2638
+- -,FRA,BCN,Ethiopian Airlines (ET),Ethiopian Airlines,679,01:51,,,,,321,,,"Codeshare",340,1218,2220
+- -,FRA,BCN,Iberia Airlines (IB),Iberia Airlines,679,01:51,,,,,320,,,"Codeshare",340,1218,2822
+- -,FRA,BCN,Lufthansa (LH),Lufthansa,679,01:51,,,,,321 320 319 32A,,,"Direct",340,1218,3320
+- -,FRA,BCN,Formosa Airlines (VY),Formosa Airlines,679,01:51,,,,,320,,,"Direct",340,1218,2439
+- -,FRA,BEG,Air Berlin (AB),Air Berlin,654,01:48,,,,,319,,,"Direct",340,1739,214
+- -,FRA,BEG,Etihad Airways (EY),Etihad Airways,654,01:48,,,,,319,,,"Direct",340,1739,2222
+- -,FRA,BEG,Air Serbia (JU),Air Serbia,654,01:48,,,,,319,,,"Direct",340,1739,19582
+- -,FRA,BEG,Lufthansa (LH),Lufthansa,654,01:48,,,,,320 32A 319 321,,,"Direct",340,1739,3320
+- -,FRA,BEG,Scandinavian Airlines System (SK),Scandinavian Airlines System,654,01:48,,,,,320 32A 319 321,,,"Direct",340,1739,4319
+- -,FRA,BEY,Lufthansa (LH),Lufthansa,1762,04:01,,,,,32A 321 320,,,"Direct",340,2177,3320
+- -,FRA,BEY,Middle East Airlines (ME),Middle East Airlines,1762,04:01,,,,,320,,,"Direct",340,2177,3490
+- -,FRA,BGO,Lufthansa (LH),Lufthansa,720,01:56,,,,,735 E90,,,"Codeshare",340,636,3320
+- -,FRA,BGO,Scandinavian Airlines System (SK),Scandinavian Airlines System,720,01:56,,,,,735 E90,,,"Codeshare",340,636,4319
+- -,FRA,BHX,Lufthansa (LH),Lufthansa,475,01:27,,,,,733 319 32A 321 320,,,"Direct",340,469,3320
+- -,FRA,BIA,Lufthansa (LH),Lufthansa,518,01:32,,,,,E90,,,"Direct",340,1321,3320
+- -,FRA,BIO,Lufthansa (LH),Lufthansa,714,01:55,,,,,320 32A 319 321,,,"Direct",340,1216,3320
+- -,FRA,BKK,Lufthansa (LH),Lufthansa,5588,11:40,,,,,346,,,"Direct",340,3885,3320
+- -,FRA,BKK,Thai Airways International (TG),Thai Airways International,5588,11:40,,,,,380 346,,,"Direct",340,3885,4940
+- -,FRA,BLL,Lufthansa (LH),Lufthansa,394,01:17,,,,,735 733,,,"Direct",340,608,3320
+- -,FRA,BLL,Scandinavian Airlines System (SK),Scandinavian Airlines System,394,01:17,,,,,735 733,,,"Codeshare",340,608,4319
+- -,FRA,BLQ,Lufthansa (LH),Lufthansa,400,01:18,,,,,735 321 319 733 320,,,"Direct",340,1538,3320
+- -,FRA,BLR,Air India Limited (AI),Air India Limited,4596,09:41,,,,,74H,,,"Codeshare",340,3131,218
+- -,FRA,BLR,Lufthansa (LH),Lufthansa,4596,09:41,,,,,74H,,,"Direct",340,3131,3320
+- -,FRA,BOG,Avianca - Aerovias Nacionales de Colombia (AV),Avianca - Aerovias Nacionales de Colombia,5643,11:47,,,,,346,,,"Codeshare",340,2709,515
+- -,FRA,BOG,Lufthansa (LH),Lufthansa,5643,11:47,,,,,346,,,"Direct",340,2709,3320
+- -,FRA,BOM,Air India Limited (AI),Air India Limited,4079,08:39,,,,,744,,,"Codeshare",340,2997,218
+- -,FRA,BOM,Lufthansa (LH),Lufthansa,4079,08:39,,,,,744,,,"Direct",340,2997,3320
+- -,FRA,BOS,Lufthansa (LH),Lufthansa,3657,07:48,,,,,744 346,,,"Direct",340,3448,3320
+- -,FRA,BOS,United Airlines (UA),United Airlines,3657,07:48,,,,,744 346,,,"Codeshare",340,3448,5209
+- -,FRA,BRE,Lufthansa (LH),Lufthansa,208,00:54,,,,,733 319 321 735 E90,,,"Direct",340,353,3320
+- -,FRA,BRS,Air Sicilia (BM),Air Sicilia,501,01:30,,,,,ER4,,,"Direct",340,490,312
+- -,FRA,BRU,Ethiopian Airlines (ET),Ethiopian Airlines,189,00:52,,,,,735 733,,,"Codeshare",340,302,2220
+- -,FRA,BRU,Lufthansa (LH),Lufthansa,189,00:52,,,,,E90 733 735 CR7 319 321 320 32A,,,"Direct",340,302,3320
+- -,FRA,BRU,Brussels Airlines (SN),Brussels Airlines,189,00:52,,,,,E90 735 733 CR7 319 321 320 32A,,,"Codeshare",340,302,1531
+- -,FRA,BSL,Lufthansa (LH),Lufthansa,175,00:51,,,,,CR7,,,"Direct",340,1423,3320
+- -,FRA,BSL,Swiss International Air Lines (LX),Swiss International Air Lines,175,00:51,,,,,CR7,,,"Codeshare",340,1423,4559
+- -,FRA,BSL,Scandinavian Airlines System (SK),Scandinavian Airlines System,175,00:51,,,,,CR7,,,"Direct",340,1423,4319
+- -,FRA,BUD,Ethiopian Airlines (ET),Ethiopian Airlines,518,01:32,,,,,733 735,,,"Codeshare",340,1489,2220
+- -,FRA,BUD,Lufthansa (LH),Lufthansa,518,01:32,,,,,320 733 321 735 32A,,,"Direct",340,1489,3320
+- -,FRA,BVC,TUIfly (X3),TUIfly,2922,06:20,,,,,73H,,,"Direct",340,1103,2681
+- -,FRA,CAI,Lufthansa (LH),Lufthansa,1814,04:07,,,,,32A 321,,,"Direct",340,1128,3320
+- -,FRA,CAI,Egyptair (MS),Egyptair,1814,04:07,,,,,330 738,,,"Direct",340,1128,2143
+- -,FRA,CCS,Lufthansa (LH),Lufthansa,5015,10:31,,,,,333,,,"Direct",340,2851,3320
+- -,FRA,CDG,Air France (AF),Air France,278,01:03,,,,,318,,,"Direct",340,1382,137
+- -,FRA,CDG,Lufthansa (LH),Lufthansa,278,01:03,,,,,321 32A 735 319 320 733,,,"Direct",340,1382,3320
+- -,FRA,CFU,Air Berlin (AB),Air Berlin,907,02:18,,,,,320,,,"Direct",340,1460,214
+- -,FRA,CFU,Condor Flugdienst (DE),Condor Flugdienst,907,02:18,,,,,738,,,"Direct",340,1460,1868
+- -,FRA,CFU,TUIfly (X3),TUIfly,907,02:18,,,,,73H,,,"Direct",340,1460,2681
+- -,FRA,CHQ,Condor Flugdienst (DE),Condor Flugdienst,1269,03:02,,,,,757,,,"Direct",340,1474,1868
+- -,FRA,CLT,American Airlines (AA),American Airlines,4384,09:16,,,,,333 332,,,"Direct",340,3876,24
+- -,FRA,CLT,US Airways (US),US Airways,4384,09:16,,,,,333 332,,,"Direct",340,3876,5265
+- -,FRA,CMB,SriLankan Airlines (UL),SriLankan Airlines,5009,10:31,,,,,332,,,"Direct",340,3024,4349
+- -,FRA,CMN,Royal Air Maroc (AT),Royal Air Maroc,1414,03:19,,,,,73G 738,,,"Direct",340,1074,4248
+- -,FRA,CMN,Lufthansa (LH),Lufthansa,1414,03:19,,,,,321,,,"Direct",340,1074,3320
+- -,FRA,CPH,Air China (CA),Air China,421,01:20,,,,,320 319 321,,,"Direct",340,609,751
+- -,FRA,CPH,Ethiopian Airlines (ET),Ethiopian Airlines,421,01:20,,,,,319 321 320,,,"Codeshare",340,609,2220
+- -,FRA,CPH,Lufthansa (LH),Lufthansa,421,01:20,,,,,319 733 32A 321 320,,,"Direct",340,609,3320
+- -,FRA,CPH,Scandinavian Airlines System (SK),Scandinavian Airlines System,421,01:20,,,,,320 32A 319 321 CR9,,,"Direct",340,609,4319
+- -,FRA,CTA,Air Berlin (AB),Air Berlin,925,02:21,,,,,320,,,"Direct",340,1509,214
+- -,FRA,CTA,Meridiana (IG),Meridiana,925,02:21,,,,,320,,,"Codeshare",340,1509,3463
+- -,FRA,CTU,Air China (CA),Air China,4850,10:12,,,,,330,,,"Direct",340,3395,751
+- -,FRA,CTU,Lufthansa (LH),Lufthansa,4850,10:12,,,,,330,,,"Codeshare",340,3395,3320
+- -,FRA,CUN,Condor Flugdienst (DE),Condor Flugdienst,5344,11:11,,,,,767,,,"Direct",340,1852,1868
+- -,FRA,DBV,Condor Flugdienst (DE),Condor Flugdienst,691,01:52,,,,,32S,,,"Direct",340,1200,1868
+- -,FRA,DBV,Lufthansa (LH),Lufthansa,691,01:52,,,,,319 320 735,,,"Codeshare",340,1200,3320
+- -,FRA,DBV,Croatia Airlines (OU),Croatia Airlines,691,01:52,,,,,319 320,,,"Direct",340,1200,1925
+- -,FRA,DEL,Air India Limited (AI),Air India Limited,3801,08:06,,,,,788,,,"Direct",340,3093,218
+- -,FRA,DEL,Lufthansa (LH),Lufthansa,3801,08:06,,,,,74H,,,"Direct",340,3093,3320
+- -,FRA,DEN,Lufthansa (LH),Lufthansa,5023,10:32,,,,,744,,,"Direct",340,3751,3320
+- -,FRA,DEN,United Airlines (UA),United Airlines,5023,10:32,,,,,744,,,"Codeshare",340,3751,5209
+- -,FRA,DFW,American Airlines (AA),American Airlines,5128,10:45,,,,,777,,,"Direct",340,3670,24
+- -,FRA,DFW,Air Berlin (AB),Air Berlin,5128,10:45,,,,,777,,,"Codeshare",340,3670,214
+- -,FRA,DFW,Finnair (AY),Finnair,5128,10:45,,,,,777,,,"Codeshare",340,3670,2350
+- -,FRA,DFW,British Airways (BA),British Airways,5128,10:45,,,,,777,,,"Codeshare",340,3670,1355
+- -,FRA,DFW,Iberia Airlines (IB),Iberia Airlines,5128,10:45,,,,,777,,,"Codeshare",340,3670,2822
+- -,FRA,DFW,Lufthansa (LH),Lufthansa,5128,10:45,,,,,333,,,"Direct",340,3670,3320
+- -,FRA,DFW,Malaysia Airlines (MH),Malaysia Airlines,5128,10:45,,,,,777,,,"Direct",340,3670,3378
+- -,FRA,DFW,United Airlines (UA),United Airlines,5128,10:45,,,,,333,,,"Codeshare",340,3670,5209
+- -,FRA,DFW,US Airways (US),US Airways,5128,10:45,,,,,777,,,"Direct",340,3670,5265
+- -,FRA,DJE,Condor Flugdienst (DE),Condor Flugdienst,1121,02:44,,,,,757,,,"Direct",340,293,1868
+- -,FRA,DJE,Tunisair (TU),Tunisair,1121,02:44,,,,,736,,,"Direct",340,293,4870
+- -,FRA,DLM,Condor Flugdienst (DE),Condor Flugdienst,1361,03:13,,,,,757,,,"Direct",340,1715,1868
+- -,FRA,DLM,TUIfly (X3),TUIfly,1361,03:13,,,,,73H,,,"Direct",340,1715,2681
+- -,FRA,DME,Air Berlin (AB),Air Berlin,1271,03:02,,,,,319,,,"Codeshare",340,4029,214
+- -,FRA,DME,Lufthansa (LH),Lufthansa,1271,03:02,,,,,32A 321 320,,,"Direct",340,4029,3320
+- -,FRA,DME,S7 Airlines (S7),S7 Airlines,1271,03:02,,,,,319,,,"Direct",340,4029,4329
+- -,FRA,DMM,Lufthansa (LH),Lufthansa,2712,05:55,,,,,73H,,,"Codeshare",340,2064,3320
+- -,FRA,DOH,Air Canada (AC),Air Canada,2848,06:11,,,,,333,,,"Codeshare",340,11051,330
+- -,FRA,DOH,Lufthansa (LH),Lufthansa,2848,06:11,,,,,333 343,,,"Direct",340,11051,3320
+- -,FRA,DOH,Swiss International Air Lines (LX),Swiss International Air Lines,2848,06:11,,,,,333,,,"Codeshare",340,11051,4559
+- -,FRA,DOH,Qatar Airways (QR),Qatar Airways,2848,06:11,,,,,77L 788 77W,,,"Direct",340,11051,4091
+- -,FRA,DOH,United Airlines (UA),United Airlines,2848,06:11,,,,,333,,,"Codeshare",340,11051,5209
+- -,FRA,DOH,US Airways (US),US Airways,2848,06:11,,,,,77L 788 77W,,,"Direct",340,11051,5265
+- -,FRA,DRS,Lufthansa (LH),Lufthansa,240,00:58,,,,,735 733 32A E90,,,"Direct",340,338,3320
+- -,FRA,DTW,Air France (AF),Air France,4147,08:47,,,,,764,,,"Codeshare",340,3645,137
+- -,FRA,DTW,Delta Air Lines (DL),Delta Air Lines,4147,08:47,,,,,764,,,"Direct",340,3645,2009
+- -,FRA,DTW,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4147,08:47,,,,,767,,,"Codeshare",340,3645,3090
+- -,FRA,DTW,Lufthansa (LH),Lufthansa,4147,08:47,,,,,343,,,"Direct",340,3645,3320
+- -,FRA,DTW,United Airlines (UA),United Airlines,4147,08:47,,,,,343,,,"Codeshare",340,3645,5209
+- -,FRA,DUB,Aer Lingus (EI),Aer Lingus,674,01:50,,,,,320,,,"Direct",340,599,837
+- -,FRA,DUB,Lufthansa (LH),Lufthansa,674,01:50,,,,,321,,,"Direct",340,599,3320
+- -,FRA,DUS,Ethiopian Airlines (ET),Ethiopian Airlines,117,00:44,,,,,319 320 321,,,"Codeshare",340,345,2220
+- -,FRA,DUS,Lufthansa (LH),Lufthansa,117,00:44,,,,,319 320 CR7 E90 321,,,"Direct",340,345,3320
+- -,FRA,DXB,Emirates (EK),Emirates,3007,06:30,,,,,77W,,,"Direct",340,2188,2183
+- -,FRA,DXB,Lufthansa (LH),Lufthansa,3007,06:30,,,,,343,,,"Direct",340,2188,3320
+- -,FRA,DXB,Qantas (QF),Qantas,3007,06:30,,,,,77W,,,"Codeshare",340,2188,4089
+- -,FRA,DYU,Salzburg arrows (SZ),Salzburg arrows,2995,06:29,,,,,737,,,"Direct",340,2979,10122
+- -,FRA,EBL,Lufthansa (LH),Lufthansa,1996,04:29,,,,,319,,,"Direct",340,3989,3320
+- -,FRA,EDI,Lufthansa (LH),Lufthansa,641,01:46,,,,,321 32A 320 319,,,"Direct",340,535,3320
+- -,FRA,ESB,Turkish Airlines (TK),Turkish Airlines,1364,03:13,,,,,738,,,"Direct",340,1682,4951
+- -,FRA,EWR,Lufthansa (LH),Lufthansa,3857,08:12,,,,,744,,,"Direct",340,3494,3320
+- -,FRA,EWR,United Airlines (UA),United Airlines,3857,08:12,,,,,777,,,"Direct",340,3494,5209
+- -,FRA,EZE,Lufthansa (LH),Lufthansa,7143,14:47,,,,,744,,,"Direct",340,3988,3320
+- -,FRA,FAO,Lufthansa (LH),Lufthansa,1216,02:55,,,,,32A 321 320,,,"Direct",340,1626,3320
+- -,FRA,FAO,TAP Portugal (TP),TAP Portugal,1216,02:55,,,,,32A 321 320,,,"Codeshare",340,1626,4869
+- -,FRA,FAO,TUIfly (X3),TUIfly,1216,02:55,,,,,73H,,,"Direct",340,1626,2681
+- -,FRA,FCO,Alitalia (AZ),Alitalia,595,01:41,,,,,319 E75 E90 32S,,,"Direct",340,1555,596
+- -,FRA,FCO,Biman Bangladesh Airlines (BG),Biman Bangladesh Airlines,595,01:41,,,,,773,,,"Direct",340,1555,1359
+- -,FRA,FCO,Lufthansa (LH),Lufthansa,595,01:41,,,,,321 320,,,"Direct",340,1555,3320
+- -,FRA,FDH,Lufthansa (LH),Lufthansa,168,00:50,,,,,CR7,,,"Codeshare",340,382,3320
+- -,FRA,FLR,Lufthansa (LH),Lufthansa,447,01:23,,,,,E90,,,"Codeshare",340,1563,3320
+- -,FRA,FMO,Lufthansa (LH),Lufthansa,150,00:48,,,,,CR7,,,"Codeshare",340,341,3320
+- -,FRA,FNC,Condor Flugdienst (DE),Condor Flugdienst,1761,04:01,,,,,757,,,"Direct",340,4091,1868
+- -,FRA,FNC,TUIfly (X3),TUIfly,1761,04:01,,,,,73H,,,"Direct",340,4091,2681
+- -,FRA,FUE,Condor Flugdienst (DE),Condor Flugdienst,1897,04:17,,,,,757,,,"Direct",340,1051,1868
+- -,FRA,FUE,TUIfly (X3),TUIfly,1897,04:17,,,,,73H,,,"Direct",340,1051,2681
+- -,FRA,GCI,Air Berlin (AB),Air Berlin,499,01:29,,,,,DH4,,,"Direct",340,498,214
+- -,FRA,GDN,Lufthansa (LH),Lufthansa,514,01:31,,,,,319 321 32A 320,,,"Direct",340,668,3320
+- -,FRA,GDN,LOT Polish Airlines (LO),LOT Polish Airlines,514,01:31,,,,,319 321 32A 320,,,"Codeshare",340,668,3210
+- -,FRA,GIG,TAM Brazilian Airlines (JJ),TAM Brazilian Airlines,5942,12:23,,,,,744,,,"Codeshare",340,2560,4867
+- -,FRA,GIG,Lufthansa (LH),Lufthansa,5942,12:23,,,,,744,,,"Direct",340,2560,3320
+- -,FRA,GOJ,Lufthansa (LH),Lufthansa,1501,03:30,,,,,319,,,"Direct",340,4274,3320
+- -,FRA,GOT,Ethiopian Airlines (ET),Ethiopian Airlines,547,01:35,,,,,32A 321,,,"Codeshare",340,687,2220
+- -,FRA,GOT,Lufthansa (LH),Lufthansa,547,01:35,,,,,319 32A 733 321,,,"Direct",340,687,3320
+- -,FRA,GOT,Scandinavian Airlines System (SK),Scandinavian Airlines System,547,01:35,,,,,319 32A 733 321,,,"Codeshare",340,687,4319
+- -,FRA,GPA,TUIfly (X3),TUIfly,1036,02:34,,,,,73H,,,"Direct",340,1473,2681
+- -,FRA,GRU,TAM Brazilian Airlines (JJ),TAM Brazilian Airlines,6084,12:40,,,,,773,,,"Direct",340,2564,4867
+- -,FRA,GRU,Lufthansa (LH),Lufthansa,6084,12:40,,,,,74H,,,"Direct",340,2564,3320
+- -,FRA,GRZ,Lufthansa (LH),Lufthansa,377,01:15,,,,,E90 733,,,"Direct",340,1609,3320
+- -,FRA,GRZ,Austrian Airlines (OS),Austrian Airlines,377,01:15,,,,,E90 733,,,"Codeshare",340,1609,491
+- -,FRA,GVA,Ethiopian Airlines (ET),Ethiopian Airlines,285,01:04,,,,,E90 CR7,,,"Codeshare",340,1665,2220
+- -,FRA,GVA,Kuwait Airways (KU),Kuwait Airways,285,01:04,,,,,340,,,"Direct",340,1665,3179
+- -,FRA,GVA,Lufthansa (LH),Lufthansa,285,01:04,,,,,CR7 735 E90,,,"Direct",340,1665,3320
+- -,FRA,GVA,Swiss International Air Lines (LX),Swiss International Air Lines,285,01:04,,,,,CR7 735 E90,,,"Codeshare",340,1665,4559
+- -,FRA,GWT,Lufthansa (LH),Lufthansa,337,01:10,,,,,E90,,,"Codeshare",340,410,3320
+- -,FRA,GYD,Azerbaijan Airlines (J2),Azerbaijan Airlines,2091,04:40,,,,,333 343,,,"Codeshare",340,2922,197
+- -,FRA,GYD,Lufthansa (LH),Lufthansa,2091,04:40,,,,,333 343,,,"Direct",340,2922,3320
+- -,FRA,GYD,United Airlines (UA),United Airlines,2091,04:40,,,,,333,,,"Codeshare",340,2922,5209
+- -,FRA,HAJ,Lufthansa (LH),Lufthansa,174,00:50,,,,,319 735 733 32A,,,"Direct",340,352,3320
+- -,FRA,HAM,Lufthansa (LH),Lufthansa,255,01:00,,,,,321 320 319 32A,,,"Direct",340,342,3320
+- -,FRA,HAN,Alitalia (AZ),Alitalia,5410,11:19,,,,,777,,,"Codeshare",340,3199,596
+- -,FRA,HAN,Vietnam Airlines (VN),Vietnam Airlines,5410,11:19,,,,,777,,,"Direct",340,3199,5309
+- -,FRA,HAV,Condor Flugdienst (DE),Condor Flugdienst,5053,10:36,,,,,767,,,"Direct",340,1909,1868
+- -,FRA,HDF,Germanwings (4U),Germanwings,356,01:12,,,,,CRJ,,,"Direct",340,5557,2548
+- -,FRA,HEL,Air Berlin (AB),Air Berlin,955,02:24,,,,,E90,,,"Codeshare",340,421,214
+- -,FRA,HEL,Finnair (AY),Finnair,955,02:24,,,,,E90,,,"Codeshare",340,421,2350
+- -,FRA,HEL,Ethiopian Airlines (ET),Ethiopian Airlines,955,02:24,,,,,32A 321 320,,,"Codeshare",340,421,2220
+- -,FRA,HEL,Lufthansa (LH),Lufthansa,955,02:24,,,,,321 32A 320,,,"Direct",340,421,3320
+- -,FRA,HEL,Scandinavian Airlines System (SK),Scandinavian Airlines System,955,02:24,,,,,321 32A 320,,,"Codeshare",340,421,4319
+- -,FRA,HER,Aegean Airlines (A3),Aegean Airlines,1313,03:07,,,,,320,,,"Direct",340,1452,96
+- -,FRA,HER,Condor Flugdienst (DE),Condor Flugdienst,1313,03:07,,,,,738 757,,,"Direct",340,1452,1868
+- -,FRA,HER,Lufthansa (LH),Lufthansa,1313,03:07,,,,,320,,,"Codeshare",340,1452,3320
+- -,FRA,HER,TUIfly (X3),TUIfly,1313,03:07,,,,,73H,,,"Direct",340,1452,2681
+- -,FRA,HKG,Cathay Pacific (CX),Cathay Pacific,5684,11:52,,,,,77W,,,"Direct",340,3077,1680
+- -,FRA,HKG,Lufthansa (LH),Lufthansa,5684,11:52,,,,,74H,,,"Direct",340,3077,3320
+- -,FRA,HND,Lufthansa (LH),Lufthansa,5813,12:07,,,,,744,,,"Direct",340,2359,3320
+- -,FRA,HND,All Nippon Airways (NH),All Nippon Airways,5813,12:07,,,,,788 744 77W,,,"Direct",340,2359,324
+- -,FRA,HOG,Condor Flugdienst (DE),Condor Flugdienst,4903,10:18,,,,,767,,,"Direct",340,1910,1868
+- -,FRA,HRG,Condor Flugdienst (DE),Condor Flugdienst,2064,04:37,,,,,757,,,"Direct",340,1130,1868
+- -,FRA,IAD,Lufthansa (LH),Lufthansa,4068,08:38,,,,,333 74H,,,"Direct",340,3714,3320
+- -,FRA,IAD,United Airlines (UA),United Airlines,4068,08:38,,,,,777,,,"Direct",340,3714,5209
+- -,FRA,IAH,Lufthansa (LH),Lufthansa,5218,10:56,,,,,388,,,"Direct",340,3550,3320
+- -,FRA,IAH,United Airlines (UA),United Airlines,5218,10:56,,,,,763,,,"Direct",340,3550,5209
+- -,FRA,IBZ,Air Berlin (AB),Air Berlin,847,02:11,,,,,320,,,"Direct",340,1225,214
+- -,FRA,IBZ,Condor Flugdienst (DE),Condor Flugdienst,847,02:11,,,,,757 32S,,,"Direct",340,1225,1868
+- -,FRA,IBZ,Lufthansa (LH),Lufthansa,847,02:11,,,,,321 319,,,"Direct",340,1225,3320
+- -,FRA,ICN,Korean Air (KE),Korean Air,5305,11:06,,,,,744,,,"Direct",340,3930,3163
+- -,FRA,ICN,Lufthansa (LH),Lufthansa,5305,11:06,,,,,74H,,,"Direct",340,3930,3320
+- -,FRA,ICN,Asiana Airlines (OZ),Asiana Airlines,5305,11:06,,,,,74E,,,"Direct",340,3930,28
+- -,FRA,IKA,Iran Air (IR),Iran Air,2343,05:11,,,,,AB6,,,"Direct",340,4330,2922
+- -,FRA,IKA,Lufthansa (LH),Lufthansa,2343,05:11,,,,,343,,,"Direct",340,4330,3320
+- -,FRA,INN,Lufthansa (LH),Lufthansa,229,00:57,,,,,DH4,,,"Codeshare",340,1610,3320
+- -,FRA,INN,Austrian Airlines (OS),Austrian Airlines,229,00:57,,,,,DH4,,,"Codeshare",340,1610,491
+- -,FRA,ISL,Lufthansa (LH),Lufthansa,1156,02:48,,,,,321,,,"Direct",340,1701,3320
+- -,FRA,ISL,Turkish Airlines (TK),Turkish Airlines,1156,02:48,,,,,320 330 321 343 332,,,"Direct",340,1701,4951
+- -,FRA,ISL,US Airways (US),US Airways,1156,02:48,,,,,320 330 321 343 332,,,"Codeshare",340,1701,5265
+- -,FRA,JED,Air Canada (AC),Air Canada,2565,05:37,,,,,333,,,"Codeshare",340,2072,330
+- -,FRA,JED,Ethiopian Airlines (ET),Ethiopian Airlines,2565,05:37,,,,,333,,,"Codeshare",340,2072,2220
+- -,FRA,JED,Lufthansa (LH),Lufthansa,2565,05:37,,,,,333,,,"Direct",340,2072,3320
+- -,FRA,JED,Scandinavian Airlines System (SK),Scandinavian Airlines System,2565,05:37,,,,,333,,,"Codeshare",340,2072,4319
+- -,FRA,JED,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,2565,05:37,,,,,320,,,"Direct",340,2072,4533
+- -,FRA,JED,United Airlines (UA),United Airlines,2565,05:37,,,,,333,,,"Codeshare",340,2072,5209
+- -,FRA,JFK,Air France (AF),Air France,3843,08:11,,,,,76W,,,"Codeshare",340,3797,137
+- -,FRA,JFK,Delta Air Lines (DL),Delta Air Lines,3843,08:11,,,,,76W,,,"Direct",340,3797,2009
+- -,FRA,JFK,Ethiopian Airlines (ET),Ethiopian Airlines,3843,08:11,,,,,388,,,"Codeshare",340,3797,2220
+- -,FRA,JFK,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3843,08:11,,,,,76W,,,"Codeshare",340,3797,3090
+- -,FRA,JFK,Lufthansa (LH),Lufthansa,3843,08:11,,,,,388 744,,,"Direct",340,3797,3320
+- -,FRA,JFK,Singapore Airlines (SQ),Singapore Airlines,3843,08:11,,,,,388,,,"Direct",340,3797,4435
+- -,FRA,JFK,United Airlines (UA),United Airlines,3843,08:11,,,,,388 744,,,"Codeshare",340,3797,5209
+- -,FRA,JFK,US Airways (US),US Airways,3843,08:11,,,,,388,,,"Direct",340,3797,5265
+- -,FRA,JNB,Lufthansa (LH),Lufthansa,5396,11:17,,,,,388,,,"Direct",340,813,3320
+- -,FRA,JNB,South African Airways (SA),South African Airways,5396,11:17,,,,,346,,,"Direct",340,813,4305
+- -,FRA,JNB,US Airways (US),US Airways,5396,11:17,,,,,346,,,"Direct",340,813,5265
+- -,FRA,KBP,Lufthansa (LH),Lufthansa,983,02:27,,,,,32A 319 320,,,"Direct",340,2939,3320
+- -,FRA,KBP,Ukraine International Airlines (PS),Ukraine International Airlines,983,02:27,,,,,738,,,"Direct",340,2939,5282
+- -,FRA,KEF,Icelandair (FI),Icelandair,1491,03:28,,,,,75W,,,"Direct",340,16,2835
+- -,FRA,KGS,Condor Flugdienst (DE),Condor Flugdienst,1296,03:05,,,,,738 32S,,,"Direct",340,1458,1868
+- -,FRA,KGS,TUIfly (X3),TUIfly,1296,03:05,,,,,73H,,,"Direct",340,1458,2681
+- -,FRA,KIV,Air Moldova (9U),Air Moldova,953,02:24,,,,,E90,,,"Direct",340,1735,1073
+- -,FRA,KIX,Lufthansa (LH),Lufthansa,5751,12:00,,,,,744,,,"Direct",340,3992,3320
+- -,FRA,KIX,All Nippon Airways (NH),All Nippon Airways,5751,12:00,,,,,744,,,"Codeshare",340,3992,324
+- -,FRA,KRK,Lufthansa (LH),Lufthansa,496,01:29,,,,,735 321 733 32A 319,,,"Direct",340,669,3320
+- -,FRA,KRK,LOT Polish Airlines (LO),LOT Polish Airlines,496,01:29,,,,,735 733 321 32A 319,,,"Codeshare",340,669,3210
+- -,FRA,KTW,Lufthansa (LH),Lufthansa,464,01:25,,,,,735 CR7 733,,,"Codeshare",340,671,3320
+- -,FRA,KTW,LOT Polish Airlines (LO),LOT Polish Airlines,464,01:25,,,,,735 CR7 733,,,"Codeshare",340,671,3210
+- -,FRA,KUF,Lufthansa (LH),Lufthansa,1767,04:02,,,,,319,,,"Direct",340,2993,3320
+- -,FRA,KUL,American Airlines (AA),American Airlines,6208,12:54,,,,,777,,,"Direct",340,3304,24
+- -,FRA,KUL,Lufthansa (LH),Lufthansa,6208,12:54,,,,,346,,,"Direct",340,3304,3320
+- -,FRA,KUL,Malaysia Airlines (MH),Malaysia Airlines,6208,12:54,,,,,772,,,"Direct",340,3304,3378
+- -,FRA,KWI,Kuwait Airways (KU),Kuwait Airways,2496,05:29,,,,,340,,,"Direct",340,2176,3179
+- -,FRA,KWI,Lufthansa (LH),Lufthansa,2496,05:29,,,,,343,,,"Direct",340,2176,3320
+- -,FRA,LAD,Lufthansa (LH),Lufthansa,4076,08:39,,,,,343,,,"Direct",340,951,3320
+- -,FRA,LAS,Condor Flugdienst (DE),Condor Flugdienst,5566,11:37,,,,,767,,,"Direct",340,3877,1868
+- -,FRA,LAX,Lufthansa (LH),Lufthansa,5789,12:04,,,,,74H,,,"Direct",340,3484,3320
+- -,FRA,LAX,United Airlines (UA),United Airlines,5789,12:04,,,,,74H,,,"Codeshare",340,3484,5209
+- -,FRA,LCA,Air Canada (AC),Air Canada,1636,03:46,,,,,319 321,,,"Codeshare",340,1197,330
+- -,FRA,LCA,Cyprus Airways (CY),Cyprus Airways,1636,03:46,,,,,320,,,"Direct",340,1197,1942
+- -,FRA,LCA,Lufthansa (LH),Lufthansa,1636,03:46,,,,,32A 321,,,"Direct",340,1197,3320
+- -,FRA,LCY,Air Berlin (AB),Air Berlin,385,01:16,,,,,E70 E90 AR8,,,"Codeshare",340,503,214
+- -,FRA,LCY,British Airways (BA),British Airways,385,01:16,,,,,E70 E90 AR8,,,"Codeshare",340,503,1355
+- -,FRA,LCY,Lufthansa (LH),Lufthansa,385,01:16,,,,,E90,,,"Codeshare",340,503,3320
+- -,FRA,LED,Lufthansa (LH),Lufthansa,1085,02:40,,,,,32A 321 320,,,"Direct",340,2948,3320
+- -,FRA,LED,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,1085,02:40,,,,,319,,,"Direct",340,2948,130
+- -,FRA,LEJ,Lufthansa (LH),Lufthansa,186,00:52,,,,,CR7 E90 735,,,"Direct",340,348,3320
+- -,FRA,LHR,American Airlines (AA),American Airlines,406,01:18,,,,,320 767 319,,,"Codeshare",340,507,24
+- -,FRA,LHR,Air Berlin (AB),Air Berlin,406,01:18,,,,,320 767 319,,,"Codeshare",340,507,214
+- -,FRA,LHR,British Airways (BA),British Airways,406,01:18,,,,,320 767 319,,,"Direct",340,507,1355
+- -,FRA,LHR,Lufthansa (LH),Lufthansa,406,01:18,,,,,32A 319 320 321 733,,,"Direct",340,507,3320
+- -,FRA,LIN,Alitalia (AZ),Alitalia,318,01:08,,,,,E75,,,"Codeshare",340,1529,596
+- -,FRA,LIN,Air Dolomiti (EN),Air Dolomiti,318,01:08,,,,,321 E90 320 319 32A,,,"Direct",340,1529,807
+- -,FRA,LIN,Lufthansa (LH),Lufthansa,318,01:08,,,,,321 E90 320 319 32A,,,"Direct",340,1529,3320
+- -,FRA,LIN,Brussels Airlines (SN),Brussels Airlines,318,01:08,,,,,320 319,,,"Codeshare",340,1529,1531
+- -,FRA,LIS,Ethiopian Airlines (ET),Ethiopian Airlines,1163,02:49,,,,,321 32A,,,"Codeshare",340,1638,2220
+- -,FRA,LIS,Lufthansa (LH),Lufthansa,1163,02:49,,,,,321 32A,,,"Direct",340,1638,3320
+- -,FRA,LIS,SATA International (S4),SATA International,1163,02:49,,,,,319,,,"Codeshare",340,1638,4304
+- -,FRA,LIS,TAP Portugal (TP),TAP Portugal,1163,02:49,,,,,320 319 321,,,"Direct",340,1638,4869
+- -,FRA,LIS,US Airways (US),US Airways,1163,02:49,,,,,319 320,,,"Codeshare",340,1638,5265
+- -,FRA,LJU,Adria Airways (JP),Adria Airways,377,01:15,,,,,CR9 319,,,"Direct",340,1569,83
+- -,FRA,LJU,Lufthansa (LH),Lufthansa,377,01:15,,,,,CR9 319,,,"Codeshare",340,1569,3320
+- -,FRA,LNZ,Lufthansa (LH),Lufthansa,282,01:03,,,,,CR7 E90,,,"Direct",340,1611,3320
+- -,FRA,LNZ,Austrian Airlines (OS),Austrian Airlines,282,01:03,,,,,CR7 E90,,,"Codeshare",340,1611,491
+- -,FRA,LOS,Lufthansa (LH),Lufthansa,3016,06:31,,,,,333,,,"Direct",340,273,3320
+- -,FRA,LOS,Brussels Airlines (SN),Brussels Airlines,3016,06:31,,,,,333,,,"Codeshare",340,273,1531
+- -,FRA,LOS,United Airlines (UA),United Airlines,3016,06:31,,,,,333,,,"Codeshare",340,273,5209
+- -,FRA,LPA,Condor Flugdienst (DE),Condor Flugdienst,1977,04:27,,,,,757,,,"Direct",340,1054,1868
+- -,FRA,LPA,TUIfly (X3),TUIfly,1977,04:27,,,,,73H,,,"Direct",340,1054,2681
+- -,FRA,LUX,Luxair (LG),Luxair,109,00:43,,,,,ER4 DH4,,,"Direct",340,629,3329
+- -,FRA,LYS,Ethiopian Airlines (ET),Ethiopian Airlines,338,01:10,,,,,319 321,,,"Codeshare",340,1335,2220
+- -,FRA,LYS,Lufthansa (LH),Lufthansa,338,01:10,,,,,32A 319 733 321 735,,,"Direct",340,1335,3320
+- -,FRA,LYS,Singapore Airlines (SQ),Singapore Airlines,338,01:10,,,,,32A 733 735,,,"Codeshare",340,1335,4435
+- -,FRA,MAA,Air India Limited (AI),Air India Limited,4715,09:55,,,,,343,,,"Codeshare",340,3144,218
+- -,FRA,MAA,Lufthansa (LH),Lufthansa,4715,09:55,,,,,343,,,"Direct",340,3144,3320
+- -,FRA,MAD,Air Berlin (AB),Air Berlin,883,02:15,,,,,32A,,,"Codeshare",340,1229,214
+- -,FRA,MAD,Finnair (AY),Finnair,883,02:15,,,,,32A,,,"Codeshare",340,1229,2350
+- -,FRA,MAD,Ethiopian Airlines (ET),Ethiopian Airlines,883,02:15,,,,,321 319 32A,,,"Codeshare",340,1229,2220
+- -,FRA,MAD,Iberia Airlines (IB),Iberia Airlines,883,02:15,,,,,32S,,,"Codeshare",340,1229,2822
+- -,FRA,MAD,LAN Airlines (LA),LAN Airlines,883,02:15,,,,,787,,,"Direct",340,1229,3200
+- -,FRA,MAD,Lufthansa (LH),Lufthansa,883,02:15,,,,,32A 321 319 320,,,"Direct",340,1229,3320
+- -,FRA,MAD,Air Europa (UX),Air Europa,883,02:15,,,,,E90,,,"Direct",340,1229,90
+- -,FRA,MAD,Vietnam Airlines (VN),Vietnam Airlines,883,02:15,,,,,738,,,"Direct",340,1229,5309
+- -,FRA,MAH,TUIfly (X3),TUIfly,733,01:57,,,,,73H,,,"Direct",340,1231,2681
+- -,FRA,MAN,Lufthansa (LH),Lufthansa,517,01:32,,,,,319 321 32A 320 733,,,"Direct",340,478,3320
+- -,FRA,MBA,Condor Flugdienst (DE),Condor Flugdienst,4165,08:49,,,,,767,,,"Direct",340,1145,1868
+- -,FRA,MBJ,Condor Flugdienst (DE),Condor Flugdienst,5089,10:40,,,,,767,,,"Direct",340,1780,1868
+- -,FRA,MCO,Lufthansa (LH),Lufthansa,4732,09:57,,,,,744,,,"Direct",340,3878,3320
+- -,FRA,MCO,United Airlines (UA),United Airlines,4732,09:57,,,,,744,,,"Codeshare",340,3878,5209
+- -,FRA,MCT,Oman Air (WY),Oman Air,3216,06:55,,,,,333 332,,,"Direct",340,2194,3778
+- -,FRA,MEX,Lufthansa (LH),Lufthansa,5931,12:21,,,,,74H,,,"Direct",340,1824,3320
+- -,FRA,MIA,Lufthansa (LH),Lufthansa,4821,10:08,,,,,388,,,"Direct",340,3576,3320
+- -,FRA,MIA,United Airlines (UA),United Airlines,4821,10:08,,,,,388,,,"Codeshare",340,3576,5209
+- -,FRA,MLA,Air Malta (KM),Air Malta,1022,02:32,,,,,319 320,,,"Direct",340,1606,242
+- -,FRA,MLA,Lufthansa (LH),Lufthansa,1022,02:32,,,,,321 32A,,,"Direct",340,1606,3320
+- -,FRA,MLE,Condor Flugdienst (DE),Condor Flugdienst,4896,10:17,,,,,767,,,"Direct",340,3156,1868
+- -,FRA,MPL,Lufthansa (LH),Lufthansa,495,01:29,,,,,735,,,"Direct",340,1359,3320
+- -,FRA,MRS,Ethiopian Airlines (ET),Ethiopian Airlines,482,01:27,,,,,320 32A 319,,,"Codeshare",340,1353,2220
+- -,FRA,MRS,Lufthansa (LH),Lufthansa,482,01:27,,,,,E90 320 32A 319,,,"Direct",340,1353,3320
+- -,FRA,MRU,Condor Flugdienst (DE),Condor Flugdienst,5713,11:55,,,,,767,,,"Direct",340,893,1868
+- -,FRA,MSQ,Belavia Belarusian Airlines (B2),Belavia Belarusian Airlines,866,02:13,,,,,735 E75,,,"Direct",340,2954,1478
+- -,FRA,MSQ,Lufthansa (LH),Lufthansa,866,02:13,,,,,E90,,,"Codeshare",340,2954,3320
+- -,FRA,MUC,Ethiopian Airlines (ET),Ethiopian Airlines,185,00:52,,,,,320 319,,,"Codeshare",340,346,2220
+- -,FRA,MUC,Lufthansa (LH),Lufthansa,185,00:52,,,,,320 321 32A 319,,,"Direct",340,346,3320
+- -,FRA,MXP,Ethiopian Airlines (ET),Ethiopian Airlines,304,01:06,,,,,320 319 321,,,"Codeshare",340,1524,2220
+- -,FRA,MXP,Lufthansa (LH),Lufthansa,304,01:06,,,,,320 319 321 32A 733,,,"Direct",340,1524,3320
+- -,FRA,NAP,Air Canada (AC),Air Canada,689,01:52,,,,,321,,,"Codeshare",340,1561,330
+- -,FRA,NAP,Lufthansa (LH),Lufthansa,689,01:52,,,,,321 32A 320,,,"Direct",340,1561,3320
+- -,FRA,NBE,Nouvel Air Tunisie (BJ),Nouvel Air Tunisie,968,02:26,,,,,320,,,"Direct",340,7447,3740
+- -,FRA,NBE,Tunisair (TU),Tunisair,968,02:26,,,,,32A,,,"Direct",340,7447,4870
+- -,FRA,NBO,Condor Flugdienst (DE),Condor Flugdienst,3922,08:20,,,,,767,,,"Direct",340,4059,1868
+- -,FRA,NCE,Lufthansa (LH),Lufthansa,444,01:23,,,,,32A 319 321 320,,,"Direct",340,1354,3320
+- -,FRA,NDR,Royal Air Maroc (AT),Royal Air Maroc,1191,02:52,,,,,738,,,"Direct",340,5673,4248
+- -,FRA,NGO,Lufthansa (LH),Lufthansa,5771,12:02,,,,,343,,,"Direct",340,3942,3320
+- -,FRA,NGO,All Nippon Airways (NH),All Nippon Airways,5771,12:02,,,,,343,,,"Codeshare",340,3942,324
+- -,FRA,NKG,Air China (CA),Air China,5362,11:13,,,,,343,,,"Codeshare",340,3388,751
+- -,FRA,NKG,Lufthansa (LH),Lufthansa,5362,11:13,,,,,343,,,"Direct",340,3388,3320
+- -,FRA,NRT,Japan Airlines (JL),Japan Airlines,5816,12:07,,,,,773,,,"Direct",340,2279,2987
+- -,FRA,NUE,Lufthansa (LH),Lufthansa,117,00:44,,,,,319 735 CR7 321 733 E90 32A 320,,,"Direct",340,347,3320
+- -,FRA,OLB,Lufthansa (LH),Lufthansa,632,01:45,,,,,E90,,,"Codeshare",340,1520,3320
+- -,FRA,OPO,Lufthansa (LH),Lufthansa,1026,02:33,,,,,321,,,"Direct",340,1636,3320
+- -,FRA,OPO,TAP Portugal (TP),TAP Portugal,1026,02:33,,,,,321,,,"Codeshare",340,1636,4869
+- -,FRA,ORD,Lufthansa (LH),Lufthansa,4329,09:09,,,,,74H 744,,,"Direct",340,3830,3320
+- -,FRA,ORD,United Airlines (UA),United Airlines,4329,09:09,,,,,777 744,,,"Direct",340,3830,5209
+- -,FRA,OSL,Ethiopian Airlines (ET),Ethiopian Airlines,703,01:54,,,,,32A,,,"Codeshare",340,644,2220
+- -,FRA,OSL,Lufthansa (LH),Lufthansa,703,01:54,,,,,319 32A 320,,,"Direct",340,644,3320
+- -,FRA,OSL,Scandinavian Airlines System (SK),Scandinavian Airlines System,703,01:54,,,,,738 73W 73H 73G 736,,,"Direct",340,644,4319
+- -,FRA,OTP,Ethiopian Airlines (ET),Ethiopian Airlines,899,02:17,,,,,32A 320 319,,,"Codeshare",340,1657,2220
+- -,FRA,OTP,Lufthansa (LH),Lufthansa,899,02:17,,,,,320 733 32A 319,,,"Direct",340,1657,3320
+- -,FRA,OTP,Tarom (RO),Tarom,899,02:17,,,,,318,,,"Direct",340,1657,5179
+- -,FRA,OVB,S7 Airlines (S7),S7 Airlines,2983,06:27,,,,,738,,,"Direct",340,4078,4329
+- -,FRA,PDL,SATA International (S4),SATA International,1882,04:15,,,,,320,,,"Direct",340,1633,4304
+- -,FRA,PEK,Air China (CA),Air China,4836,10:10,,,,,773,,,"Direct",340,3364,751
+- -,FRA,PEK,Lufthansa (LH),Lufthansa,4836,10:10,,,,,388,,,"Direct",340,3364,3320
+- -,FRA,PHL,American Airlines (AA),American Airlines,3936,08:22,,,,,332 767,,,"Direct",340,3752,24
+- -,FRA,PHL,Lufthansa (LH),Lufthansa,3936,08:22,,,,,343,,,"Direct",340,3752,3320
+- -,FRA,PHL,US Airways (US),US Airways,3936,08:22,,,,,332 762,,,"Direct",340,3752,5265
+- -,FRA,PMI,Air Berlin (AB),Air Berlin,777,02:03,,,,,320 321 332,,,"Direct",340,3998,214
+- -,FRA,PMI,Condor Flugdienst (DE),Condor Flugdienst,777,02:03,,,,,757,,,"Direct",340,3998,1868
+- -,FRA,PMI,Lufthansa (LH),Lufthansa,777,02:03,,,,,319 32A,,,"Direct",340,3998,3320
+- -,FRA,PMI,TUIfly (X3),TUIfly,777,02:03,,,,,73H,,,"Direct",340,3998,2681
+- -,FRA,PMO,Lufthansa (LH),Lufthansa,848,02:11,,,,,E90,,,"Codeshare",340,1512,3320
+- -,FRA,PNQ,Air India Limited (AI),Air India Limited,4151,08:48,,,,,73H,,,"Codeshare",340,3017,218
+- -,FRA,PNQ,Lufthansa (LH),Lufthansa,4151,08:48,,,,,73H,,,"Codeshare",340,3017,3320
+- -,FRA,POP,Condor Flugdienst (DE),Condor Flugdienst,4702,09:54,,,,,767,,,"Direct",340,1761,1868
+- -,FRA,POZ,Lufthansa (LH),Lufthansa,392,01:17,,,,,CR7,,,"Direct",340,674,3320
+- -,FRA,POZ,LOT Polish Airlines (LO),LOT Polish Airlines,392,01:17,,,,,CR7,,,"Codeshare",340,674,3210
+- -,FRA,PRG,Ethiopian Airlines (ET),Ethiopian Airlines,252,01:00,,,,,321,,,"Codeshare",340,1587,2220
+- -,FRA,PRG,Lufthansa (LH),Lufthansa,252,01:00,,,,,321 733 32A 320,,,"Direct",340,1587,3320
+- -,FRA,PRG,Czech Airlines (OK),Czech Airlines,252,01:00,,,,,AT7 319,,,"Direct",340,1587,1946
+- -,FRA,PRG,Travel Service (QS),Travel Service,252,01:00,,,,,AT7 319,,,"Direct",340,1587,5097
+- -,FRA,PRN,Adria Airways (JP),Adria Airways,784,02:04,,,,,319,,,"Direct",340,1742,83
+- -,FRA,PRN,Lufthansa (LH),Lufthansa,784,02:04,,,,,319,,,"Codeshare",340,1742,3320
+- -,FRA,PUJ,Condor Flugdienst (DE),Condor Flugdienst,4665,09:49,,,,,767,,,"Direct",340,1760,1868
+- -,FRA,PUY,Lufthansa (LH),Lufthansa,433,01:21,,,,,319 320,,,"Codeshare",340,1203,3320
+- -,FRA,PUY,Croatia Airlines (OU),Croatia Airlines,433,01:21,,,,,319 320,,,"Direct",340,1203,1925
+- -,FRA,PVG,Air China (CA),Air China,5500,11:30,,,,,330,,,"Direct",340,3406,751
+- -,FRA,PVG,Lufthansa (LH),Lufthansa,5500,11:30,,,,,388 744,,,"Direct",340,3406,3320
+- -,FRA,PVG,China Eastern Airlines (MU),China Eastern Airlines,5500,11:30,,,,,332,,,"Direct",340,3406,1758
+- -,FRA,REC,Condor Flugdienst (DE),Condor Flugdienst,4787,10:04,,,,,767,,,"Direct",340,2610,1868
+- -,FRA,RHO,Condor Flugdienst (DE),Condor Flugdienst,1352,03:12,,,,,32S 738,,,"Direct",340,1472,1868
+- -,FRA,RHO,TUIfly (X3),TUIfly,1352,03:12,,,,,73H,,,"Direct",340,1472,2681
+- -,FRA,RIX,Air Berlin (AB),Air Berlin,788,02:04,,,,,735 DH4 73C,,,"Codeshare",340,3953,214
+- -,FRA,RIX,Air Baltic (BT),Air Baltic,788,02:04,,,,,735 DH4 73C,,,"Direct",340,3953,333
+- -,FRA,RIX,Lufthansa (LH),Lufthansa,788,02:04,,,,,321 320,,,"Direct",340,3953,3320
+- -,FRA,RUH,Lufthansa (LH),Lufthansa,2665,05:49,,,,,333,,,"Direct",340,2082,3320
+- -,FRA,RUH,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,2665,05:49,,,,,320,,,"Direct",340,2082,4533
+- -,FRA,RZE,Lufthansa (LH),Lufthansa,595,01:41,,,,,CR7,,,"Direct",340,675,3320
+- -,FRA,SAW,Pegasus Airlines (PC),Pegasus Airlines,1179,02:51,,,,,738,,,"Direct",340,4317,3926
+- -,FRA,SAW,Turkish Airlines (TK),Turkish Airlines,1179,02:51,,,,,738,,,"Direct",340,4317,4951
+- -,FRA,SDQ,Condor Flugdienst (DE),Condor Flugdienst,4730,09:57,,,,,767,,,"Direct",340,1762,1868
+- -,FRA,SEA,Condor Flugdienst (DE),Condor Flugdienst,5090,10:40,,,,,767,,,"Direct",340,3577,1868
+- -,FRA,SEA,Lufthansa (LH),Lufthansa,5090,10:40,,,,,333 343,,,"Direct",340,3577,3320
+- -,FRA,SEA,United Airlines (UA),United Airlines,5090,10:40,,,,,333 343,,,"Codeshare",340,3577,5209
+- -,FRA,SEZ,Condor Flugdienst (DE),Condor Flugdienst,4695,09:53,,,,,767,,,"Direct",340,994,1868
+- -,FRA,SFO,Lufthansa (LH),Lufthansa,5681,11:51,,,,,744 388,,,"Direct",340,3469,3320
+- -,FRA,SFO,Air New Zealand (NZ),Air New Zealand,5681,11:51,,,,,744,,,"Codeshare",340,3469,345
+- -,FRA,SFO,United Airlines (UA),United Airlines,5681,11:51,,,,,744,,,"Direct",340,3469,5209
+- -,FRA,SGN,Alitalia (AZ),Alitalia,5996,12:29,,,,,777,,,"Codeshare",340,3205,596
+- -,FRA,SGN,Vietnam Airlines (VN),Vietnam Airlines,5996,12:29,,,,,777,,,"Direct",340,3205,5309
+- -,FRA,SHE,Air China (CA),Air China,4980,10:27,,,,,343,,,"Codeshare",340,4144,751
+- -,FRA,SHE,Lufthansa (LH),Lufthansa,4980,10:27,,,,,343,,,"Direct",340,4144,3320
+- -,FRA,SIN,Lufthansa (LH),Lufthansa,6383,13:15,,,,,388,,,"Direct",340,3316,3320
+- -,FRA,SIN,Singapore Airlines (SQ),Singapore Airlines,6383,13:15,,,,,388 77W,,,"Direct",340,3316,4435
+- -,FRA,SIN,US Airways (US),US Airways,6383,13:15,,,,,388,,,"Direct",340,3316,5265
+- -,FRA,SJU,Condor Flugdienst (DE),Condor Flugdienst,4567,09:38,,,,,767,,,"Direct",340,2890,1868
+- -,FRA,SKG,Aegean Airlines (A3),Aegean Airlines,956,02:24,,,,,321,,,"Direct",340,1486,96
+- -,FRA,SKG,Lufthansa (LH),Lufthansa,956,02:24,,,,,321,,,"Codeshare",340,1486,3320
+- -,FRA,SKG,US Airways (US),US Airways,956,02:24,,,,,321,,,"Codeshare",340,1486,5265
+- -,FRA,SOF,Bulgaria Air (FB),Bulgaria Air,867,02:14,,,,,E90 319,,,"Direct",340,1194,1548
+- -,FRA,SOF,Lufthansa (LH),Lufthansa,867,02:14,,,,,320 32A 319 321,,,"Direct",340,1194,3320
+- -,FRA,SPC,Condor Flugdienst (DE),Condor Flugdienst,2019,04:32,,,,,738,,,"Direct",340,1053,1868
+- -,FRA,SPU,Condor Flugdienst (DE),Condor Flugdienst,577,01:39,,,,,32S,,,"Direct",340,1206,1868
+- -,FRA,SPU,Lufthansa (LH),Lufthansa,577,01:39,,,,,319,,,"Direct",340,1206,3320
+- -,FRA,SPU,Croatia Airlines (OU),Croatia Airlines,577,01:39,,,,,320 319,,,"Direct",340,1206,1925
+- -,FRA,SSA,Condor Flugdienst (DE),Condor Flugdienst,5187,10:52,,,,,767,,,"Direct",340,2621,1868
+- -,FRA,STR,Lufthansa (LH),Lufthansa,97,00:41,,,,,319 735 320 32A,,,"Direct",340,350,3320
+- -,FRA,SVG,Lufthansa (LH),Lufthansa,621,01:44,,,,,319 733,,,"Direct",340,666,3320
+- -,FRA,SVG,Scandinavian Airlines System (SK),Scandinavian Airlines System,621,01:44,,,,,735 319 733,,,"Codeshare",340,666,4319
+- -,FRA,SVO,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,1255,03:00,,,,,320 319,,,"Direct",340,2985,130
+- -,FRA,SZG,Lufthansa (LH),Lufthansa,253,01:00,,,,,100,,,"Codeshare",340,1612,3320
+- -,FRA,SZG,Austrian Airlines (OS),Austrian Airlines,253,01:00,,,,,100,,,"Codeshare",340,1612,491
+- -,FRA,TAB,Condor Flugdienst (DE),Condor Flugdienst,4715,09:55,,,,,767,,,"Direct",340,2901,1868
+- -,FRA,TAS,Uzbekistan Airways (HY),Uzbekistan Airways,2909,06:19,,,,,763 764 752,,,"Direct",340,2983,5281
+- -,FRA,TFS,Condor Flugdienst (DE),Condor Flugdienst,2011,04:31,,,,,757 738,,,"Direct",340,1056,1868
+- -,FRA,TFS,TUIfly (X3),TUIfly,2011,04:31,,,,,73H,,,"Direct",340,1056,2681
+- -,FRA,TGD,Montenegro Airlines (YM),Montenegro Airlines,734,01:58,,,,,100,,,"Direct",340,1741,3539
+- -,FRA,TIA,Adria Airways (JP),Adria Airways,800,02:06,,,,,319,,,"Direct",340,1190,83
+- -,FRA,TLL,Lufthansa (LH),Lufthansa,911,02:19,,,,,321 320 32A,,,"Direct",340,415,3320
+- -,FRA,TLS,Ethiopian Airlines (ET),Ethiopian Airlines,557,01:36,,,,,733,,,"Codeshare",340,1273,2220
+- -,FRA,TLS,Lufthansa (LH),Lufthansa,557,01:36,,,,,319 735 733,,,"Direct",340,1273,3320
+- -,FRA,TLV,Lufthansa (LH),Lufthansa,1833,04:09,,,,,321,,,"Direct",340,1590,3320
+- -,FRA,TLV,El Al Israel Airlines (LY),El Al Israel Airlines,1833,04:09,,,,,738,,,"Direct",340,1590,2150
+- -,FRA,TPE,China Airlines (CI),China Airlines,5815,12:07,,,,,744,,,"Direct",340,2276,1756
+- -,FRA,TRN,Lufthansa (LH),Lufthansa,336,01:10,,,,,735 E90 CR7,,,"Direct",340,1526,3320
+- -,FRA,TSE,Air Astana (KC),Air Astana,2675,05:51,,,,,321 757,,,"Direct",340,2910,1006
+- -,FRA,TSE,Lufthansa (LH),Lufthansa,2675,05:51,,,,,333,,,"Direct",340,2910,3320
+- -,FRA,TSE,United Airlines (UA),United Airlines,2675,05:51,,,,,333,,,"Codeshare",340,2910,5209
+- -,FRA,TUN,Lufthansa (LH),Lufthansa,914,02:19,,,,,319,,,"Direct",340,287,3320
+- -,FRA,TUN,Tunisair (TU),Tunisair,914,02:19,,,,,32A 320,,,"Direct",340,287,4870
+- -,FRA,TXL,Air Berlin (AB),Air Berlin,268,01:02,,,,,320 738 73G 319 DH4,,,"Direct",340,351,214
+- -,FRA,TXL,Ethiopian Airlines (ET),Ethiopian Airlines,268,01:02,,,,,321 320 32A,,,"Codeshare",340,351,2220
+- -,FRA,TXL,Hainan Airlines (HU),Hainan Airlines,268,01:02,,,,,320 738,,,"Direct",340,351,2660
+- -,FRA,TXL,Lufthansa (LH),Lufthansa,268,01:02,,,,,321 320 32A,,,"Direct",340,351,3320
+- -,FRA,VCE,Lufthansa (LH),Lufthansa,358,01:12,,,,,321 32A 319,,,"Direct",340,1551,3320
+- -,FRA,VIE,Air Berlin (AB),Air Berlin,385,01:16,,,,,E90 320,,,"Codeshare",340,1613,214
+- -,FRA,VIE,Ethiopian Airlines (ET),Ethiopian Airlines,385,01:16,,,,,321,,,"Codeshare",340,1613,2220
+- -,FRA,VIE,Niki (HG),Niki,385,01:16,,,,,E90 320,,,"Direct",340,1613,3661
+- -,FRA,VIE,Lufthansa (LH),Lufthansa,385,01:16,,,,,321,,,"Direct",340,1613,3320
+- -,FRA,VIE,Austrian Airlines (OS),Austrian Airlines,385,01:16,,,,,321 320 319,,,"Codeshare",340,1613,491
+- -,FRA,VKO,Lufthansa (LH),Lufthansa,1247,02:59,,,,,32A 321,,,"Direct",340,2988,3320
+- -,FRA,VKO,Transaero Airlines (UN),Transaero Airlines,1247,02:59,,,,,738 73G,,,"Direct",340,2988,5067
+- -,FRA,VLC,Air Canada (AC),Air Canada,851,02:12,,,,,319,,,"Codeshare",340,1246,330
+- -,FRA,VLC,Lufthansa (LH),Lufthansa,851,02:12,,,,,32A 319,,,"Direct",340,1246,3320
+- -,FRA,VNO,Air Canada (AC),Air Canada,771,02:02,,,,,321,,,"Codeshare",340,3959,330
+- -,FRA,VNO,Lufthansa (LH),Lufthansa,771,02:02,,,,,321 320,,,"Direct",340,3959,3320
+- -,FRA,VRA,Condor Flugdienst (DE),Condor Flugdienst,5010,10:31,,,,,767,,,"Direct",340,1923,1868
+- -,FRA,VRN,Air Dolomiti (EN),Air Dolomiti,337,01:10,,,,,E95,,,"Direct",340,1550,807
+- -,FRA,VRN,Lufthansa (LH),Lufthansa,337,01:10,,,,,E95,,,"Codeshare",340,1550,3320
+- -,FRA,WAW,Ethiopian Airlines (ET),Ethiopian Airlines,556,01:36,,,,,321 320 32A 319,,,"Codeshare",340,679,2220
+- -,FRA,WAW,Lufthansa (LH),Lufthansa,556,01:36,,,,,321 320 32A 319,,,"Direct",340,679,3320
+- -,FRA,WAW,LOT Polish Airlines (LO),LOT Polish Airlines,556,01:36,,,,,E75 E95 E70,,,"Direct",340,679,3210
+- -,FRA,WDH,Air Namibia (SW),Air Namibia,5036,10:34,,,,,332,,,"Direct",340,4105,153
+- -,FRA,WRO,Lufthansa (LH),Lufthansa,371,01:14,,,,,CR7 32A,,,"Direct",340,680,3320
+- -,FRA,WRO,LOT Polish Airlines (LO),LOT Polish Airlines,371,01:14,,,,,CR7 32A 321,,,"Codeshare",340,680,3210
+- -,FRA,XRY,Condor Flugdienst (DE),Condor Flugdienst,1170,02:50,,,,,767 738 757,,,"Direct",340,1226,1868
+- -,FRA,XRY,TUIfly (X3),TUIfly,1170,02:50,,,,,73H,,,"Direct",340,1226,2681
+- -,FRA,YHZ,Condor Flugdienst (DE),Condor Flugdienst,3251,07:00,,,,,767,,,"Direct",340,73,1868
+- -,FRA,YOW,Air Canada (AC),Air Canada,3716,07:55,,,,,333,,,"Direct",340,100,330
+- -,FRA,YOW,Lufthansa (LH),Lufthansa,3716,07:55,,,,,333,,,"Codeshare",340,100,3320
+- -,FRA,YUL,Air Canada (AC),Air Canada,3635,07:46,,,,,333,,,"Direct",340,146,330
+- -,FRA,YUL,Lufthansa (LH),Lufthansa,3635,07:46,,,,,333,,,"Codeshare",340,146,3320
+- -,FRA,YVR,Air Canada (AC),Air Canada,5006,10:30,,,,,744,,,"Codeshare",340,156,330
+- -,FRA,YVR,Condor Flugdienst (DE),Condor Flugdienst,5006,10:30,,,,,767,,,"Direct",340,156,1868
+- -,FRA,YVR,Lufthansa (LH),Lufthansa,5006,10:30,,,,,744,,,"Direct",340,156,3320
+- -,FRA,YYC,Air Canada (AC),Air Canada,4675,09:51,,,,,77W,,,"Direct",340,178,330
+- -,FRA,YYC,Lufthansa (LH),Lufthansa,4675,09:51,,,,,77W,,,"Codeshare",340,178,3320
+- -,FRA,YYC,Air Transat (TS),Air Transat,4675,09:51,,,,,330,,,"Direct",340,178,1317
+- -,FRA,YYZ,Air Canada (AC),Air Canada,3939,08:22,,,,,77W,,,"Direct",340,193,330
+- -,FRA,YYZ,Lufthansa (LH),Lufthansa,3939,08:22,,,,,744,,,"Direct",340,193,3320
+- -,FRA,ZAD,Lufthansa (LH),Lufthansa,518,01:32,,,,,319,,,"Codeshare",340,1209,3320
+- -,FRA,ZAD,Croatia Airlines (OU),Croatia Airlines,518,01:32,,,,,319,,,"Direct",340,1209,1925
+- -,FRA,ZAG,Lufthansa (LH),Lufthansa,456,01:24,,,,,733 32A,,,"Direct",340,1208,3320
+- -,FRA,ZAG,Croatia Airlines (OU),Croatia Airlines,456,01:24,,,,,320 319,,,"Direct",340,1208,1925
+- -,FRA,ZRH,Ethiopian Airlines (ET),Ethiopian Airlines,177,00:51,,,,,319,,,"Codeshare",340,1678,2220
+- -,FRA,ZRH,Lufthansa (LH),Lufthansa,177,00:51,,,,,733 E90 735 319 320 321,,,"Direct",340,1678,3320
+- -,FRA,ZRH,Swiss International Air Lines (LX),Swiss International Air Lines,177,00:51,,,,,320 AR1,,,"Direct",340,1678,4559

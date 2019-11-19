@@ -1,0 +1,320 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,YYZ,OPRN,Pakistan International Airlines (PK),Pakistan International Airlines,6822,14:08,,,,,777,,,"Direct",193,2223,3871
+- -,YYZ,ADD,Ethiopian Airlines (ET),Ethiopian Airlines,7142,14:47,,,,,788,,,"Direct",193,1107,2220
+- -,YYZ,AMS,Delta Air Lines (DL),Delta Air Lines,3719,07:56,,,,,M11 333 747 74M 332,,,"Codeshare",193,580,2009
+- -,YYZ,AMS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3719,07:56,,,,,M11 330 747 74M,,,"Direct",193,580,3090
+- -,YYZ,AMS,Air Transat (TS),Air Transat,3719,07:56,,,,,310,,,"Direct",193,580,1317
+- -,YYZ,ANU,Air Canada (AC),Air Canada,2107,04:42,,,,,320,,,"Direct",193,2874,330
+- -,YYZ,ANU,WestJet (WS),WestJet,2107,04:42,,,,,73W,,,"Direct",193,2874,5416
+- -,YYZ,ATH,Air Transat (TS),Air Transat,5047,10:35,,,,,330,,,"Direct",193,3941,1317
+- -,YYZ,ATL,Air Canada (AC),Air Canada,739,01:58,,,,,CRA CRJ,,,"Codeshare",193,3682,330
+- -,YYZ,ATL,Air France (AF),Air France,739,01:58,,,,,CR7,,,"Codeshare",193,3682,137
+- -,YYZ,ATL,Delta Air Lines (DL),Delta Air Lines,739,01:58,,,,,,,,"Direct",193,3682,2009
+- -,YYZ,ATL,Turkish Airlines (TK),Turkish Airlines,739,01:58,,,,,CRA,,,"Codeshare",193,3682,4951
+- -,YYZ,ATL,United Airlines (UA),United Airlines,739,01:58,,,,,CRA CRJ,,,"Codeshare",193,3682,5209
+- -,YYZ,ATL,WestJet (WS),WestJet,739,01:58,,,,,CR9 CR7,,,"Codeshare",193,3682,5416
+- -,YYZ,AUA,Air Canada (AC),Air Canada,2227,04:57,,,,,319,,,"Direct",193,2895,330
+- -,YYZ,AUA,WestJet (WS),WestJet,2227,04:57,,,,,73W,,,"Direct",193,2895,5416
+- -,YYZ,AUH,Air Canada (AC),Air Canada,6907,14:18,,,,,77W,,,"Direct",193,2179,330
+- -,YYZ,AUH,Etihad Airways (EY),Etihad Airways,6907,14:18,,,,,77W,,,"Direct",193,2179,2222
+- -,YYZ,AZS,Air Canada (AC),Air Canada,1780,04:03,,,,,319,,,"Direct",193,5810,330
+- -,YYZ,AZS,WestJet (WS),WestJet,1780,04:03,,,,,73W,,,"Direct",193,5810,5416
+- -,YYZ,BCN,Air Canada (AC),Air Canada,3985,08:28,,,,,763,,,"Codeshare",193,1218,330
+- -,YYZ,BCN,Air Transat (TS),Air Transat,3985,08:28,,,,,310,,,"Direct",193,1218,1317
+- -,YYZ,BDA,Air Canada (AC),Air Canada,1124,02:44,,,,,319,,,"Direct",193,4069,330
+- -,YYZ,BDA,WestJet (WS),WestJet,1124,02:44,,,,,73W,,,"Direct",193,4069,5416
+- -,YYZ,BDL,Air Canada (AC),Air Canada,371,01:14,,,,,BEH,,,"Codeshare",193,3825,330
+- -,YYZ,BDL,United Airlines (UA),United Airlines,371,01:14,,,,,BEH,,,"Codeshare",193,3825,5209
+- -,YYZ,BGI,Air Canada (AC),Air Canada,2427,05:21,,,,,319,,,"Direct",193,2875,330
+- -,YYZ,BGI,WestJet (WS),WestJet,2427,05:21,,,,,73W,,,"Direct",193,2875,5416
+- -,YYZ,BNA,Air Canada (AC),Air Canada,640,01:46,,,,,CRJ,,,"Codeshare",193,3690,330
+- -,YYZ,BOG,Air Canada (AC),Air Canada,2712,05:55,,,,,763,,,"Direct",193,2709,330
+- -,YYZ,BOG,Avianca - Aerovias Nacionales de Colombia (AV),Avianca - Aerovias Nacionales de Colombia,2712,05:55,,,,,763,,,"Codeshare",193,2709,515
+- -,YYZ,BOS,Air Canada (AC),Air Canada,444,01:23,,,,,E90 E75,,,"Direct",193,3448,330
+- -,YYZ,BOS,United Airlines (UA),United Airlines,444,01:23,,,,,E90 E75,,,"Codeshare",193,3448,5209
+- -,YYZ,BRU,Jet Airways (9W),Jet Airways,3753,08:00,,,,,332 333,,,"Direct",193,302,3000
+- -,YYZ,BRU,Etihad Airways (EY),Etihad Airways,3753,08:00,,,,,330,,,"Direct",193,302,2222
+- -,YYZ,BWI,Air Canada (AC),Air Canada,346,01:11,,,,,DH1,,,"Codeshare",193,3849,330
+- -,YYZ,CAI,Egyptair (MS),Egyptair,5730,11:57,,,,,773,,,"Direct",193,1128,2143
+- -,YYZ,CCC,Air Canada (AC),Air Canada,1466,03:25,,,,,319,,,"Direct",193,1901,330
+- -,YYZ,CCC,WestJet (WS),WestJet,1466,03:25,,,,,73W,,,"Direct",193,1901,5416
+- -,YYZ,CDG,Air Canada (AC),Air Canada,3738,07:58,,,,,77W,,,"Direct",193,1382,330
+- -,YYZ,CDG,Air France (AF),Air France,3738,07:58,,,,,772,,,"Direct",193,1382,137
+- -,YYZ,CDG,Alitalia (AZ),Alitalia,3738,07:58,,,,,772,,,"Codeshare",193,1382,596
+- -,YYZ,CDG,Delta Air Lines (DL),Delta Air Lines,3738,07:58,,,,,772,,,"Codeshare",193,1382,2009
+- -,YYZ,CDG,Lufthansa (LH),Lufthansa,3738,07:58,,,,,77W,,,"Codeshare",193,1382,3320
+- -,YYZ,CDG,Air Transat (TS),Air Transat,3738,07:58,,,,,330,,,"Direct",193,1382,1317
+- -,YYZ,CLE,Air Canada (AC),Air Canada,192,00:53,,,,,DH1,,,"Codeshare",193,3486,330
+- -,YYZ,CLE,United Airlines (UA),United Airlines,192,00:53,,,,,DH2 DH3,,,"Codeshare",193,3486,5209
+- -,YYZ,CLT,American Airlines (AA),American Airlines,588,01:40,,,,,E75 CRJ,,,"Codeshare",193,3876,24
+- -,YYZ,CLT,Air Canada (AC),Air Canada,588,01:40,,,,,CRJ,,,"Codeshare",193,3876,330
+- -,YYZ,CLT,US Airways (US),US Airways,588,01:40,,,,,E75 CRJ,,,"Codeshare",193,3876,5265
+- -,YYZ,CMH,Air Canada (AC),Air Canada,304,01:06,,,,,DH1,,,"Codeshare",193,3759,330
+- -,YYZ,CMH,United Airlines (UA),United Airlines,304,01:06,,,,,DH1,,,"Codeshare",193,3759,5209
+- -,YYZ,CMW,Cubana de Aviación (CU),Cubana de Aviación,1540,03:34,,,,,320,,,"Direct",193,1904,1936
+- -,YYZ,CPH,Air Canada (AC),Air Canada,3893,08:17,,,,,763,,,"Direct",193,609,330
+- -,YYZ,CPH,Lufthansa (LH),Lufthansa,3893,08:17,,,,,763,,,"Codeshare",193,609,3320
+- -,YYZ,CPH,Scandinavian Airlines System (SK),Scandinavian Airlines System,3893,08:17,,,,,763,,,"Codeshare",193,609,4319
+- -,YYZ,CUN,Air Canada (AC),Air Canada,1617,03:44,,,,,319,,,"Direct",193,1852,330
+- -,YYZ,CUN,Air Transat (TS),Air Transat,1617,03:44,,,,,330 310,,,"Direct",193,1852,1317
+- -,YYZ,CUN,WestJet (WS),WestJet,1617,03:44,,,,,73H 73W,,,"Direct",193,1852,5416
+- -,YYZ,CVG,Air Canada (AC),Air Canada,412,01:19,,,,,CRJ,,,"Codeshare",193,3488,330
+- -,YYZ,CVG,Delta Air Lines (DL),Delta Air Lines,412,01:19,,,,,CRJ,,,"Codeshare",193,3488,2009
+- -,YYZ,CVG,WestJet (WS),WestJet,412,01:19,,,,,CRJ,,,"Codeshare",193,3488,5416
+- -,YYZ,DCA,American Airlines (AA),American Airlines,359,01:13,,,,,CRJ,,,"Codeshare",193,3520,24
+- -,YYZ,DCA,Air Canada (AC),Air Canada,359,01:13,,,,,E75,,,"Direct",193,3520,330
+- -,YYZ,DCA,US Airways (US),US Airways,359,01:13,,,,,CRJ,,,"Codeshare",193,3520,5265
+- -,YYZ,DEN,Air Canada (AC),Air Canada,1311,03:07,,,,,E90,,,"Direct",193,3751,330
+- -,YYZ,DEN,United Airlines (UA),United Airlines,1311,03:07,,,,,E90 CR7,,,"Codeshare",193,3751,5209
+- -,YYZ,DFW,American Airlines (AA),American Airlines,1197,02:53,,,,,319,,,"Direct",193,3670,24
+- -,YYZ,DFW,Air Canada (AC),Air Canada,1197,02:53,,,,,E75,,,"Direct",193,3670,330
+- -,YYZ,DFW,United Airlines (UA),United Airlines,1197,02:53,,,,,E75,,,"Codeshare",193,3670,5209
+- -,YYZ,DFW,US Airways (US),US Airways,1197,02:53,,,,,319,,,"Direct",193,3670,5265
+- -,YYZ,DFW,WestJet (WS),WestJet,1197,02:53,,,,,319,,,"Codeshare",193,3670,5416
+- -,YYZ,DTW,Air Canada (AC),Air Canada,213,00:55,,,,,BEH CRJ,,,"Codeshare",193,3645,330
+- -,YYZ,DTW,Alitalia (AZ),Alitalia,213,00:55,,,,,CRJ,,,"Codeshare",193,3645,596
+- -,YYZ,DTW,Delta Air Lines (DL),Delta Air Lines,213,00:55,,,,,CR7 CRJ,,,"Codeshare",193,3645,2009
+- -,YYZ,DTW,United Airlines (UA),United Airlines,213,00:55,,,,,BEH CRJ,,,"Codeshare",193,3645,5209
+- -,YYZ,DTW,WestJet (WS),WestJet,213,00:55,,,,,CR7 CRJ,,,"Codeshare",193,3645,5416
+- -,YYZ,DUB,Air Canada (AC),Air Canada,3267,07:02,,,,,763,,,"Codeshare",193,599,330
+- -,YYZ,DUB,Aer Lingus (EI),Aer Lingus,3267,07:02,,,,,757,,,"Direct",193,599,837
+- -,YYZ,DUB,Air Transat (TS),Air Transat,3267,07:02,,,,,310,,,"Direct",193,599,1317
+- -,YYZ,DXB,Emirates (EK),Emirates,6882,14:15,,,,,388,,,"Direct",193,2188,2183
+- -,YYZ,EWR,Air Canada (AC),Air Canada,347,01:11,,,,,E75 E90,,,"Direct",193,3494,330
+- -,YYZ,EWR,United Airlines (UA),United Airlines,347,01:11,,,,,E75 ERJ DH4 CRA E90,,,"Codeshare",193,3494,5209
+- -,YYZ,FCO,Air Canada (AC),Air Canada,4400,09:18,,,,,333,,,"Direct",193,1555,330
+- -,YYZ,FCO,Alitalia (AZ),Alitalia,4400,09:18,,,,,332,,,"Direct",193,1555,596
+- -,YYZ,FCO,Delta Air Lines (DL),Delta Air Lines,4400,09:18,,,,,332,,,"Codeshare",193,1555,2009
+- -,YYZ,FCO,Lufthansa (LH),Lufthansa,4400,09:18,,,,,333,,,"Codeshare",193,1555,3320
+- -,YYZ,FCO,Air Transat (TS),Air Transat,4400,09:18,,,,,330,,,"Direct",193,1555,1317
+- -,YYZ,FLL,Air Canada (AC),Air Canada,1216,02:55,,,,,320,,,"Direct",193,3533,330
+- -,YYZ,FLL,Delta Air Lines (DL),Delta Air Lines,1216,02:55,,,,,73H 73W,,,"Codeshare",193,3533,2009
+- -,YYZ,FLL,Air Transat (TS),Air Transat,1216,02:55,,,,,738,,,"Codeshare",193,3533,1317
+- -,YYZ,FLL,WestJet (WS),WestJet,1216,02:55,,,,,73H 73W,,,"Direct",193,3533,5416
+- -,YYZ,FRA,Air Canada (AC),Air Canada,3939,08:22,,,,,77W,,,"Direct",193,340,330
+- -,YYZ,FRA,Lufthansa (LH),Lufthansa,3939,08:22,,,,,744,,,"Direct",193,340,3320
+- -,YYZ,GCM,Air Canada (AC),Air Canada,1686,03:52,,,,,E90,,,"Direct",193,1926,330
+- -,YYZ,GCM,WestJet (WS),WestJet,1686,03:52,,,,,73W,,,"Direct",193,1926,5416
+- -,YYZ,GEO,Caribbean Airlines (BW),Caribbean Airlines,2875,06:15,,,,,767 738,,,"Direct",193,4304,1663
+- -,YYZ,GEO,Overland Airways (OJ),Overland Airways,2875,06:15,,,,,752,,,"Direct",193,4304,3826
+- -,YYZ,GGT,Air Canada (AC),Air Canada,1405,03:18,,,,,E90,,,"Direct",193,1941,330
+- -,YYZ,GLA,Air Transat (TS),Air Transat,3281,07:03,,,,,310,,,"Direct",193,534,1317
+- -,YYZ,GND,Air Canada (AC),Air Canada,2431,05:21,,,,,319,,,"Direct",193,2882,330
+- -,YYZ,GND,Caribbean Airlines (BW),Caribbean Airlines,2431,05:21,,,,,738,,,"Direct",193,2882,1663
+- -,YYZ,GRU,Air Canada (AC),Air Canada,5088,10:40,,,,,763,,,"Direct",193,2564,330
+- -,YYZ,GRU,TAM Brazilian Airlines (JJ),TAM Brazilian Airlines,5088,10:40,,,,,763,,,"Codeshare",193,2564,4867
+- -,YYZ,HAV,Air Canada (AC),Air Canada,1437,03:22,,,,,E90,,,"Direct",193,1909,330
+- -,YYZ,HKG,Air Canada (AC),Air Canada,7792,16:05,,,,,77L,,,"Direct",193,3077,330
+- -,YYZ,HKG,Cathay Pacific (CX),Cathay Pacific,7792,16:05,,,,,77W,,,"Direct",193,3077,1680
+- -,YYZ,HOG,Air Canada (AC),Air Canada,1592,03:41,,,,,319,,,"Direct",193,1910,330
+- -,YYZ,HOG,Air Transat (TS),Air Transat,1592,03:41,,,,,738,,,"Codeshare",193,1910,1317
+- -,YYZ,IAD,Air Canada (AC),Air Canada,345,01:11,,,,,CRJ ERJ CR7,,,"Codeshare",193,3714,330
+- -,YYZ,IAD,United Airlines (UA),United Airlines,345,01:11,,,,,CRJ ERJ CR7 DH4,,,"Codeshare",193,3714,5209
+- -,YYZ,IAH,Air Canada (AC),Air Canada,1279,03:03,,,,,CRA,,,"Codeshare",193,3550,330
+- -,YYZ,IAH,United Airlines (UA),United Airlines,1279,03:03,,,,,CR7 CRA ERJ,,,"Codeshare",193,3550,5209
+- -,YYZ,ICN,Korean Air (KE),Korean Air,6593,13:41,,,,,772,,,"Direct",193,3930,3163
+- -,YYZ,IND,Air Canada (AC),Air Canada,438,01:22,,,,,CRJ,,,"Codeshare",193,3585,330
+- -,YYZ,ISL,Air Canada (AC),Air Canada,5091,10:40,,,,,77W 763,,,"Direct",193,1701,330
+- -,YYZ,ISL,Turkish Airlines (TK),Turkish Airlines,5091,10:40,,,,,77W 763,,,"Direct",193,1701,4951
+- -,YYZ,JED,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,6486,13:28,,,,,777,,,"Direct",193,2072,4533
+- -,YYZ,JFK,American Airlines (AA),American Airlines,365,01:13,,,,,CR7,,,"Codeshare",193,3797,24
+- -,YYZ,JFK,Air Canada (AC),Air Canada,365,01:13,,,,,CRA,,,"Codeshare",193,3797,330
+- -,YYZ,JFK,Finnair (AY),Finnair,365,01:13,,,,,CR7,,,"Codeshare",193,3797,2350
+- -,YYZ,JFK,Delta Air Lines (DL),Delta Air Lines,365,01:13,,,,,CR7 ERJ,,,"Direct",193,3797,2009
+- -,YYZ,JFK,US Airways (US),US Airways,365,01:13,,,,,CR7,,,"Direct",193,3797,5265
+- -,YYZ,JFK,WestJet (WS),WestJet,365,01:13,,,,,CR7 CRJ ERJ,,,"Direct",193,3797,5416
+- -,YYZ,KEF,Icelandair (FI),Icelandair,2590,05:40,,,,,75W,,,"Direct",193,16,2835
+- -,YYZ,KHI,Pakistan International Airlines (PK),Pakistan International Airlines,7247,14:59,,,,,777,,,"Direct",193,2206,3871
+- -,YYZ,KIN,Air Canada (AC),Air Canada,1785,04:04,,,,,319,,,"Direct",193,1779,330
+- -,YYZ,KIN,Caribbean Airlines (BW),Caribbean Airlines,1785,04:04,,,,,738,,,"Direct",193,1779,1663
+- -,YYZ,KIN,Overland Airways (OJ),Overland Airways,1785,04:04,,,,,752,,,"Direct",193,1779,3826
+- -,YYZ,KIN,WestJet (WS),WestJet,1785,04:04,,,,,73H,,,"Direct",193,1779,5416
+- -,YYZ,LAS,American Airlines (AA),American Airlines,1937,04:22,,,,,737,,,"Direct",193,3877,24
+- -,YYZ,LAS,Air Canada (AC),Air Canada,1937,04:22,,,,,763 319,,,"Direct",193,3877,330
+- -,YYZ,LAS,Delta Air Lines (DL),Delta Air Lines,1937,04:22,,,,,73H,,,"Codeshare",193,3877,2009
+- -,YYZ,LAS,WestJet (WS),WestJet,1937,04:22,,,,,73H,,,"Direct",193,3877,5416
+- -,YYZ,LAX,American Airlines (AA),American Airlines,2169,04:50,,,,,738,,,"Direct",193,3484,24
+- -,YYZ,LAX,Air Canada (AC),Air Canada,2169,04:50,,,,,321 320,,,"Direct",193,3484,330
+- -,YYZ,LAX,United Airlines (UA),United Airlines,2169,04:50,,,,,321 320,,,"Codeshare",193,3484,5209
+- -,YYZ,LAX,US Airways (US),US Airways,2169,04:50,,,,,738,,,"Direct",193,3484,5265
+- -,YYZ,LAX,WestJet (WS),WestJet,2169,04:50,,,,,738,,,"Codeshare",193,3484,5416
+- -,YYZ,LGA,American Airlines (AA),American Airlines,355,01:12,,,,,CR7,,,"Codeshare",193,3697,24
+- -,YYZ,LGA,Air Canada (AC),Air Canada,355,01:12,,,,,E90 E75,,,"Direct",193,3697,330
+- -,YYZ,LGA,Delta Air Lines (DL),Delta Air Lines,355,01:12,,,,,736 73W,,,"Codeshare",193,3697,2009
+- -,YYZ,LGA,United Airlines (UA),United Airlines,355,01:12,,,,,E90 CRA E75,,,"Codeshare",193,3697,5209
+- -,YYZ,LGA,US Airways (US),US Airways,355,01:12,,,,,CR7,,,"Direct",193,3697,5265
+- -,YYZ,LGA,WestJet (WS),WestJet,355,01:12,,,,,736 73W,,,"Direct",193,3697,5416
+- -,YYZ,LGW,Air Transat (TS),Air Transat,3564,07:37,,,,,330,,,"Direct",193,502,1317
+- -,YYZ,LHE,Pakistan International Airlines (PK),Pakistan International Airlines,6984,14:28,,,,,777,,,"Direct",193,2207,3871
+- -,YYZ,LHR,American Airlines (AA),American Airlines,3544,07:35,,,,,787 744,,,"Codeshare",193,507,24
+- -,YYZ,LHR,Air Canada (AC),Air Canada,3544,07:35,,,,,763 77L 77W 333,,,"Direct",193,507,330
+- -,YYZ,LHR,Finnair (AY),Finnair,3544,07:35,,,,,788 744,,,"Codeshare",193,507,2350
+- -,YYZ,LHR,British Airways (BA),British Airways,3544,07:35,,,,,788 744,,,"Direct",193,507,1355
+- -,YYZ,LHR,Iberia Airlines (IB),Iberia Airlines,3544,07:35,,,,,788 744,,,"Codeshare",193,507,2822
+- -,YYZ,LHR,Lufthansa (LH),Lufthansa,3544,07:35,,,,,763 77L 77W 333,,,"Codeshare",193,507,3320
+- -,YYZ,LIM,Air Canada (AC),Air Canada,3849,08:11,,,,,763,,,"Direct",193,2789,330
+- -,YYZ,LIR,Air Canada (AC),Air Canada,2311,05:07,,,,,319,,,"Direct",193,1881,330
+- -,YYZ,LIR,WestJet (WS),WestJet,2311,05:07,,,,,73W,,,"Direct",193,1881,5416
+- -,YYZ,LIS,SATA International (S4),SATA International,3564,07:37,,,,,313,,,"Direct",193,1638,4304
+- -,YYZ,LIS,TAP Portugal (TP),TAP Portugal,3564,07:37,,,,,313,,,"Codeshare",193,1638,4869
+- -,YYZ,LIS,Air Transat (TS),Air Transat,3564,07:37,,,,,310,,,"Direct",193,1638,1317
+- -,YYZ,MAN,Air Transat (TS),Air Transat,3422,07:20,,,,,310 330,,,"Direct",193,478,1317
+- -,YYZ,MBJ,Air Canada (AC),Air Canada,1741,03:58,,,,,319,,,"Direct",193,1780,330
+- -,YYZ,MBJ,Air Transat (TS),Air Transat,1741,03:58,,,,,738 310,,,"Codeshare",193,1780,1317
+- -,YYZ,MBJ,WestJet (WS),WestJet,1741,03:58,,,,,73H 73W,,,"Direct",193,1780,5416
+- -,YYZ,MCI,Air Canada (AC),Air Canada,835,02:10,,,,,CRJ,,,"Codeshare",193,3458,330
+- -,YYZ,MCO,American Airlines (AA),American Airlines,1057,02:36,,,,,737,,,"Direct",193,3878,24
+- -,YYZ,MCO,Air Canada (AC),Air Canada,1057,02:36,,,,,319,,,"Direct",193,3878,330
+- -,YYZ,MCO,Delta Air Lines (DL),Delta Air Lines,1057,02:36,,,,,73H 73W,,,"Codeshare",193,3878,2009
+- -,YYZ,MCO,Air Transat (TS),Air Transat,1057,02:36,,,,,738 310,,,"Codeshare",193,3878,1317
+- -,YYZ,MCO,WestJet (WS),WestJet,1057,02:36,,,,,73H 73W,,,"Direct",193,3878,5416
+- -,YYZ,MDT,Air Canada (AC),Air Canada,282,01:03,,,,,BEH,,,"Codeshare",193,3542,330
+- -,YYZ,MEX,Air Canada (AC),Air Canada,2016,04:31,,,,,319,,,"Direct",193,1824,330
+- -,YYZ,MEX,Avianca - Aerovias Nacionales de Colombia (AV),Avianca - Aerovias Nacionales de Colombia,2016,04:31,,,,,319,,,"Direct",193,1824,515
+- -,YYZ,MIA,American Airlines (AA),American Airlines,1235,02:58,,,,,738,,,"Direct",193,3576,24
+- -,YYZ,MIA,Air Canada (AC),Air Canada,1235,02:58,,,,,E90,,,"Direct",193,3576,330
+- -,YYZ,MIA,US Airways (US),US Airways,1235,02:58,,,,,738,,,"Direct",193,3576,5265
+- -,YYZ,MIA,WestJet (WS),WestJet,1235,02:58,,,,,738,,,"Codeshare",193,3576,5416
+- -,YYZ,MKE,Air Canada (AC),Air Canada,418,01:20,,,,,CRJ,,,"Codeshare",193,3717,330
+- -,YYZ,MSP,Air Canada (AC),Air Canada,676,01:51,,,,,CRA CRJ,,,"Codeshare",193,3858,330
+- -,YYZ,MSP,Delta Air Lines (DL),Delta Air Lines,676,01:51,,,,,CRJ,,,"Codeshare",193,3858,2009
+- -,YYZ,MSP,United Airlines (UA),United Airlines,676,01:51,,,,,CRA CRJ,,,"Codeshare",193,3858,5209
+- -,YYZ,MSP,WestJet (WS),WestJet,676,01:51,,,,,CRJ,,,"Codeshare",193,3858,5416
+- -,YYZ,MSY,Air Canada (AC),Air Canada,1110,02:43,,,,,CRA,,,"Codeshare",193,3861,330
+- -,YYZ,MSY,United Airlines (UA),United Airlines,1110,02:43,,,,,CRA,,,"Codeshare",193,3861,5209
+- -,YYZ,MUC,Air Canada (AC),Air Canada,4124,08:44,,,,,77W,,,"Direct",193,346,330
+- -,YYZ,MUC,Lufthansa (LH),Lufthansa,4124,08:44,,,,,77W,,,"Codeshare",193,346,3320
+- -,YYZ,MYR,WestJet (WS),WestJet,691,01:52,,,,,73W,,,"Direct",193,3515,5416
+- -,YYZ,NAS,Air Canada (AC),Air Canada,1292,03:05,,,,,319,,,"Direct",193,1953,330
+- -,YYZ,NAS,WestJet (WS),WestJet,1292,03:05,,,,,73W,,,"Direct",193,1953,5416
+- -,YYZ,NRT,Air Canada (AC),Air Canada,6396,13:17,,,,,77W,,,"Direct",193,2279,330
+- -,YYZ,NRT,All Nippon Airways (NH),All Nippon Airways,6396,13:17,,,,,77W,,,"Codeshare",193,2279,324
+- -,YYZ,OPO,SATA International (S4),SATA International,3503,07:30,,,,,313,,,"Direct",193,1636,4304
+- -,YYZ,OPO,TAP Portugal (TP),TAP Portugal,3503,07:30,,,,,313,,,"Codeshare",193,1636,4869
+- -,YYZ,OPO,Air Transat (TS),Air Transat,3503,07:30,,,,,310,,,"Direct",193,1636,1317
+- -,YYZ,ORD,American Airlines (AA),American Airlines,434,01:22,,,,,E75 CR7 ER4,,,"Codeshare",193,3830,24
+- -,YYZ,ORD,Air Canada (AC),Air Canada,434,01:22,,,,,E75,,,"Direct",193,3830,330
+- -,YYZ,ORD,Etihad Airways (EY),Etihad Airways,434,01:22,,,,,EMJ,,,"Codeshare",193,3830,2222
+- -,YYZ,ORD,United Airlines (UA),United Airlines,434,01:22,,,,,320 73G 319,,,"Direct",193,3830,5209
+- -,YYZ,ORD,US Airways (US),US Airways,434,01:22,,,,,ER4 CR7,,,"Direct",193,3830,5265
+- -,YYZ,ORD,WestJet (WS),WestJet,434,01:22,,,,,E75,,,"Direct",193,3830,5416
+- -,YYZ,PDL,SATA International (S4),SATA International,2802,06:06,,,,,313,,,"Direct",193,1633,4304
+- -,YYZ,PDL,TAP Portugal (TP),TAP Portugal,2802,06:06,,,,,313,,,"Codeshare",193,1633,4869
+- -,YYZ,PEK,Air Canada (AC),Air Canada,6558,13:36,,,,,77W,,,"Direct",193,3364,330
+- -,YYZ,PEK,Air China (CA),Air China,6558,13:36,,,,,77W,,,"Codeshare",193,3364,751
+- -,YYZ,PEK,Hainan Airlines (HU),Hainan Airlines,6558,13:36,,,,,787,,,"Direct",193,3364,2660
+- -,YYZ,PHL,American Airlines (AA),American Airlines,346,01:11,,,,,E75 CRJ,,,"Codeshare",193,3752,24
+- -,YYZ,PHL,Air Canada (AC),Air Canada,346,01:11,,,,,E75,,,"Direct",193,3752,330
+- -,YYZ,PHL,United Airlines (UA),United Airlines,346,01:11,,,,,E75,,,"Codeshare",193,3752,5209
+- -,YYZ,PHL,US Airways (US),US Airways,346,01:11,,,,,E75 CRJ,,,"Codeshare",193,3752,5265
+- -,YYZ,PHX,Air Canada (AC),Air Canada,1871,04:14,,,,,319,,,"Direct",193,3462,330
+- -,YYZ,PIT,Air Canada (AC),Air Canada,222,00:56,,,,,DH1,,,"Codeshare",193,3570,330
+- -,YYZ,PIT,United Airlines (UA),United Airlines,222,00:56,,,,,DH1,,,"Codeshare",193,3570,5209
+- -,YYZ,PLS,Air Canada (AC),Air Canada,1570,03:38,,,,,E90,,,"Direct",193,1754,330
+- -,YYZ,PLS,WestJet (WS),WestJet,1570,03:38,,,,,73H,,,"Direct",193,1754,5416
+- -,YYZ,POP,Air Canada (AC),Air Canada,1732,03:57,,,,,319,,,"Direct",193,1761,330
+- -,YYZ,POP,WestJet (WS),WestJet,1732,03:57,,,,,73H,,,"Direct",193,1761,5416
+- -,YYZ,POS,Caribbean Airlines (BW),Caribbean Airlines,2533,05:33,,,,,738,,,"Direct",193,2902,1663
+- -,YYZ,POS,WestJet (WS),WestJet,2533,05:33,,,,,73W,,,"Direct",193,2902,5416
+- -,YYZ,PTY,Copa Airlines (CM),Copa Airlines,2389,05:16,,,,,738,,,"Direct",193,1871,1889
+- -,YYZ,PUJ,Air Canada (AC),Air Canada,1853,04:12,,,,,319,,,"Direct",193,1760,330
+- -,YYZ,PUJ,Air Transat (TS),Air Transat,1853,04:12,,,,,330 738,,,"Direct",193,1760,1317
+- -,YYZ,PUJ,WestJet (WS),WestJet,1853,04:12,,,,,73H 73W,,,"Direct",193,1760,5416
+- -,YYZ,PVG,Air Canada (AC),Air Canada,7088,14:40,,,,,77L,,,"Direct",193,3406,330
+- -,YYZ,PVG,Air China (CA),Air China,7088,14:40,,,,,77L,,,"Codeshare",193,3406,751
+- -,YYZ,RDU,Air Canada (AC),Air Canada,540,01:34,,,,,CRJ,,,"Codeshare",193,3626,330
+- -,YYZ,ROC,Air Canada (AC),Air Canada,105,00:42,,,,,BEH,,,"Codeshare",193,3622,330
+- -,YYZ,RSW,Air Canada (AC),Air Canada,1189,02:52,,,,,320,,,"Direct",193,3793,330
+- -,YYZ,RSW,WestJet (WS),WestJet,1189,02:52,,,,,73W 736,,,"Direct",193,3793,5416
+- -,YYZ,SAL,Avianca - Aerovias Nacionales de Colombia (AV),Avianca - Aerovias Nacionales de Colombia,2161,04:49,,,,,320,,,"Direct",193,1892,515
+- -,YYZ,SAN,Air Canada (AC),Air Canada,2151,04:48,,,,,319,,,"Direct",193,3731,330
+- -,YYZ,SCL,Air Canada (AC),Air Canada,5351,11:12,,,,,763,,,"Direct",193,2650,330
+- -,YYZ,SEA,Air Canada (AC),Air Canada,2053,04:36,,,,,E90,,,"Direct",193,3577,330
+- -,YYZ,SFO,Air Canada (AC),Air Canada,2252,05:00,,,,,320,,,"Direct",193,3469,330
+- -,YYZ,SFO,United Airlines (UA),United Airlines,2252,05:00,,,,,320,,,"Codeshare",193,3469,5209
+- -,YYZ,SJO,Air Canada (AC),Air Canada,2342,05:11,,,,,319,,,"Direct",193,1885,330
+- -,YYZ,SJU,WestJet (WS),WestJet,1914,04:19,,,,,73W,,,"Direct",193,2890,5416
+- -,YYZ,SNU,Air Canada (AC),Air Canada,1463,03:25,,,,,319,,,"Direct",193,1918,330
+- -,YYZ,SNU,Cubana de Aviación (CU),Cubana de Aviación,1463,03:25,,,,,320,,,"Direct",193,1918,1936
+- -,YYZ,SNU,Air Transat (TS),Air Transat,1463,03:25,,,,,738,,,"Codeshare",193,1918,1317
+- -,YYZ,SNU,WestJet (WS),WestJet,1463,03:25,,,,,73W,,,"Direct",193,1918,5416
+- -,YYZ,STL,Air Canada (AC),Air Canada,652,01:48,,,,,CRJ,,,"Codeshare",193,3678,330
+- -,YYZ,STL,United Airlines (UA),United Airlines,652,01:48,,,,,CRJ,,,"Codeshare",193,3678,5209
+- -,YYZ,SVO,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,4636,09:46,,,,,763,,,"Direct",193,2985,130
+- -,YYZ,SXM,WestJet (WS),WestJet,2014,04:31,,,,,73W,,,"Direct",193,2899,5416
+- -,YYZ,SYR,Air Canada (AC),Air Canada,181,00:51,,,,,BEH,,,"Codeshare",193,3745,330
+- -,YYZ,TLV,Air Canada (AC),Air Canada,5772,12:02,,,,,763,,,"Direct",193,1590,330
+- -,YYZ,TLV,El Al Israel Airlines (LY),El Al Israel Airlines,5772,12:02,,,,,763,,,"Direct",193,1590,2150
+- -,YYZ,TPA,Air Canada (AC),Air Canada,1096,02:41,,,,,319,,,"Direct",193,3646,330
+- -,YYZ,TPA,WestJet (WS),WestJet,1096,02:41,,,,,73W 736,,,"Direct",193,3646,5416
+- -,YYZ,TPE,EVA Air (BR),EVA Air,7501,15:30,,,,,77W,,,"Direct",193,2276,2091
+- -,YYZ,UVF,Air Canada (AC),Air Canada,2344,05:11,,,,,319,,,"Direct",193,2894,330
+- -,YYZ,UVF,WestJet (WS),WestJet,2344,05:11,,,,,73W,,,"Direct",193,2894,5416
+- -,YYZ,VCE,Air Transat (TS),Air Transat,4256,09:00,,,,,310,,,"Direct",193,1551,1317
+- -,YYZ,VIE,Air Canada (AC),Air Canada,4315,09:07,,,,,763,,,"Codeshare",193,1613,330
+- -,YYZ,VIE,Lufthansa (LH),Lufthansa,4315,09:07,,,,,767,,,"Codeshare",193,1613,3320
+- -,YYZ,VIE,Austrian Airlines (OS),Austrian Airlines,4315,09:07,,,,,767,,,"Codeshare",193,1613,491
+- -,YYZ,VKO,Transaero Airlines (UN),Transaero Airlines,4651,09:48,,,,,777,,,"Direct",193,2988,5067
+- -,YYZ,VRA,Air Canada (AC),Air Canada,1429,03:21,,,,,319,,,"Direct",193,1923,330
+- -,YYZ,VRA,Air Transat (TS),Air Transat,1429,03:21,,,,,738,,,"Codeshare",193,1923,1317
+- -,YYZ,VRA,WestJet (WS),WestJet,1429,03:21,,,,,73W 73H,,,"Direct",193,1923,5416
+- -,YYZ,WAW,Air Canada (AC),Air Canada,4306,09:06,,,,,788,,,"Direct",193,679,330
+- -,YYZ,WAW,LOT Polish Airlines (LO),LOT Polish Airlines,4306,09:06,,,,,788,,,"Direct",193,679,3210
+- -,YYZ,YAM,Air Canada (AC),Air Canada,306,01:06,,,,,DH1,,,"Codeshare",193,21,330
+- -,YYZ,YDF,Air Canada (AC),Air Canada,1120,02:44,,,,,E90,,,"Direct",193,45,330
+- -,YYZ,YDF,WestJet (WS),WestJet,1120,02:44,,,,,73W,,,"Direct",193,45,5416
+- -,YYZ,YEG,Air Canada (AC),Air Canada,1669,03:50,,,,,320 319 E90,,,"Direct",193,49,330
+- -,YYZ,YEG,WestJet (WS),WestJet,1669,03:50,,,,,73W 73H,,,"Direct",193,49,5416
+- -,YYZ,YFC,Air Canada (AC),Air Canada,658,01:48,,,,,DH4,,,"Codeshare",193,56,330
+- -,YYZ,YGK,Air Canada (AC),Air Canada,155,00:48,,,,,BEH,,,"Codeshare",193,61,330
+- -,YYZ,YHZ,Air Canada (AC),Air Canada,800,02:06,,,,,320 E90 319 763,,,"Direct",193,73,330
+- -,YYZ,YHZ,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,800,02:06,,,,,737,,,"Codeshare",193,73,3090
+- -,YYZ,YHZ,WestJet (WS),WestJet,800,02:06,,,,,73W 736,,,"Direct",193,73,5416
+- -,YYZ,YLW,WestJet (WS),WestJet,1903,04:18,,,,,73W,,,"Direct",193,87,5416
+- -,YYZ,YMM,Air Canada (AC),Air Canada,1637,03:46,,,,,E90 320 319,,,"Direct",193,90,330
+- -,YYZ,YMM,WestJet (WS),WestJet,1637,03:46,,,,,73W,,,"Direct",193,90,5416
+- -,YYZ,YOW,Air Canada (AC),Air Canada,225,00:57,,,,,E90 319 320 763 E75,,,"Direct",193,100,330
+- -,YYZ,YOW,WestJet (WS),WestJet,225,00:57,,,,,736 73W,,,"Direct",193,100,5416
+- -,YYZ,YQB,Air Canada (AC),Air Canada,454,01:24,,,,,DH4,,,"Codeshare",193,111,330
+- -,YYZ,YQB,Air Transat (TS),Air Transat,454,01:24,,,,,330,,,"Direct",193,111,1317
+- -,YYZ,YQB,WestJet (WS),WestJet,454,01:24,,,,,73W,,,"Direct",193,111,5416
+- -,YYZ,YQG,Air Canada (AC),Air Canada,193,00:53,,,,,319,,,"Direct",193,113,330
+- -,YYZ,YQM,Air Canada (AC),Air Canada,749,01:59,,,,,DH4 CRJ,,,"Codeshare",193,117,330
+- -,YYZ,YQM,WestJet (WS),WestJet,749,01:59,,,,,73W,,,"Direct",193,117,5416
+- -,YYZ,YQR,Air Canada (AC),Air Canada,1259,03:01,,,,,E90,,,"Direct",193,120,330
+- -,YYZ,YQR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1259,03:01,,,,,73W,,,"Codeshare",193,120,3090
+- -,YYZ,YQR,WestJet (WS),WestJet,1259,03:01,,,,,73W,,,"Direct",193,120,5416
+- -,YYZ,YQT,Air Canada (AC),Air Canada,565,01:37,,,,,DH4 CRJ,,,"Codeshare",193,121,330
+- -,YYZ,YQT,WestJet (WS),WestJet,565,01:37,,,,,73W 736,,,"Direct",193,121,5416
+- -,YYZ,YQY,Air Canada (AC),Air Canada,970,02:26,,,,,CRJ,,,"Codeshare",193,126,330
+- -,YYZ,YSB,Air Canada (AC),Air Canada,211,00:55,,,,,DH1,,,"Codeshare",193,133,330
+- -,YYZ,YSJ,Air Canada (AC),Air Canada,685,01:52,,,,,DH4,,,"Codeshare",193,135,330
+- -,YYZ,YTS,Air Canada (AC),Air Canada,348,01:11,,,,,DH1,,,"Codeshare",193,143,330
+- -,YYZ,YUL,Air Canada (AC),Air Canada,314,01:07,,,,,319 321 320 E90 333 763 E75,,,"Direct",193,146,330
+- -,YYZ,YUL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,314,01:07,,,,,73W,,,"Codeshare",193,146,3090
+- -,YYZ,YUL,Lufthansa (LH),Lufthansa,314,01:07,,,,,333,,,"Codeshare",193,146,3320
+- -,YYZ,YUL,Swiss International Air Lines (LX),Swiss International Air Lines,314,01:07,,,,,333,,,"Codeshare",193,146,4559
+- -,YYZ,YUL,Air Transat (TS),Air Transat,314,01:07,,,,,310,,,"Direct",193,146,1317
+- -,YYZ,YUL,United Airlines (UA),United Airlines,314,01:07,,,,,333,,,"Codeshare",193,146,5209
+- -,YYZ,YUL,WestJet (WS),WestJet,314,01:07,,,,,73W 736,,,"Direct",193,146,5416
+- -,YYZ,YVR,Air Canada (AC),Air Canada,2077,04:39,,,,,321 320 77W 763 77L 319 333,,,"Direct",193,156,330
+- -,YYZ,YVR,Philippine Airlines (PR),Philippine Airlines,2077,04:39,,,,,773,,,"Direct",193,156,3952
+- -,YYZ,YVR,WestJet (WS),WestJet,2077,04:39,,,,,73W 736 73H,,,"Direct",193,156,5416
+- -,YYZ,YWG,Air Canada (AC),Air Canada,934,02:22,,,,,320 E90 319,,,"Direct",193,160,330
+- -,YYZ,YWG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,934,02:22,,,,,737,,,"Codeshare",193,160,3090
+- -,YYZ,YWG,WestJet (WS),WestJet,934,02:22,,,,,73W 736,,,"Direct",193,160,5416
+- -,YYZ,YXE,Air Canada (AC),Air Canada,1372,03:14,,,,,E90,,,"Direct",193,166,330
+- -,YYZ,YXE,WestJet (WS),WestJet,1372,03:14,,,,,73W,,,"Direct",193,166,5416
+- -,YYZ,YXU,Air Canada (AC),Air Canada,88,00:40,,,,,DH1 DH4,,,"Codeshare",193,174,330
+- -,YYZ,YYB,Air Canada (AC),Air Canada,185,00:52,,,,,DH1,,,"Codeshare",193,177,330
+- -,YYZ,YYC,Air Canada (AC),Air Canada,1670,03:50,,,,,320 321 319,,,"Direct",193,178,330
+- -,YYZ,YYC,WestJet (WS),WestJet,1670,03:50,,,,,73W 73H 736,,,"Direct",193,178,5416
+- -,YYZ,YYG,Air Canada (AC),Air Canada,824,02:08,,,,,CRJ,,,"Codeshare",193,182,330
+- -,YYZ,YYG,WestJet (WS),WestJet,824,02:08,,,,,73W 736,,,"Direct",193,182,5416
+- -,YYZ,YYJ,Air Canada (AC),Air Canada,2092,04:41,,,,,320,,,"Direct",193,184,330
+- -,YYZ,YYJ,WestJet (WS),WestJet,2092,04:41,,,,,73W,,,"Direct",193,184,5416
+- -,YYZ,YYT,Air Canada (AC),Air Canada,1318,03:08,,,,,320 E90 319,,,"Direct",193,189,330
+- -,YYZ,YYT,WestJet (WS),WestJet,1318,03:08,,,,,73W 73H,,,"Direct",193,189,5416
+- -,YYZ,YZR,Air Canada (AC),Air Canada,142,00:47,,,,,BEH,,,"Codeshare",193,199,330
+- -,YYZ,ZRH,Air Canada (AC),Air Canada,4030,08:33,,,,,333,,,"Direct",193,1678,330
+- -,YYZ,ZRH,Swiss International Air Lines (LX),Swiss International Air Lines,4030,08:33,,,,,333,,,"Codeshare",193,1678,4559
