@@ -1,9 +1,26 @@
+#SA 8905 Geovisualization Project - Part 2
+#Using Mapdeck in R 
+#Author: Gregory Huang
+#Reference: David Cooley, https://symbolixau.github.io/mapdeck/articles/mapdeck.html
+#Current Version: 0.2
+#Date: 19 November 2019
+#Past Versions:
+#0.1         Initial Code Creation
+#0.2         Added shinyApp capabilities
+#
+#
+#This is part 2 of the Geovisualization project. 
+
+
+
+# for data wrangling
 install.packages("dplyr")
 library(dplyr)
 
 install.packages("mapdeck")
 library(mapdeck)
 
+#shiny library
 library(shiny)
 library(shinydashboard)
 
