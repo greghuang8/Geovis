@@ -22,6 +22,7 @@ library(mapdeck)
 
 #shiny library
 library(shiny)
+install.packages("shinydashboard")
 library(shinydashboard)
 
 #clean up airport coordinates 
