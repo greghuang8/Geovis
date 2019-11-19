@@ -208,7 +208,7 @@ ui2 <- dashboardPage(
 server2 <- function(input, output) {
   
   set_token(key) 
-  slidertable <- fra_flights
+  slidertable <- yyz_fra
   
   output$myMap <- renderMapdeck({
     mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) 
