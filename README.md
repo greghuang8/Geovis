@@ -24,7 +24,7 @@ To run the yyz_fra.R code:
 2. Open yyz_fra.R and Run. Same instructions apply for running mapdeck.  
 3. Read the comments. There can be multiple variations of the maps run - you can just run specific chunks of code to get separate results.  
 
-Please forward any questions to gregory.huang <at> ryerson.ca.  
+Please forward any questions to gregory.huang@ryerson.ca.  
 
 
 
