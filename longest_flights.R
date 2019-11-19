@@ -8,9 +8,11 @@
 #0.1         Initial Code Creation
 #0.2         Added text to map, as well as putting scatter plots on reserve
 #0.3         Added new maps and included simple US flight data
+#0.4         Minor updates; mostly design changes
 
 install.packages("mapdeck")
 library(mapdeck)
+
 
 #Mapbox access token
 key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
@@ -106,7 +108,7 @@ mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16l
       size = 16) 
 
 # Map with both US flights and Longest flights
-mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq') %>%
+mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) %>%
   add_line(
     data = US_flights,
     origin = c("start_lon", "start_lat"),
@@ -134,4 +136,22 @@ mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16l
     fill_colour = '#FFFFFF',
     text = 'display_name',
     layer_id = 'airport_names',
-    size = 16) 
+    size = 16)%>%
+  add_scatterplot(
+    data = flights,
+    lon = "start_lon",
+    lat = "start_lat",
+    radius = 7000,
+    fill_colour = "#00FF00", #lime green
+    layer_id = "start_airport")%>%
+  add_scatterplot(
+    data = flights,
+    lon = "end_lon",
+    lat = "end_lat",
+    radius = 7000,
+    fill_colour = "#00FF00",
+    layer_id = "end_airport")
+
+
+
+
