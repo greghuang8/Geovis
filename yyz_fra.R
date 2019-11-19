@@ -4,10 +4,14 @@ library(dplyr)
 install.packages("mapdeck")
 library(mapdeck)
 
+library(shiny)
+library(shinydashboard)
+
 #clean up airport coordinates 
 all_airport_coordinates <- read.csv("all_airports.csv")
 all_airport_coordinates <- select(all_airport_coordinates, iata_code, name, longitude_deg, latitude_deg)
 colnames(all_airport_coordinates)[1] <- "To"
+write.csv(all_airport_coordinates, "all_airports_cleaned.csv")
 
 #clean up YYZ flights
 ac_flights <- read.csv("openflights-export-2019-11-19.csv")
@@ -101,3 +105,70 @@ mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16l
     tooltip = "RouteInfo",
     update_view = TRUE,
     layer_id = 'fra_arcs')
+
+
+# Shiny capabilities 
+shinyApp(
+  ui <- fluidPage(
+    selectInput("select", label = h3("Select a map:"),
+                c("Frankfurt" = "Frankfurt",
+                  "Toronto" = "Toronto",
+                  "Both" = "Both")),
+    mapdeckOutput(outputId = "map")
+  ),
+  
+  server <- function(input, output) {
+    output$map <- renderMapdeck({
+      mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20)
+    })
+    
+    observeEvent({input$select},
+                 {if(input$select == "Frankfurt"){
+                   mapdeck_update(map_id = "map")%>%
+                     clear_arc(layer_id = "yyz_arcs")%>%
+                     clear_arc(layer_id = "yyz_fra_arcs")%>%
+                     add_arc(
+                       data = fra_flights,
+                       origin = c("origin_long", "origin_lat"),
+                       destination = c("destination_long", "destination_lat"),
+                       stroke_from = "From",
+                       stroke_to = "To",
+                       auto_highlight = TRUE,
+                       stroke_width = 3,
+                       tooltip = "RouteInfo",
+                       update_view = TRUE,
+                       layer_id = 'fra_arcs')}
+                   
+                   else if (input$select == "Toronto"){
+                     mapdeck_update(map_id = "map")%>%
+                       clear_arc(layer_id = "fra_arcs")%>%
+                       clear_arc(layer_id = "yyz_fra_arcs")%>%
+                       add_arc(
+                         data = yyz_ac_flights,
+                         origin = c("origin_long", "origin_lat"),
+                         destination = c("destination_long", "destination_lat"),
+                         stroke_from = "From",
+                         stroke_to = "To",
+                         auto_highlight = TRUE,
+                         stroke_width = 3,
+                         tooltip = "RouteInfo",
+                         update_view = TRUE,
+                         layer_id = 'yyz_arcs')}
+                   
+                   else if (input$select == "Both"){
+                     mapdeck_update(map_id = "map")%>%
+                       clear_arc(layer_id = "fra_arcs")%>%
+                       clear_arc(layer_id = "yyz_arcs")%>%
+                       add_arc(
+                         data = yyz_fra,
+                         origin = c("origin_long", "origin_lat"),
+                         destination = c("destination_long", "destination_lat"),
+                         stroke_from = "From",
+                         stroke_to = "To",
+                         auto_highlight = TRUE,
+                         stroke_width = 3,
+                         tooltip = "RouteInfo",
+                         update_view = TRUE,
+                         layer_id = 'yyz_fra_arcs')}})}
+)
+
