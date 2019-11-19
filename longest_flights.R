@@ -1,14 +1,19 @@
-#SA 8905 Geovisualization Project
+#SA 8905 Geovisualization Project - Part 1
 #Using Mapdeck in R 
 #Author: Gregory Huang
 #Reference: David Cooley, https://symbolixau.github.io/mapdeck/articles/mapdeck.html
-#Current Version: 0.2
+#Current Version: 0.5
 #Date: 17 November 2019
 #Past Versions:
 #0.1         Initial Code Creation
 #0.2         Added text to map, as well as putting scatter plots on reserve
 #0.3         Added new maps and included simple US flight data
 #0.4         Minor updates; mostly design changes
+#0.5         Edit comments
+#
+#
+#
+#This is part 1 of the Geovisualization project. 
 
 install.packages("mapdeck")
 library(mapdeck)
