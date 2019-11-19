@@ -5,7 +5,7 @@ References: David Cooley, https://symbolixau.github.io/mapdeck/articles/mapdeck.
 Initial Commit: Nov 17th, 2019  
 Last update:    Nov 19th, 2019  
 
-This module is divided into two main focuses. The first focus is a demonstration of mapdeck's capabilities, including drawing arcs, lines, text, and others; as well as the package's customizability. The second focus will be an application on a large real-life dataset to show how this package may be applied to open access data.  
+This module is divided into two main focuses. The first focus is a demonstration of mapdeck's capabilities, including drawing arcs, lines, text, and others; as well as the package's customizability. The second focus is an application on a large real-life dataset to show how this package may be applied using open access data, including using Shiny as an interactive interface.  
 
 
 The first focus will be demonstrated via the longest_flights.R code. The second focus will be demonstrated via the yyz_fra.R code.  
@@ -22,9 +22,10 @@ To run the longest_flights.R code:
 To run the yyz_fra.R code:  
 1. Download and save yyz_fra.R, all_airports.csv, openflights-export-2019-11-19.csv, and fra.csv.  
 2. Open yyz_fra.R and Run. Same instructions apply for running mapdeck.  
-3. Read the comments. There can be multiple variations of the maps run - you can just run specific chunks of code to get separate results.  
+3. Read the comments. There can be multiple variations of the maps run - you can just run specific chunks of code to get separate results.    
+4. Run all code in the shinyApp function. Go to "show in new window" icon, and click on "view in web browser" to use the interactive map.  
 
-Please forward any questions to gregory.huang@ryerson.ca.  
+Please forward any questions or comments to gregory.huang@ryerson.ca. 
 
 
 
