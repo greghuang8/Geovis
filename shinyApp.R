@@ -160,7 +160,7 @@ server <- function(input, output) {
         tooltip = "RouteInfo",
         stroke_width = 3,
         update_view = FALSE,
-        focus_layer = TRUE
+        focus_layer = FALSE
       )
   })
 }
