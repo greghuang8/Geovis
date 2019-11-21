@@ -8,7 +8,7 @@ Last update:    Nov 19th, 2019
 This module is divided into two main focuses. The first focus is a demonstration of mapdeck's capabilities, including drawing arcs, lines, text, and others; as well as the package's customizability. The second focus is an application on a large real-life dataset to show how this package may be applied using open access data, including using Shiny as an interactive interface.  
 
 
-The first focus will be demonstrated via the longest_flights.R code. The second focus will be demonstrated via the yyz_fra.R code.  
+The first focus will be demonstrated via the longest_flights.R code. The second focus will be demonstrated via the yyz_fra.R code. Finally, shinyApp.R is created for a quick look at the shiny interface I created. Just download the relevant files and Run (in web browser). 
 
 To run the longest_flights.R code:  
 1. Download, save, and open longest_flights.R in R Studio  
@@ -24,6 +24,9 @@ To run the yyz_fra.R code:
 2. Open yyz_fra.R and Run. Same instructions apply for running mapdeck.  
 3. Read the comments. There can be multiple variations of the maps run - you can just run specific chunks of code to get separate results.    
 4. Run all code in the shinyApp function. Go to "show in new window" icon, and click on "view in web browser" to use the interactive map.  
+
+To run the shinyApp.R code:  
+1. Assuming you have all the required files in the same folder, simply run the code in its entirety and follow step4 in the yyz_fra.R code instructions to view the shiny app.  
 
 Please forward any questions or comments to gregory.huang@ryerson.ca. 
 
