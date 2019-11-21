@@ -1,3 +1,17 @@
+#SA 8905 Geovisualization Project - Part 2
+#Using Mapdeck in R 
+#Author: Gregory Huang
+#Reference: David Cooley, https://symbolixau.github.io/mapdeck/articles/mapdeck.html
+#Current Version: 0.1
+#Date: 20 November 2019
+
+
+#This is the shiny app demo of the project. Assuming all required files are downloaded
+#and are in the same repository(folder) as this R file, the code should run and produce a 
+#shiny app. If the initial popup menu shows blank, remember to click on "view in browser" 
+#to see the app. 
+
+
 install.packages("dplyr")
 library(dplyr)
 
@@ -100,6 +114,7 @@ all_flights <- rbind(yyz_fra, ams_flights, dxb_flights, kef_flights)
 
 #mapdeck key
 key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
+
 ui <- fluidPage(
   mapdeckOutput(outputId = 'myMap'),
   sliderInput(
@@ -116,7 +131,9 @@ server <- function(input, output) {
   slidertable <- all_flights
   
   output$myMap <- renderMapdeck({
-    mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) 
+    mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', 
+            pitch = 20,
+            height = 60) 
   })
   
   ## plot points & lines according to the selected longitudes
@@ -142,7 +159,8 @@ server <- function(input, output) {
         auto_highlight = TRUE,
         tooltip = "RouteInfo",
         stroke_width = 3,
-        update_view = FALSE
+        update_view = FALSE,
+        focus_layer = TRUE
       )
   })
 }
