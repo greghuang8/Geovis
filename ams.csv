@@ -1,0 +1,454 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,AMS,AAL,Alitalia (AZ),Alitalia,387,01:16,,,,,E90,,,"Codeshare",580,628,596
+- -,AMS,AAL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,387,01:16,,,,,F70 EMJ,,,"Codeshare",580,628,3090
+- -,AMS,ABZ,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,436,01:22,,,,,EMJ 737 F70,,,"Direct",580,532,3090
+- -,AMS,ACC,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3237,06:58,,,,,330,,,"Direct",580,248,3090
+- -,AMS,ACE,Transavia Holland (HV),Transavia Holland,1866,04:13,,,,,73H,,,"Direct",580,1055,5039
+- -,AMS,ADB,Transavia Holland (HV),Transavia Holland,1445,03:23,,,,,73W,,,"Direct",580,1706,5039
+- -,AMS,ADB,Pegasus Airlines (PC),Pegasus Airlines,1445,03:23,,,,,738,,,"Direct",580,1706,3926
+- -,AMS,ADB,SunExpress (XQ),SunExpress,1445,03:23,,,,,738,,,"Direct",580,1706,4573
+- -,AMS,AES,Alitalia (AZ),Alitalia,709,01:55,,,,,E90,,,"Codeshare",580,630,596
+- -,AMS,AES,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,709,01:55,,,,,EMJ,,,"Codeshare",580,630,3090
+- -,AMS,AGP,Transavia Holland (HV),Transavia Holland,1169,02:50,,,,,73H 73W,,,"Direct",580,1230,5039
+- -,AMS,AGP,Iberia Airlines (IB),Iberia Airlines,1169,02:50,,,,,320,,,"Codeshare",580,1230,2822
+- -,AMS,AGP,Formosa Airlines (VY),Formosa Airlines,1169,02:50,,,,,320,,,"Direct",580,1230,2439
+- -,AMS,AJA,Transavia Holland (HV),Transavia Holland,741,01:58,,,,,73H,,,"Direct",580,1324,5039
+- -,AMS,ALA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3264,07:01,,,,,330,,,"Direct",580,2908,3090
+- -,AMS,ALC,Transavia Holland (HV),Transavia Holland,1001,02:30,,,,,73H 73W,,,"Direct",580,1212,5039
+- -,AMS,ALC,Iberia Airlines (IB),Iberia Airlines,1001,02:30,,,,,320,,,"Codeshare",580,1212,2822
+- -,AMS,ALC,Formosa Airlines (VY),Formosa Airlines,1001,02:30,,,,,320,,,"Direct",580,1212,2439
+- -,AMS,AMM,Royal Jordanian (RJ),Royal Jordanian,2112,04:43,,,,,321 319,,,"Direct",580,2170,4259
+- -,AMS,ARN,Alitalia (AZ),Alitalia,715,01:55,,,,,737,,,"Codeshare",580,737,596
+- -,AMS,ARN,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,715,01:55,,,,,73H,,,"Direct",580,737,3737
+- -,AMS,ARN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,715,01:55,,,,,737,,,"Direct",580,737,3090
+- -,AMS,ARN,Scandinavian Airlines System (SK),Scandinavian Airlines System,715,01:55,,,,,717 73W 736,,,"Direct",580,737,4319
+- -,AMS,ASR,Pegasus Airlines (PC),Pegasus Airlines,1736,03:58,,,,,738,,,"Direct",580,1696,3926
+- -,AMS,ASR,SunExpress (XQ),SunExpress,1736,03:58,,,,,738,,,"Direct",580,1696,4573
+- -,AMS,ATH,Transavia Holland (HV),Transavia Holland,1354,03:12,,,,,73H 73W,,,"Direct",580,3941,5039
+- -,AMS,ATH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1354,03:12,,,,,737,,,"Direct",580,3941,3090
+- -,AMS,ATL,Delta Air Lines (DL),Delta Air Lines,4387,09:16,,,,,333 76W,,,"Direct",580,3682,2009
+- -,AMS,ATL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4387,09:16,,,,, 777,,,"Direct",580,3682,3090
+- -,AMS,AUA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4892,10:17,,,,,330,,,"Direct",580,2895,3090
+- -,AMS,AUA,Arkefly (OR),Arkefly,4892,10:17,,,,,763,,,"Direct",580,2895,1299
+- -,AMS,AUH,Air France (AF),Air France,3224,06:56,,,,,332,,,"Codeshare",580,2179,137
+- -,AMS,AUH,Air Baltic (BT),Air Baltic,3224,06:56,,,,,332,,,"Direct",580,2179,333
+- -,AMS,AUH,Delta Air Lines (DL),Delta Air Lines,3224,06:56,,,,,332,,,"Codeshare",580,2179,2009
+- -,AMS,AUH,Etihad Airways (EY),Etihad Airways,3224,06:56,,,,,332,,,"Direct",580,2179,2222
+- -,AMS,AUH,Garuda Indonesia (GA),Garuda Indonesia,3224,06:56,,,,,332,,,"Direct",580,2179,2520
+- -,AMS,AUH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3224,06:56,,,,,330,,,"Direct",580,2179,3090
+- -,AMS,AUH,TAP Portugal (TP),TAP Portugal,3224,06:56,,,,,332,,,"Direct",580,2179,4869
+- -,AMS,AYT,Transavia Holland (HV),Transavia Holland,1648,03:47,,,,,73H 73W,,,"Direct",580,1688,5039
+- -,AMS,AYT,Pegasus Airlines (PC),Pegasus Airlines,1648,03:47,,,,,738,,,"Direct",580,1688,3926
+- -,AMS,BCN,Transavia Holland (HV),Transavia Holland,770,02:02,,,,,73H 73W,,,"Direct",580,1218,5039
+- -,AMS,BCN,Iberia Airlines (IB),Iberia Airlines,770,02:02,,,,,320,,,"Codeshare",580,1218,2822
+- -,AMS,BCN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,770,02:02,,,,,737,,,"Direct",580,1218,3090
+- -,AMS,BCN,China Eastern Airlines (MU),China Eastern Airlines,770,02:02,,,,,737,,,"Direct",580,1218,1758
+- -,AMS,BCN,Formosa Airlines (VY),Formosa Airlines,770,02:02,,,,,320,,,"Direct",580,1218,2439
+- -,AMS,BEG,Etihad Airways (EY),Etihad Airways,875,02:15,,,,,319,,,"Direct",580,1739,2222
+- -,AMS,BEG,Air Serbia (JU),Air Serbia,875,02:15,,,,,319,,,"Direct",580,1739,19582
+- -,AMS,BFS,easyJet (U2),easyJet,478,01:27,,,,,319,,,"Direct",580,465,2297
+- -,AMS,BGO,Alitalia (AZ),Alitalia,551,01:36,,,,,E90 737,,,"Codeshare",580,636,596
+- -,AMS,BGO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,551,01:36,,,,,F70 EMJ 737,,,"Direct",580,636,3090
+- -,AMS,BHX,Flybe (BE),Flybe,274,01:02,,,,,E75 DH4,,,"Direct",580,469,2421
+- -,AMS,BHX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,274,01:02,,,,,EMJ 737,,,"Direct",580,469,3090
+- -,AMS,BIO,Iberia Airlines (IB),Iberia Airlines,715,01:55,,,,,320,,,"Codeshare",580,1216,2822
+- -,AMS,BIO,Formosa Airlines (VY),Formosa Airlines,715,01:55,,,,,320,,,"Direct",580,1216,2439
+- -,AMS,BJV,Transavia Holland (HV),Transavia Holland,1517,03:32,,,,,73H,,,"Direct",580,4315,5039
+- -,AMS,BKK,EVA Air (BR),EVA Air,5718,11:56,,,,,77W,,,"Direct",580,3885,2091
+- -,AMS,BKK,China Airlines (CI),China Airlines,5718,11:56,,,,,343,,,"Direct",580,3885,1756
+- -,AMS,BKK,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5718,11:56,,,,,777,,,"Direct",580,3885,3090
+- -,AMS,BLL,Alitalia (AZ),Alitalia,296,01:05,,,,,737 F70 E90,,,"Codeshare",580,608,596
+- -,AMS,BLL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,296,01:05,,,,,737 EMJ,,,"Direct",580,608,3090
+- -,AMS,BLQ,Alitalia (AZ),Alitalia,613,01:43,,,,,E90,,,"Codeshare",580,1538,596
+- -,AMS,BLQ,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,613,01:43,,,,,EMJ,,,"Codeshare",580,1538,3090
+- -,AMS,BLQ,China Eastern Airlines (MU),China Eastern Airlines,613,01:43,,,,,EMJ,,,"Direct",580,1538,1758
+- -,AMS,BOD,Air France (AF),Air France,573,01:38,,,,,E90 73W F70,,,"Codeshare",580,1264,137
+- -,AMS,BOD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,573,01:38,,,,,F70,,,"Direct",580,1264,3090
+- -,AMS,BOD,easyJet (U2),easyJet,573,01:38,,,,,319,,,"Direct",580,1264,2297
+- -,AMS,BOM,Delta Air Lines (DL),Delta Air Lines,4259,09:01,,,,,76W,,,"Direct",580,2997,2009
+- -,AMS,BOM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4259,09:01,,,,,76W,,,"Codeshare",580,2997,3090
+- -,AMS,BON,Arkefly (OR),Arkefly,4839,10:10,,,,,763,,,"Direct",580,2896,1299
+- -,AMS,BOS,Delta Air Lines (DL),Delta Air Lines,3445,07:23,,,,,333,,,"Direct",580,3448,2009
+- -,AMS,BOS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3445,07:23,,,,,330,,,"Codeshare",580,3448,3090
+- -,AMS,BRE,Alitalia (AZ),Alitalia,175,00:51,,,,,F70,,,"Codeshare",580,353,596
+- -,AMS,BRE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,175,00:51,,,,,F70,,,"Codeshare",580,353,3090
+- -,AMS,BRI,Transavia Holland (HV),Transavia Holland,955,02:24,,,,,73H 73W,,,"Direct",580,1501,5039
+- -,AMS,BRN,SkyWork Airlines  (SX),SkyWork Airlines ,392,01:17,,,,,D38,,,"Direct",580,1676,18543
+- -,AMS,BRS,Alitalia (AZ),Alitalia,325,01:09,,,,,E90,,,"Codeshare",580,490,596
+- -,AMS,BRS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,325,01:09,,,,,EMJ,,,"Codeshare",580,490,3090
+- -,AMS,BRS,easyJet (U2),easyJet,325,01:09,,,,,320 319,,,"Direct",580,490,2297
+- -,AMS,BRU,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,97,00:41,,,,,F70 EMJ,,,"Codeshare",580,302,3090
+- -,AMS,BSL,Air France (AF),Air France,348,01:11,,,,,F70 E90,,,"Codeshare",580,1423,137
+- -,AMS,BSL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,348,01:11,,,,,F70 EMJ,,,"Codeshare",580,1423,3090
+- -,AMS,BSL,easyJet (U2),easyJet,348,01:11,,,,,319 320,,,"Direct",580,1423,2297
+- -,AMS,BUD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,726,01:57,,,,,737,,,"Direct",580,1489,3090
+- -,AMS,CAI,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,2041,04:34,,,,,777,,,"Direct",580,1128,3090
+- -,AMS,CAI,Egyptair (MS),Egyptair,2041,04:34,,,,,738,,,"Direct",580,1128,2143
+- -,AMS,CAN,China Southern Airlines (CZ),China Southern Airlines,5675,11:51,,,,,332,,,"Direct",580,3370,1767
+- -,AMS,CAN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5675,11:51,,,,,330,,,"Codeshare",580,3370,3090
+- -,AMS,CDG,Air France (AF),Air France,247,00:59,,,,,321 320 319 318 32A,,,"Direct",580,1382,137
+- -,AMS,CDG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,247,00:59,,,,,737,,,"Direct",580,1382,3090
+- -,AMS,CDG,China Eastern Airlines (MU),China Eastern Airlines,247,00:59,,,,,737,,,"Codeshare",580,1382,1758
+- -,AMS,CFE,Airlinair (A5),Airlinair,456,01:24,,,,,ER4,,,"Direct",580,1330,1203
+- -,AMS,CFE,Air France (AF),Air France,456,01:24,,,,,ER4,,,"Codeshare",580,1330,137
+- -,AMS,CFE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,456,01:24,,,,,ERJ,,,"Codeshare",580,1330,3090
+- -,AMS,CFU,Transavia Holland (HV),Transavia Holland,1134,02:46,,,,,73H,,,"Direct",580,1460,5039
+- -,AMS,CGN,Alitalia (AZ),Alitalia,142,00:47,,,,,F70,,,"Codeshare",580,344,596
+- -,AMS,CGN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,142,00:47,,,,,F70,,,"Codeshare",580,344,3090
+- -,AMS,CHQ,Transavia Holland (HV),Transavia Holland,1497,03:29,,,,,73H,,,"Direct",580,1474,5039
+- -,AMS,CMN,Royal Air Maroc (AT),Royal Air Maroc,1445,03:23,,,,,738,,,"Direct",580,1074,4248
+- -,AMS,CMN,Transavia Holland (HV),Transavia Holland,1445,03:23,,,,,73W 73H,,,"Direct",580,1074,5039
+- -,AMS,CPH,Air Canada (AC),Air Canada,393,01:17,,,,,319 321,,,"Codeshare",580,609,330
+- -,AMS,CPH,Alitalia (AZ),Alitalia,393,01:17,,,,,737 E90,,,"Codeshare",580,609,596
+- -,AMS,CPH,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,393,01:17,,,,,73H,,,"Direct",580,609,3737
+- -,AMS,CPH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,393,01:17,,,,,737 EMJ,,,"Direct",580,609,3090
+- -,AMS,CPH,China Eastern Airlines (MU),China Eastern Airlines,393,01:17,,,,,EMJ 737 F70,,,"Direct",580,609,1758
+- -,AMS,CPH,Scandinavian Airlines System (SK),Scandinavian Airlines System,393,01:17,,,,,320 319 321 CR9,,,"Direct",580,609,4319
+- -,AMS,CPT,Alitalia (AZ),Alitalia,6015,12:31,,,,,777,,,"Codeshare",580,797,596
+- -,AMS,CPT,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,6015,12:31,,,,,777,,,"Direct",580,797,3090
+- -,AMS,CTA,Air One (AP),Air One,1139,02:46,,,,,320,,,"Direct",580,1509,240
+- -,AMS,CTA,Alitalia (AZ),Alitalia,1139,02:46,,,,,320,,,"Direct",580,1509,596
+- -,AMS,CTA,Transavia Holland (HV),Transavia Holland,1139,02:46,,,,,73H 73W,,,"Direct",580,1509,5039
+- -,AMS,CTU,China Southern Airlines (CZ),China Southern Airlines,4932,10:21,,,,,74M,,,"Codeshare",580,3395,1767
+- -,AMS,CTU,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4932,10:21,,,,,74M,,,"Direct",580,3395,3090
+- -,AMS,CUR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4865,10:13,,,,,747,,,"Direct",580,2897,3090
+- -,AMS,CUR,Arkefly (OR),Arkefly,4865,10:13,,,,,763,,,"Direct",580,2897,1299
+- -,AMS,CWL,Alitalia (AZ),Alitalia,351,01:12,,,,,F70,,,"Codeshare",580,488,596
+- -,AMS,CWL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,351,01:12,,,,,F70,,,"Codeshare",580,488,3090
+- -,AMS,DBV,Croatia Airlines (OU),Croatia Airlines,919,02:20,,,,,319,,,"Direct",580,1200,1925
+- -,AMS,DEL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3951,08:24,,,,,330,,,"Direct",580,3093,3090
+- -,AMS,DFW,Delta Air Lines (DL),Delta Air Lines,4906,10:18,,,,,332,,,"Codeshare",580,3670,2009
+- -,AMS,DFW,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4906,10:18,,,,,330,,,"Direct",580,3670,3090
+- -,AMS,DLM,Transavia Holland (HV),Transavia Holland,1586,03:40,,,,,73H,,,"Direct",580,1715,5039
+- -,AMS,DMM,Air France (AF),Air France,2921,06:20,,,,,332,,,"Codeshare",580,2064,137
+- -,AMS,DMM,Delta Air Lines (DL),Delta Air Lines,2921,06:20,,,,,332,,,"Codeshare",580,2064,2009
+- -,AMS,DMM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,2921,06:20,,,,,330,,,"Direct",580,2064,3090
+- -,AMS,DOH,Air France (AF),Air France,3057,06:36,,,,,332,,,"Codeshare",580,11051,137
+- -,AMS,DOH,Delta Air Lines (DL),Delta Air Lines,3057,06:36,,,,,332,,,"Codeshare",580,11051,2009
+- -,AMS,DOH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3057,06:36,,,,,330,,,"Direct",580,11051,3090
+- -,AMS,DTW,Delta Air Lines (DL),Delta Air Lines,3927,08:21,,,,,777 333 76W 332,,,"Direct",580,3645,2009
+- -,AMS,DTW,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3927,08:21,,,,,777 330 76W,,,"Codeshare",580,3645,3090
+- -,AMS,DUB,Aer Lingus (EI),Aer Lingus,465,01:25,,,,,320,,,"Direct",580,599,837
+- -,AMS,DUS,Alitalia (AZ),Alitalia,110,00:43,,,,,F70,,,"Codeshare",580,345,596
+- -,AMS,DUS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,110,00:43,,,,,F70,,,"Codeshare",580,345,3090
+- -,AMS,DXB,Alitalia (AZ),Alitalia,3209,06:55,,,,,777,,,"Codeshare",580,2188,596
+- -,AMS,DXB,Emirates (EK),Emirates,3209,06:55,,,,,388,,,"Direct",580,2188,2183
+- -,AMS,DXB,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3209,06:55,,,,,777,,,"Direct",580,2188,3090
+- -,AMS,EBL,Transavia Holland (HV),Transavia Holland,2195,04:53,,,,,73H,,,"Direct",580,3989,5039
+- -,AMS,EDI,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,413,01:19,,,,,737 EMJ,,,"Direct",580,535,3090
+- -,AMS,EDI,easyJet (U2),easyJet,413,01:19,,,,,320 319,,,"Direct",580,535,2297
+- -,AMS,EMA,Flybe (BE),Flybe,258,01:00,,,,,DH4,,,"Direct",580,523,2421
+- -,AMS,EWR,Delta Air Lines (DL),Delta Air Lines,3644,07:47,,,,,76W,,,"Direct",580,3494,2009
+- -,AMS,EWR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3644,07:47,,,,,76W,,,"Codeshare",580,3494,3090
+- -,AMS,EWR,Lufthansa (LH),Lufthansa,3644,07:47,,,,,752 763,,,"Codeshare",580,3494,3320
+- -,AMS,EWR,United Airlines (UA),United Airlines,3644,07:47,,,,,752 763,,,"Direct",580,3494,5209
+- -,AMS,EXT,Flybe (BE),Flybe,367,01:14,,,,,DH4,,,"Direct",580,552,2421
+- -,AMS,EZE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,7118,14:44,,,,,777,,,"Direct",580,3988,3090
+- -,AMS,FAO,Transavia Holland (HV),Transavia Holland,1223,02:56,,,,,73H,,,"Direct",580,1626,5039
+- -,AMS,FCO,Alitalia (AZ),Alitalia,805,02:06,,,,,321 32S 320 319,,,"Direct",580,1555,596
+- -,AMS,FCO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,805,02:06,,,,,737,,,"Direct",580,1555,3090
+- -,AMS,FCO,China Eastern Airlines (MU),China Eastern Airlines,805,02:06,,,,,737,,,"Direct",580,1555,1758
+- -,AMS,FCO,easyJet (U2),easyJet,805,02:06,,,,,319,,,"Direct",580,1555,2297
+- -,AMS,FLR,Alitalia (AZ),Alitalia,657,01:48,,,,,E90,,,"Direct",580,1563,596
+- -,AMS,FLR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,657,01:48,,,,,EMJ,,,"Direct",580,1563,3090
+- -,AMS,FNC,Transavia Holland (HV),Transavia Holland,1728,03:57,,,,,73H,,,"Direct",580,4091,5039
+- -,AMS,FRA,Ethiopian Airlines (ET),Ethiopian Airlines,227,00:57,,,,,32A 319,,,"Codeshare",580,340,2220
+- -,AMS,FRA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,227,00:57,,,,,EMJ F70,,,"Codeshare",580,340,3090
+- -,AMS,FRA,Lufthansa (LH),Lufthansa,227,00:57,,,,,733 735 320 319 32A 321,,,"Direct",580,340,3320
+- -,AMS,FRA,China Eastern Airlines (MU),China Eastern Airlines,227,00:57,,,,,EMJ F70,,,"Codeshare",580,340,1758
+- -,AMS,FUE,Transavia Holland (HV),Transavia Holland,1904,04:18,,,,,73H,,,"Direct",580,1051,5039
+- -,AMS,FUK,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5656,11:48,,,,,777,,,"Direct",580,2305,3090
+- -,AMS,GCI,Skynet Airlines (SI),Skynet Airlines,377,01:15,,,,,AT4 ATR,,,"Direct",580,498,4438
+- -,AMS,GDN,Eurolot (K2),Eurolot,581,01:39,,,,,DH4,,,"Direct",580,668,2245
+- -,AMS,GIG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5936,12:22,,,,,777,,,"Direct",580,2560,3090
+- -,AMS,GLA,Alitalia (AZ),Alitalia,445,01:23,,,,,737,,,"Codeshare",580,534,596
+- -,AMS,GLA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,445,01:23,,,,,EMJ 737,,,"Direct",580,534,3090
+- -,AMS,GLA,easyJet (U2),easyJet,445,01:23,,,,,319,,,"Direct",580,534,2297
+- -,AMS,GOT,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,474,01:26,,,,,EMJ,,,"Direct",580,687,3090
+- -,AMS,GRO,Transavia Holland (HV),Transavia Holland,724,01:56,,,,,73H,,,"Direct",580,1222,5039
+- -,AMS,GRU,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,6070,12:38,,,,,777,,,"Direct",580,2564,3090
+- -,AMS,GUW,Air Astana (KC),Air Astana,2093,04:41,,,,,321,,,"Direct",580,4357,1006
+- -,AMS,GVA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,423,01:20,,,,,737 F70 EMJ,,,"Direct",580,1665,3090
+- -,AMS,GVA,easyJet (U2),easyJet,423,01:20,,,,,319 320,,,"Direct",580,1665,2297
+- -,AMS,HAJ,Alitalia (AZ),Alitalia,207,00:54,,,,,E90 F70,,,"Codeshare",580,352,596
+- -,AMS,HAJ,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,207,00:54,,,,,EMJ F70,,,"Codeshare",580,352,3090
+- -,AMS,HAM,Germanwings (4U),Germanwings,235,00:58,,,,,CRJ,,,"Direct",580,342,2548
+- -,AMS,HAM,Alitalia (AZ),Alitalia,235,00:58,,,,,737 F70 E90,,,"Codeshare",580,342,596
+- -,AMS,HAM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,235,00:58,,,,,737 EMJ,,,"Direct",580,342,3090
+- -,AMS,HAV,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4855,10:12,,,,,330,,,"Direct",580,1909,3090
+- -,AMS,HEL,Finnair (AY),Finnair,944,02:23,,,,,320 321,,,"Direct",580,421,2350
+- -,AMS,HEL,Alitalia (AZ),Alitalia,944,02:23,,,,,737,,,"Codeshare",580,421,596
+- -,AMS,HEL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,944,02:23,,,,,737,,,"Direct",580,421,3090
+- -,AMS,HEL,Malaysia Airlines (MH),Malaysia Airlines,944,02:23,,,,,320,,,"Codeshare",580,421,3378
+- -,AMS,HER,Transavia Holland (HV),Transavia Holland,1540,03:34,,,,,73H,,,"Direct",580,1452,5039
+- -,AMS,HGH,China Southern Airlines (CZ),China Southern Airlines,5540,11:34,,,,,777,,,"Codeshare",580,3386,1767
+- -,AMS,HGH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5540,11:34,,,,,777,,,"Direct",580,3386,3090
+- -,AMS,HKG,Cathay Pacific (CX),Cathay Pacific,5759,12:01,,,,,343,,,"Direct",580,3077,1680
+- -,AMS,HKG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5759,12:01,,,,,74M,,,"Direct",580,3077,3090
+- -,AMS,HOG,Arkefly (OR),Arkefly,4717,09:56,,,,,763,,,"Direct",580,1910,1299
+- -,AMS,HRE,Air France (AF),Air France,5101,10:42,,,,,332,,,"Codeshare",580,1005,137
+- -,AMS,HRE,Delta Air Lines (DL),Delta Air Lines,5101,10:42,,,,,332,,,"Codeshare",580,1005,2009
+- -,AMS,HRE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5101,10:42,,,,,330,,,"Direct",580,1005,3090
+- -,AMS,HUY,Alitalia (AZ),Alitalia,230,00:57,,,,,F70,,,"Codeshare",580,515,596
+- -,AMS,HUY,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,230,00:57,,,,,F70,,,"Codeshare",580,515,3090
+- -,AMS,IAD,Delta Air Lines (DL),Delta Air Lines,3854,08:12,,,,,333 332,,,"Codeshare",580,3714,2009
+- -,AMS,IAD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3854,08:12,,,,,330,,,"Direct",580,3714,3090
+- -,AMS,IAD,Lufthansa (LH),Lufthansa,3854,08:12,,,,,763,,,"Codeshare",580,3714,3320
+- -,AMS,IAD,United Airlines (UA),United Airlines,3854,08:12,,,,,763,,,"Direct",580,3714,5209
+- -,AMS,IAH,Delta Air Lines (DL),Delta Air Lines,4998,10:29,,,,,74M,,,"Codeshare",580,3550,2009
+- -,AMS,IAH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4998,10:29,,,,,74M,,,"Direct",580,3550,3090
+- -,AMS,IAH,Lufthansa (LH),Lufthansa,4998,10:29,,,,,777,,,"Codeshare",580,3550,3320
+- -,AMS,IAH,United Airlines (UA),United Airlines,4998,10:29,,,,,777,,,"Direct",580,3550,5209
+- -,AMS,IBZ,Transavia Holland (HV),Transavia Holland,941,02:22,,,,,73H 73W,,,"Direct",580,1225,5039
+- -,AMS,IBZ,Iberia Airlines (IB),Iberia Airlines,941,02:22,,,,,320,,,"Codeshare",580,1225,2822
+- -,AMS,IBZ,Formosa Airlines (VY),Formosa Airlines,941,02:22,,,,,320,,,"Direct",580,1225,2439
+- -,AMS,ICN,Korean Air (KE),Korean Air,5310,11:07,,,,,332,,,"Direct",580,3930,3163
+- -,AMS,ICN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5310,11:07,,,,,74M 330,,,"Direct",580,3930,3090
+- -,AMS,IKA,Iran Air (IR),Iran Air,2531,05:33,,,,,AB6,,,"Direct",580,4330,2922
+- -,AMS,INN,Transavia Holland (HV),Transavia Holland,455,01:24,,,,,73H,,,"Direct",580,1610,5039
+- -,AMS,INV,Flybe (BE),Flybe,502,01:30,,,,,DH4,,,"Direct",580,533,2421
+- -,AMS,ISL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1372,03:14,,,,,737,,,"Direct",580,1701,3090
+- -,AMS,ISL,Turkish Airlines (TK),Turkish Airlines,1372,03:14,,,,,343 321 320 330,,,"Direct",580,1701,4951
+- -,AMS,JER,Skynet Airlines (SI),Skynet Airlines,371,01:14,,,,,AT4,,,"Direct",580,499,4438
+- -,AMS,JFK,Delta Air Lines (DL),Delta Air Lines,3631,07:45,,,,,76W,,,"Direct",580,3797,2009
+- -,AMS,JFK,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3631,07:45,,,,,330 777 74M 747,,,"Direct",580,3797,3090
+- -,AMS,JKH,Transavia Holland (HV),Transavia Holland,1406,03:18,,,,,73W,,,"Direct",580,1450,5039
+- -,AMS,JMK,Transavia Holland (HV),Transavia Holland,1428,03:21,,,,,73H,,,"Direct",580,1468,5039
+- -,AMS,JNB,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5599,11:41,,,,,777,,,"Direct",580,813,3090
+- -,AMS,JRO,Air France (AF),Air France,4285,09:04,,,,,332,,,"Codeshare",580,1180,137
+- -,AMS,JRO,Delta Air Lines (DL),Delta Air Lines,4285,09:04,,,,,332 330,,,"Codeshare",580,1180,2009
+- -,AMS,JRO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4285,09:04,,,,,330,,,"Direct",580,1180,3090
+- -,AMS,JTR,Transavia Holland (HV),Transavia Holland,1490,03:28,,,,,73H,,,"Direct",580,1479,5039
+- -,AMS,KBP,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1129,02:45,,,,,737,,,"Direct",580,2939,3090
+- -,AMS,KBP,Ukraine International Airlines (PS),Ukraine International Airlines,1129,02:45,,,,,73R,,,"Direct",580,2939,5282
+- -,AMS,KEF,Icelandair (FI),Icelandair,1265,03:01,,,,,75W 75T,,,"Direct",580,16,2835
+- -,AMS,KGL,Air France (AF),Air France,4028,08:33,,,,,332,,,"Codeshare",580,1165,137
+- -,AMS,KGL,Delta Air Lines (DL),Delta Air Lines,4028,08:33,,,,,332 330,,,"Codeshare",580,1165,2009
+- -,AMS,KGL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4028,08:33,,,,,330,,,"Direct",580,1165,3090
+- -,AMS,KGS,Transavia Holland (HV),Transavia Holland,1522,03:32,,,,,73H,,,"Direct",580,1458,5039
+- -,AMS,KIT,Transavia Holland (HV),Transavia Holland,1419,03:20,,,,,73W,,,"Direct",580,1454,5039
+- -,AMS,KIX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5739,11:58,,,,,777,,,"Direct",580,3992,3090
+- -,AMS,KRK,Eurolot (K2),Eurolot,666,01:49,,,,,DH4,,,"Direct",580,669,2245
+- -,AMS,KRS,Alitalia (AZ),Alitalia,427,01:21,,,,,E90 F70,,,"Codeshare",580,638,596
+- -,AMS,KRS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,427,01:21,,,,,F70 EMJ,,,"Codeshare",580,638,3090
+- -,AMS,KUL,Air France (AF),Air France,6357,13:12,,,,,772,,,"Codeshare",580,3304,137
+- -,AMS,KUL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,6357,13:12,,,,,777,,,"Direct",580,3304,3090
+- -,AMS,KUL,Malaysia Airlines (MH),Malaysia Airlines,6357,13:12,,,,,772,,,"Direct",580,3304,3378
+- -,AMS,KWI,Air France (AF),Air France,2704,05:54,,,,,332,,,"Codeshare",580,2176,137
+- -,AMS,KWI,Delta Air Lines (DL),Delta Air Lines,2704,05:54,,,,,332 330,,,"Codeshare",580,2176,2009
+- -,AMS,KWI,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,2704,05:54,,,,,330,,,"Direct",580,2176,3090
+- -,AMS,KYA,Pegasus Airlines (PC),Pegasus Airlines,1659,03:49,,,,,738,,,"Direct",580,1691,3926
+- -,AMS,LAD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4253,09:00,,,,,330,,,"Direct",580,951,3090
+- -,AMS,LAX,Delta Air Lines (DL),Delta Air Lines,5561,11:37,,,,,74M 747,,,"Codeshare",580,3484,2009
+- -,AMS,LAX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5561,11:37,,,,,74M 747,,,"Direct",580,3484,3090
+- -,AMS,LBA,Alitalia (AZ),Alitalia,287,01:04,,,,,F70,,,"Codeshare",580,517,596
+- -,AMS,LBA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,287,01:04,,,,,F70 EMJ,,,"Codeshare",580,517,3090
+- -,AMS,LBA,Jet2.com (LS),Jet2.com,287,01:04,,,,,733,,,"Direct",580,517,3026
+- -,AMS,LCA,Cyprus Airways (CY),Cyprus Airways,1857,04:12,,,,,320,,,"Direct",580,1197,1942
+- -,AMS,LCA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1857,04:12,,,,,32S,,,"Codeshare",580,1197,3090
+- -,AMS,LCY,Air France (AF),Air France,208,00:54,,,,,AR8,,,"Codeshare",580,503,137
+- -,AMS,LCY,British Airways (BA),British Airways,208,00:54,,,,,E90 E70,,,"Codeshare",580,503,1355
+- -,AMS,LCY,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,208,00:54,,,,,ARJ,,,"Codeshare",580,503,3090
+- -,AMS,LCY,CityJet (WX),CityJet,208,00:54,,,,,AR8,,,"Direct",580,503,1792
+- -,AMS,LED,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1101,02:42,,,,,737,,,"Direct",580,2948,3090
+- -,AMS,LED,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,1101,02:42,,,,,737,,,"Codeshare",580,2948,130
+- -,AMS,LEJ,Flybaboo (F7),Flybaboo,324,01:08,,,,,S20,,,"Direct",580,348,2420
+- -,AMS,LGW,British Airways (BA),British Airways,226,00:57,,,,,319 734,,,"Direct",580,502,1355
+- -,AMS,LGW,easyJet (U2),easyJet,226,00:57,,,,,319 320,,,"Direct",580,502,2297
+- -,AMS,LHR,American Airlines (AA),American Airlines,230,00:57,,,,,320 767 321 319,,,"Codeshare",580,507,24
+- -,AMS,LHR,British Airways (BA),British Airways,230,00:57,,,,,320 767 319 321,,,"Direct",580,507,1355
+- -,AMS,LHR,China Airlines (CI),China Airlines,230,00:57,,,,,F70,,,"Direct",580,507,1756
+- -,AMS,LHR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,230,00:57,,,,,737 F70 EMJ,,,"Direct",580,507,3090
+- -,AMS,LHR,China Eastern Airlines (MU),China Eastern Airlines,230,00:57,,,,,737 F70,,,"Codeshare",580,507,1758
+- -,AMS,LIM,Alitalia (AZ),Alitalia,6533,13:33,,,,,77W 777,,,"Codeshare",580,2789,596
+- -,AMS,LIM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,6533,13:33,,,,,777,,,"Direct",580,2789,3090
+- -,AMS,LIN,Air One (AP),Air One,516,01:31,,,,,32S 321,,,"Codeshare",580,1529,240
+- -,AMS,LIN,Alitalia (AZ),Alitalia,516,01:31,,,,,32S 321,,,"Direct",580,1529,596
+- -,AMS,LIN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,516,01:31,,,,,737,,,"Direct",580,1529,3090
+- -,AMS,LIS,Finnair (AY),Finnair,1146,02:47,,,,,320 319,,,"Codeshare",580,1638,2350
+- -,AMS,LIS,Etihad Airways (EY),Etihad Airways,1146,02:47,,,,,32S,,,"Codeshare",580,1638,2222
+- -,AMS,LIS,Transavia Holland (HV),Transavia Holland,1146,02:47,,,,,73H 73W,,,"Direct",580,1638,5039
+- -,AMS,LIS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1146,02:47,,,,,737,,,"Direct",580,1638,3090
+- -,AMS,LIS,SATA International (S4),SATA International,1146,02:47,,,,,319,,,"Codeshare",580,1638,4304
+- -,AMS,LIS,TAP Portugal (TP),TAP Portugal,1146,02:47,,,,,319 320,,,"Direct",580,1638,4869
+- -,AMS,LIS,easyJet (U2),easyJet,1146,02:47,,,,,319,,,"Direct",580,1638,2297
+- -,AMS,LIS,US Airways (US),US Airways,1146,02:47,,,,,320 319,,,"Codeshare",580,1638,5265
+- -,AMS,LJU,Adria Airways (JP),Adria Airways,605,01:42,,,,,319 CR9,,,"Direct",580,1569,83
+- -,AMS,LOS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3158,06:48,,,,,330,,,"Direct",580,273,3090
+- -,AMS,LPA,Transavia Holland (HV),Transavia Holland,1976,04:27,,,,,73H,,,"Direct",580,1054,5039
+- -,AMS,LPI,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,599,01:41,,,,,F70 EMJ,,,"Codeshare",580,742,3090
+- -,AMS,LPL,easyJet (U2),easyJet,325,01:09,,,,,319 320,,,"Direct",580,491,2297
+- -,AMS,LTN,easyJet (U2),easyJet,219,00:56,,,,,320 319,,,"Direct",580,492,2297
+- -,AMS,LUX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,195,00:53,,,,,EMJ F70,,,"Codeshare",580,629,3090
+- -,AMS,LYS,Air France (AF),Air France,454,01:24,,,,,F70,,,"Direct",580,1335,137
+- -,AMS,LYS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,454,01:24,,,,,EMJ F70,,,"Codeshare",580,1335,3090
+- -,AMS,MAD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,907,02:18,,,,,737,,,"Direct",580,1229,3090
+- -,AMS,MAD,China Eastern Airlines (MU),China Eastern Airlines,907,02:18,,,,,737,,,"Direct",580,1229,1758
+- -,AMS,MAD,Air Europa (UX),Air Europa,907,02:18,,,,,738,,,"Direct",580,1229,90
+- -,AMS,MAN,China Airlines (CI),China Airlines,302,01:06,,,,,737 E90 F70,,,"Codeshare",580,478,1756
+- -,AMS,MAN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,302,01:06,,,,,737 EMJ F70,,,"Direct",580,478,3090
+- -,AMS,MAN,easyJet (U2),easyJet,302,01:06,,,,,320 319,,,"Direct",580,478,2297
+- -,AMS,MEX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5717,11:56,,,,,74M,,,"Direct",580,1824,3090
+- -,AMS,MLA,Transavia Holland (HV),Transavia Holland,1231,02:57,,,,,73H,,,"Direct",580,1606,5039
+- -,AMS,MLA,Air Malta (KM),Air Malta,1231,02:57,,,,,320 319,,,"Direct",580,1606,242
+- -,AMS,MME,Alitalia (AZ),Alitalia,296,01:05,,,,,F70,,,"Codeshare",580,522,596
+- -,AMS,MME,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,296,01:05,,,,,F70,,,"Codeshare",580,522,3090
+- -,AMS,MRS,Air France (AF),Air France,612,01:43,,,,,319,,,"Direct",580,1353,137
+- -,AMS,MRS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,612,01:43,,,,,32S,,,"Codeshare",580,1353,3090
+- -,AMS,MSP,Delta Air Lines (DL),Delta Air Lines,4151,08:48,,,,,333 332 76W,,,"Direct",580,3858,2009
+- -,AMS,MSP,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4151,08:48,,,,,330 76W,,,"Codeshare",580,3858,3090
+- -,AMS,MSQ,Belavia Belarusian Airlines (B2),Belavia Belarusian Airlines,966,02:25,,,,,735 733,,,"Direct",580,2954,1478
+- -,AMS,MUC,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,412,01:19,,,,,737,,,"Direct",580,346,3090
+- -,AMS,MUC,Lufthansa (LH),Lufthansa,412,01:19,,,,,E95 CR9,,,"Codeshare",580,346,3320
+- -,AMS,MXP,easyJet (U2),easyJet,494,01:29,,,,,319 320,,,"Direct",580,1524,2297
+- -,AMS,NAP,Transavia Holland (HV),Transavia Holland,907,02:18,,,,,73H 73W,,,"Direct",580,1561,5039
+- -,AMS,NBO,Alitalia (AZ),Alitalia,4146,08:47,,,,,747,,,"Codeshare",580,4059,596
+- -,AMS,NBO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4146,08:47,,,,,747,,,"Direct",580,4059,3090
+- -,AMS,NBO,Kenya Airways (KQ),Kenya Airways,4146,08:47,,,,,772,,,"Direct",580,4059,3126
+- -,AMS,NCE,Air France (AF),Air France,607,01:42,,,,,73W E90 73H,,,"Codeshare",580,1354,137
+- -,AMS,NCE,Transavia Holland (HV),Transavia Holland,607,01:42,,,,,73H 73W,,,"Direct",580,1354,5039
+- -,AMS,NCE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,607,01:42,,,,,737 EMJ,,,"Direct",580,1354,3090
+- -,AMS,NCL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,324,01:08,,,,,EMJ 737,,,"Direct",580,521,3090
+- -,AMS,NCL,easyJet (U2),easyJet,324,01:08,,,,,319,,,"Direct",580,521,2297
+- -,AMS,NDR,Air Arabia Maroc (3O),Air Arabia Maroc,1256,03:00,,,,,320,,,"Direct",580,5673,9818
+- -,AMS,NDR,Royal Air Maroc (AT),Royal Air Maroc,1256,03:00,,,,,738,,,"Direct",580,5673,4248
+- -,AMS,NRT,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5787,12:04,,,,,747 74M 777,,,"Direct",580,2279,3090
+- -,AMS,NTE,Air France (AF),Air France,455,01:24,,,,,ER4,,,"Direct",580,1418,137
+- -,AMS,NTE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,455,01:24,,,,,ERJ,,,"Codeshare",580,1418,3090
+- -,AMS,NUE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,336,01:10,,,,,EMJ F70,,,"Codeshare",580,347,3090
+- -,AMS,NWI,Alitalia (AZ),Alitalia,148,00:47,,,,,F70,,,"Codeshare",580,547,596
+- -,AMS,NWI,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,148,00:47,,,,,F70,,,"Codeshare",580,547,3090
+- -,AMS,OPO,Finnair (AY),Finnair,990,02:28,,,,,100 ER4,,,"Codeshare",580,1636,2350
+- -,AMS,OPO,Etihad Airways (EY),Etihad Airways,990,02:28,,,,,100 ERJ,,,"Codeshare",580,1636,2222
+- -,AMS,OPO,Transavia Holland (HV),Transavia Holland,990,02:28,,,,,73W 73H,,,"Direct",580,1636,5039
+- -,AMS,OPO,TAP Portugal (TP),TAP Portugal,990,02:28,,,,,100 ER4,,,"Codeshare",580,1636,4869
+- -,AMS,ORD,Delta Air Lines (DL),Delta Air Lines,4106,08:42,,,,,74M,,,"Codeshare",580,3830,2009
+- -,AMS,ORD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4106,08:42,,,,,74M,,,"Direct",580,3830,3090
+- -,AMS,ORD,Lufthansa (LH),Lufthansa,4106,08:42,,,,,763,,,"Codeshare",580,3830,3320
+- -,AMS,ORD,United Airlines (UA),United Airlines,4106,08:42,,,,,763,,,"Direct",580,3830,5209
+- -,AMS,ORK,Aer Lingus (EI),Aer Lingus,562,01:37,,,,,320,,,"Direct",580,596,837
+- -,AMS,OSL,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,590,01:40,,,,,73H,,,"Direct",580,644,3737
+- -,AMS,OSL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,590,01:40,,,,,737 EMJ,,,"Direct",580,644,3090
+- -,AMS,OSL,Scandinavian Airlines System (SK),Scandinavian Airlines System,590,01:40,,,,,736 738 73G 73H,,,"Direct",580,644,4319
+- -,AMS,OTP,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1107,02:42,,,,,737,,,"Direct",580,1657,3090
+- -,AMS,OTP,Tarom (RO),Tarom,1107,02:42,,,,,733,,,"Direct",580,1657,5179
+- -,AMS,PBM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4672,09:50,,,,,747,,,"Direct",580,2773,3090
+- -,AMS,PBM,Surinam Airways (PY),Surinam Airways,4672,09:50,,,,,343,,,"Direct",580,2773,4752
+- -,AMS,PDL,SATA International (S4),SATA International,1774,04:02,,,,,320,,,"Direct",580,1633,4304
+- -,AMS,PDX,Delta Air Lines (DL),Delta Air Lines,4986,10:28,,,,,333,,,"Direct",580,3720,2009
+- -,AMS,PDX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4986,10:28,,,,,330,,,"Codeshare",580,3720,3090
+- -,AMS,PEK,China Southern Airlines (CZ),China Southern Airlines,4860,10:13,,,,,332,,,"Direct",580,3364,1767
+- -,AMS,PEK,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4860,10:13,,,,,74M,,,"Direct",580,3364,3090
+- -,AMS,PFO,Transavia Holland (HV),Transavia Holland,1824,04:08,,,,,73H,,,"Direct",580,1198,5039
+- -,AMS,PHL,American Airlines (AA),American Airlines,3724,07:56,,,,,757,,,"Direct",580,3752,24
+- -,AMS,PHL,US Airways (US),US Airways,3724,07:56,,,,,752,,,"Direct",580,3752,5265
+- -,AMS,PMI,Transavia Holland (HV),Transavia Holland,886,02:16,,,,,73H 73W,,,"Direct",580,3998,5039
+- -,AMS,PMI,Iberia Airlines (IB),Iberia Airlines,886,02:16,,,,,320,,,"Codeshare",580,3998,2822
+- -,AMS,PMI,Formosa Airlines (VY),Formosa Airlines,886,02:16,,,,,320,,,"Direct",580,3998,2439
+- -,AMS,PMO,Air One (AP),Air One,1054,02:36,,,,,320,,,"Direct",580,1512,240
+- -,AMS,PMO,Alitalia (AZ),Alitalia,1054,02:36,,,,,320,,,"Direct",580,1512,596
+- -,AMS,PMO,Transavia Holland (HV),Transavia Holland,1054,02:36,,,,,73H,,,"Direct",580,1512,5039
+- -,AMS,POP,Arkefly (OR),Arkefly,4529,09:33,,,,,763,,,"Direct",580,1761,1299
+- -,AMS,PRG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,437,01:22,,,,,F70 EMJ 737,,,"Codeshare",580,1587,3090
+- -,AMS,PRG,Czech Airlines (OK),Czech Airlines,437,01:22,,,,,319,,,"Direct",580,1587,1946
+- -,AMS,PRG,Travel Service (QS),Travel Service,437,01:22,,,,,319,,,"Direct",580,1587,5097
+- -,AMS,PRG,easyJet (U2),easyJet,437,01:22,,,,,319,,,"Direct",580,1587,2297
+- -,AMS,PSA,Transavia Holland (HV),Transavia Holland,649,01:47,,,,,73H,,,"Direct",580,1562,5039
+- -,AMS,PTY,Alitalia (AZ),Alitalia,5473,11:26,,,,,777 77W,,,"Codeshare",580,1871,596
+- -,AMS,PTY,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5473,11:26,,,,,777,,,"Direct",580,1871,3090
+- -,AMS,PUJ,Arkefly (OR),Arkefly,4499,09:29,,,,,763,,,"Direct",580,1760,1299
+- -,AMS,PVG,China Southern Airlines (CZ),China Southern Airlines,5533,11:33,,,,,74M 747,,,"Codeshare",580,3406,1767
+- -,AMS,PVG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5533,11:33,,,,,74M 747,,,"Direct",580,3406,3090
+- -,AMS,PVG,China Eastern Airlines (MU),China Eastern Airlines,5533,11:33,,,,,74M,,,"Codeshare",580,3406,1758
+- -,AMS,PVK,Transavia Holland (HV),Transavia Holland,1199,02:53,,,,,73H,,,"Direct",580,1470,5039
+- -,AMS,RAK,Transavia Holland (HV),Transavia Holland,1567,03:38,,,,,73H,,,"Direct",580,1075,5039
+- -,AMS,RHO,Transavia Holland (HV),Transavia Holland,1577,03:39,,,,,73H,,,"Direct",580,1472,5039
+- -,AMS,RIX,Air Baltic (BT),Air Baltic,827,02:09,,,,,73C 735,,,"Direct",580,3953,333
+- -,AMS,RIX,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,827,02:09,,,,,737,,,"Codeshare",580,3953,3090
+- -,AMS,SAW,Transavia Holland (HV),Transavia Holland,1395,03:17,,,,,73H 73W,,,"Direct",580,4317,5039
+- -,AMS,SAW,Pegasus Airlines (PC),Pegasus Airlines,1395,03:17,,,,,738,,,"Direct",580,4317,3926
+- -,AMS,SAW,Turkish Airlines (TK),Turkish Airlines,1395,03:17,,,,,738,,,"Direct",580,4317,4951
+- -,AMS,SEA,Delta Air Lines (DL),Delta Air Lines,4868,10:14,,,,,333,,,"Direct",580,3577,2009
+- -,AMS,SEA,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4868,10:14,,,,,330,,,"Codeshare",580,3577,3090
+- -,AMS,SEN,easyJet (U2),easyJet,180,00:51,,,,,319,,,"Direct",580,508,2297
+- -,AMS,SFB,Arkefly (OR),Arkefly,4507,09:30,,,,,763,,,"Direct",580,4167,1299
+- -,AMS,SFO,Delta Air Lines (DL),Delta Air Lines,5455,11:24,,,,,747,,,"Codeshare",580,3469,2009
+- -,AMS,SFO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5455,11:24,,,,,747,,,"Direct",580,3469,3090
+- -,AMS,SIN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,6529,13:33,,,,,777,,,"Direct",580,3316,3090
+- -,AMS,SIN,Singapore Airlines (SQ),Singapore Airlines,6529,13:33,,,,,772 77W,,,"Direct",580,3316,4435
+- -,AMS,SKG,Transavia Holland (HV),Transavia Holland,1182,02:51,,,,,73H,,,"Direct",580,1486,5039
+- -,AMS,SMI,Transavia Holland (HV),Transavia Holland,1468,03:26,,,,,73H,,,"Direct",580,1476,5039
+- -,AMS,SOF,Bulgaria Air (FB),Bulgaria Air,1088,02:40,,,,,320 E90 319,,,"Direct",580,1194,1548
+- -,AMS,SOU,Flybe (BE),Flybe,278,01:03,,,,,DH4 E75,,,"Direct",580,495,2421
+- -,AMS,SPC,Transavia Holland (HV),Transavia Holland,2000,04:30,,,,,73H,,,"Direct",580,1053,5039
+- -,AMS,STN,easyJet (U2),easyJet,194,00:53,,,,,320 319,,,"Direct",580,548,2297
+- -,AMS,STR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,317,01:08,,,,,F70 EMJ,,,"Codeshare",580,350,3090
+- -,AMS,SUF,Transavia Holland (HV),Transavia Holland,1076,02:39,,,,,73H,,,"Direct",580,1508,5039
+- -,AMS,SVG,Alitalia (AZ),Alitalia,454,01:24,,,,,E90 737,,,"Codeshare",580,666,596
+- -,AMS,SVG,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,454,01:24,,,,,EMJ 737,,,"Direct",580,666,3090
+- -,AMS,SVO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1331,03:09,,,,,737,,,"Direct",580,2985,3090
+- -,AMS,SVO,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,1331,03:09,,,,,321 320,,,"Direct",580,2985,130
+- -,AMS,SVQ,Transavia Holland (HV),Transavia Holland,1150,02:48,,,,,73H,,,"Direct",580,1253,5039
+- -,AMS,SVQ,Iberia Airlines (IB),Iberia Airlines,1150,02:48,,,,,320,,,"Codeshare",580,1253,2822
+- -,AMS,SVQ,Formosa Airlines (VY),Formosa Airlines,1150,02:48,,,,,320,,,"Direct",580,1253,2439
+- -,AMS,SXB,Airlinair (A5),Airlinair,289,01:04,,,,,ER4 CR7 E70,,,"Direct",580,1435,1203
+- -,AMS,SXB,Air France (AF),Air France,289,01:04,,,,,ER4 CR7 E70,,,"Direct",580,1435,137
+- -,AMS,SXB,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,289,01:04,,,,,ERJ CRJ EMJ,,,"Codeshare",580,1435,3090
+- -,AMS,SXF,easyJet (U2),easyJet,369,01:14,,,,,319 320,,,"Direct",580,337,2297
+- -,AMS,SXM,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4305,09:06,,,,,747,,,"Direct",580,2899,3090
+- -,AMS,TBS,Georgian Airways (A9),Georgian Airways,1999,04:29,,,,,735,,,"Direct",580,3973,2538
+- -,AMS,TBS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1999,04:29,,,,,737,,,"Codeshare",580,3973,3090
+- -,AMS,TFS,Transavia Holland (HV),Transavia Holland,2002,04:30,,,,,73W 73H,,,"Direct",580,1056,5039
+- -,AMS,TLL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,914,02:19,,,,,CRJ,,,"Codeshare",580,415,3090
+- -,AMS,TLL,Estonian Air (OV),Estonian Air,914,02:19,,,,,CR9,,,"Direct",580,415,2218
+- -,AMS,TLS,Air France (AF),Air France,619,01:44,,,,,E90,,,"Codeshare",580,1273,137
+- -,AMS,TLS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,619,01:44,,,,,EMJ,,,"Codeshare",580,1273,3090
+- -,AMS,TLV,Transavia Holland (HV),Transavia Holland,2056,04:36,,,,,73H,,,"Direct",580,1590,5039
+- -,AMS,TLV,Arkia Israel Airlines (IZ),Arkia Israel Airlines,2056,04:36,,,,,753,,,"Direct",580,1590,231
+- -,AMS,TLV,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,2056,04:36,,,,,737,,,"Direct",580,1590,3090
+- -,AMS,TLV,El Al Israel Airlines (LY),El Al Israel Airlines,2056,04:36,,,,,738 739 763,,,"Direct",580,1590,2150
+- -,AMS,TNG,Air Arabia Maroc (3O),Air Arabia Maroc,1258,03:00,,,,,320,,,"Direct",580,1080,9818
+- -,AMS,TNG,Royal Air Maroc (AT),Royal Air Maroc,1258,03:00,,,,,73G 738,,,"Direct",580,1080,4248
+- -,AMS,TPE,Air France (AF),Air France,5863,12:13,,,,,77W,,,"Codeshare",580,2276,137
+- -,AMS,TPE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5863,12:13,,,,,777,,,"Direct",580,2276,3090
+- -,AMS,TRD,Alitalia (AZ),Alitalia,801,02:06,,,,,E90,,,"Codeshare",580,665,596
+- -,AMS,TRD,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,801,02:06,,,,,EMJ,,,"Codeshare",580,665,3090
+- -,AMS,TRF,Alitalia (AZ),Alitalia,520,01:32,,,,,E90,,,"Codeshare",580,664,596
+- -,AMS,TRF,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,520,01:32,,,,,EMJ,,,"Codeshare",580,664,3090
+- -,AMS,TRN,Transavia Holland (HV),Transavia Holland,507,01:30,,,,,73H 73W,,,"Direct",580,1526,5039
+- -,AMS,TUN,Tunisair (TU),Tunisair,1099,02:41,,,,,319 736,,,"Direct",580,287,4870
+- -,AMS,TXL,Alitalia (AZ),Alitalia,359,01:13,,,,,737,,,"Codeshare",580,351,596
+- -,AMS,TXL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,359,01:13,,,,,737 EMJ,,,"Direct",580,351,3090
+- -,AMS,UIO,Air France (AF),Air France,5931,12:21,,,,,772,,,"Codeshare",580,2688,137
+- -,AMS,UIO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5931,12:21,,,,,777,,,"Direct",580,2688,3090
+- -,AMS,VCE,Alitalia (AZ),Alitalia,581,01:39,,,,,737,,,"Codeshare",580,1551,596
+- -,AMS,VCE,Transavia Holland (HV),Transavia Holland,581,01:39,,,,,73H 73W,,,"Direct",580,1551,5039
+- -,AMS,VCE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,581,01:39,,,,,737 EMJ,,,"Direct",580,1551,3090
+- -,AMS,VIE,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,595,01:41,,,,,737 EMJ,,,"Direct",580,1613,3090
+- -,AMS,VIE,Austrian Airlines (OS),Austrian Airlines,595,01:41,,,,,100 319 F70 320,,,"Codeshare",580,1613,491
+- -,AMS,VLC,Transavia Holland (HV),Transavia Holland,919,02:20,,,,,73H 73W,,,"Direct",580,1246,5039
+- -,AMS,VLC,Iberia Airlines (IB),Iberia Airlines,919,02:20,,,,,320,,,"Codeshare",580,1246,2822
+- -,AMS,VLC,Formosa Airlines (VY),Formosa Airlines,919,02:20,,,,,320,,,"Direct",580,1246,2439
+- -,AMS,VRA,Arkefly (OR),Arkefly,4813,10:07,,,,,763,,,"Direct",580,1923,1299
+- -,AMS,VRN,Transavia Holland (HV),Transavia Holland,552,01:36,,,,,73H,,,"Direct",580,1550,5039
+- -,AMS,VXE,TACV (VR),TACV,2937,06:22,,,,,738,,,"Direct",580,1106,5041
+- -,AMS,VXO,Estonian Air (OV),Estonian Air,509,01:31,,,,,E70,,,"Direct",580,711,2218
+- -,AMS,WAW,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,683,01:51,,,,,737,,,"Direct",580,679,3090
+- -,AMS,WAW,LOT Polish Airlines (LO),LOT Polish Airlines,683,01:51,,,,,E75 E95 E70,,,"Direct",580,679,3210
+- -,AMS,XMN,China Southern Airlines (CZ),China Southern Airlines,5786,12:04,,,,,777,,,"Codeshare",580,3383,1767
+- -,AMS,XMN,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,5786,12:04,,,,,777,,,"Direct",580,3383,3090
+- -,AMS,YUL,Delta Air Lines (DL),Delta Air Lines,3417,07:20,,,,,M11,,,"Codeshare",580,146,2009
+- -,AMS,YUL,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3417,07:20,,,,,M11,,,"Direct",580,146,3090
+- -,AMS,YVR,Delta Air Lines (DL),Delta Air Lines,4786,10:04,,,,,333,,,"Codeshare",580,156,2009
+- -,AMS,YVR,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4786,10:04,,,,,330,,,"Direct",580,156,3090
+- -,AMS,YYC,Delta Air Lines (DL),Delta Air Lines,4451,09:24,,,,,332,,,"Codeshare",580,178,2009
+- -,AMS,YYC,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,4451,09:24,,,,,330,,,"Direct",580,178,3090
+- -,AMS,YYC,Air Transat (TS),Air Transat,4451,09:24,,,,,330,,,"Direct",580,178,1317
+- -,AMS,YYZ,Delta Air Lines (DL),Delta Air Lines,3719,07:56,,,,,M11 333 747 74M 332,,,"Codeshare",580,193,2009
+- -,AMS,YYZ,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3719,07:56,,,,,M11 330 747 74M,,,"Direct",580,193,3090
+- -,AMS,YYZ,Air Transat (TS),Air Transat,3719,07:56,,,,,310,,,"Direct",580,193,1317
+- -,AMS,ZAG,Croatia Airlines (OU),Croatia Airlines,682,01:51,,,,,319 320,,,"Direct",580,1208,1925
+- -,AMS,ZRH,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,374,01:14,,,,,737 EMJ,,,"Direct",580,1678,3090
+- -,AMS,ZRH,Swiss International Air Lines (LX),Swiss International Air Lines,374,01:14,,,,,320 AR1,,,"Direct",580,1678,4559
+- -,AMS,ZRH,Malaysia Airlines (MH),Malaysia Airlines,374,01:14,,,,,737,,,"Codeshare",580,1678,3378
+- -,AMS,ZTH,Transavia Holland (HV),Transavia Holland,1270,03:02,,,,,73H,,,"Direct",580,1488,5039

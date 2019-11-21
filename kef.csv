@@ -1,0 +1,46 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,KEF,ALC,Maastricht Airlines (W2),Maastricht Airlines,1992,04:29,,,,,320,,,"Codeshare",16,1212,18553
+- -,KEF,ALC,bmibaby (WW),bmibaby,1992,04:29,,,,,320,,,"Direct",16,1212,1441
+- -,KEF,AMS,Icelandair (FI),Icelandair,1265,03:01,,,,,75W 75T,,,"Direct",16,580,2835
+- -,KEF,ARN,Icelandair (FI),Icelandair,1330,03:09,,,,,75W,,,"Direct",16,737,2835
+- -,KEF,BGO,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,924,02:20,,,,,73H,,,"Direct",16,636,3737
+- -,KEF,BGO,Icelandair (FI),Icelandair,924,02:20,,,,,75W,,,"Direct",16,636,2835
+- -,KEF,BLL,Icelandair (FI),Icelandair,1221,02:56,,,,,75W,,,"Direct",16,608,2835
+- -,KEF,BOS,Icelandair (FI),Icelandair,2405,05:18,,,,,75W,,,"Direct",16,3448,2835
+- -,KEF,BRS,easyJet (U2),easyJet,1128,02:45,,,,,320 319,,,"Direct",16,490,2297
+- -,KEF,BRU,Icelandair (FI),Icelandair,1334,03:10,,,,,75W,,,"Direct",16,302,2835
+- -,KEF,BSL,easyJet (U2),easyJet,1599,03:41,,,,,320,,,"Direct",16,1423,2297
+- -,KEF,CDG,Icelandair (FI),Icelandair,1391,03:16,,,,,75W,,,"Direct",16,1382,2835
+- -,KEF,CDG,Maastricht Airlines (W2),Maastricht Airlines,1391,03:16,,,,,320,,,"Codeshare",16,1382,18553
+- -,KEF,CDG,bmibaby (WW),bmibaby,1391,03:16,,,,,320,,,"Direct",16,1382,1441
+- -,KEF,CPH,Icelandair (FI),Icelandair,1331,03:09,,,,,75T 75W,,,"Direct",16,609,2835
+- -,KEF,CPH,Maastricht Airlines (W2),Maastricht Airlines,1331,03:09,,,,,320,,,"Codeshare",16,609,18553
+- -,KEF,CPH,bmibaby (WW),bmibaby,1331,03:09,,,,,320,,,"Direct",16,609,1441
+- -,KEF,DEN,Icelandair (FI),Icelandair,3556,07:36,,,,,75W,,,"Direct",16,3751,2835
+- -,KEF,EDI,easyJet (U2),easyJet,859,02:13,,,,,319,,,"Direct",16,535,2297
+- -,KEF,EWR,Icelandair (FI),Icelandair,2593,05:41,,,,,75W,,,"Direct",16,3494,2835
+- -,KEF,FRA,Icelandair (FI),Icelandair,1491,03:28,,,,,75W,,,"Direct",16,340,2835
+- -,KEF,GLA,Icelandair (FI),Icelandair,836,02:10,,,,,75W,,,"Direct",16,534,2835
+- -,KEF,GOH,Air Greenland (GL),Air Greenland,869,02:14,,,,,DH8,,,"Direct",16,8,921
+- -,KEF,HEL,Finnair (AY),Finnair,1517,03:32,,,,,75W,,,"Codeshare",16,421,2350
+- -,KEF,HEL,Icelandair (FI),Icelandair,1517,03:32,,,,,75W,,,"Direct",16,421,2835
+- -,KEF,IAD,Icelandair (FI),Icelandair,2791,06:04,,,,,75W,,,"Direct",16,3714,2835
+- -,KEF,JFK,Icelandair (FI),Icelandair,2585,05:40,,,,,75T,,,"Direct",16,3797,2835
+- -,KEF,LGW,Icelandair (FI),Icelandair,1201,02:54,,,,,75W,,,"Direct",16,502,2835
+- -,KEF,LGW,Maastricht Airlines (W2),Maastricht Airlines,1201,02:54,,,,,320,,,"Codeshare",16,502,18553
+- -,KEF,LGW,bmibaby (WW),bmibaby,1201,02:54,,,,,320,,,"Direct",16,502,1441
+- -,KEF,LHR,Icelandair (FI),Icelandair,1176,02:51,,,,,75W,,,"Direct",16,507,2835
+- -,KEF,LTN,easyJet (U2),easyJet,1156,02:48,,,,,319,,,"Direct",16,492,2297
+- -,KEF,MAN,Icelandair (FI),Icelandair,1026,02:33,,,,,75W,,,"Direct",16,478,2835
+- -,KEF,MAN,easyJet (U2),easyJet,1026,02:33,,,,,320 319,,,"Direct",16,478,2297
+- -,KEF,MUC,Icelandair (FI),Icelandair,1671,03:50,,,,,75W,,,"Direct",16,346,2835
+- -,KEF,OSL,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,1107,02:42,,,,,733,,,"Direct",16,644,3737
+- -,KEF,OSL,Icelandair (FI),Icelandair,1107,02:42,,,,,75W 75T,,,"Direct",16,644,2835
+- -,KEF,OSL,Scandinavian Airlines System (SK),Scandinavian Airlines System,1107,02:42,,,,,738 73W,,,"Direct",16,644,4319
+- -,KEF,SEA,Icelandair (FI),Icelandair,3608,07:42,,,,,75W,,,"Direct",16,3577,2835
+- -,KEF,SFB,Icelandair (FI),Icelandair,3504,07:30,,,,,75W,,,"Direct",16,4167,2835
+- -,KEF,SXF,Maastricht Airlines (W2),Maastricht Airlines,1509,03:31,,,,,320,,,"Codeshare",16,337,18553
+- -,KEF,SXF,bmibaby (WW),bmibaby,1509,03:31,,,,,320,,,"Direct",16,337,1441
+- -,KEF,YEG,Icelandair (FI),Icelandair,3056,06:36,,,,,75W,,,"Direct",16,49,2835
+- -,KEF,YYZ,Icelandair (FI),Icelandair,2590,05:40,,,,,75W,,,"Direct",16,193,2835
+- -,KEF,ZRH,Icelandair (FI),Icelandair,1633,03:45,,,,,75W,,,"Direct",16,1678,2835

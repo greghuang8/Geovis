@@ -1,0 +1,351 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,DXB,OPRN,Emirates (EK),Emirates,1210,02:55,,,,,77W,,,"Direct",2188,2223,2183
+- -,DXB,OPRN,Shaheen Air International (NL),Shaheen Air International,1210,02:55,,,,,734,,,"Direct",2188,2223,4311
+- -,DXB,OPRN,Pakistan International Airlines (PK),Pakistan International Airlines,1210,02:55,,,,,310,,,"Direct",2188,2223,3871
+- -,DXB,Priv,Georgian National Airlines (QB),Georgian National Airlines,129,00:45,,,,,F50,,,"Direct",2188,5712,2541
+- -,DXB,Priv,Kish Air (Y9),Kish Air,129,00:45,,,,,F50 M80,,,"Direct",2188,5712,3148
+- -,DXB,ACC,Emirates (EK),Emirates,3905,08:18,,,,,77W,,,"Direct",2188,248,2183
+- -,DXB,ADD,Emirates (EK),Emirates,1564,03:37,,,,,332,,,"Direct",2188,1107,2183
+- -,DXB,ADD,Ethiopian Airlines (ET),Ethiopian Airlines,1564,03:37,,,,,77L 738 788 763,,,"Direct",2188,1107,2220
+- -,DXB,ADD,Fly Dubai (FZ),Fly Dubai,1564,03:37,,,,,73H,,,"Direct",2188,1107,14485
+- -,DXB,ADE,Yemenia (IY),Yemenia,1090,02:40,,,,,320,,,"Direct",2188,3977,5496
+- -,DXB,ADE,Nasair (UE),Nasair,1090,02:40,,,,,320,,,"Direct",2188,3977,3589
+- -,DXB,ADL,Emirates (EK),Emirates,6835,14:10,,,,,77W,,,"Direct",2188,3341,2183
+- -,DXB,ADL,Qantas (QF),Qantas,6835,14:10,,,,,77W,,,"Codeshare",2188,3341,4089
+- -,DXB,AHB,Fly Dubai (FZ),Fly Dubai,947,02:23,,,,,73H,,,"Direct",2188,2059,14485
+- -,DXB,ALG,Air Algerie (AH),Air Algerie,3147,06:47,,,,,330,,,"Direct",2188,210,794
+- -,DXB,ALG,Emirates (EK),Emirates,3147,06:47,,,,,77W,,,"Direct",2188,210,2183
+- -,DXB,AMD,Emirates (EK),Emirates,1097,02:41,,,,,332,,,"Direct",2188,2994,2183
+- -,DXB,AMD,Spicejet (SG),Spicejet,1097,02:41,,,,,737,,,"Direct",2188,2994,4375
+- -,DXB,AMM,Emirates (EK),Emirates,1255,03:00,,,,,773 77W 772,,,"Direct",2188,2170,2183
+- -,DXB,AMM,Fly Dubai (FZ),Fly Dubai,1255,03:00,,,,,73H,,,"Direct",2188,2170,14485
+- -,DXB,AMM,Qantas (QF),Qantas,1255,03:00,,,,,773 77W,,,"Codeshare",2188,2170,4089
+- -,DXB,AMM,Royal Jordanian (RJ),Royal Jordanian,1255,03:00,,,,,321 320 330,,,"Direct",2188,2170,4259
+- -,DXB,AMS,Alitalia (AZ),Alitalia,3209,06:55,,,,,777,,,"Codeshare",2188,580,596
+- -,DXB,AMS,Emirates (EK),Emirates,3209,06:55,,,,,388,,,"Direct",2188,580,2183
+- -,DXB,AMS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,3209,06:55,,,,,777,,,"Direct",2188,580,3090
+- -,DXB,ARN,Emirates (EK),Emirates,2971,06:26,,,,,77W,,,"Direct",2188,737,2183
+- -,DXB,ARN,Qantas (QF),Qantas,2971,06:26,,,,,77W,,,"Codeshare",2188,737,4089
+- -,DXB,ASB,Fly Dubai (FZ),Fly Dubai,896,02:17,,,,,73H,,,"Direct",2188,2976,14485
+- -,DXB,ASB,Turkmenistan Airlines (T5),Turkmenistan Airlines,896,02:17,,,,,733,,,"Direct",2188,2976,5083
+- -,DXB,ATH,Emirates (EK),Emirates,2031,04:33,,,,,77W,,,"Direct",2188,3941,2183
+- -,DXB,ATL,Delta Air Lines (DL),Delta Air Lines,7582,15:39,,,,,77L,,,"Direct",2188,3682,2009
+- -,DXB,AWZ,Iran Air (IR),Iran Air,580,01:39,,,,,100,,,"Direct",2188,2104,2922
+- -,DXB,AZI,VRG Linhas Aereas (RG),VRG Linhas Aereas,80,00:39,,,,,ERJ,,,"Direct",2188,2180,5368
+- -,DXB,BAH,Emirates (EK),Emirates,302,01:06,,,,,332 772 773,,,"Direct",2188,2057,2183
+- -,DXB,BAH,Fly Dubai (FZ),Fly Dubai,302,01:06,,,,,73H,,,"Direct",2188,2057,14485
+- -,DXB,BAH,Gulf Air Bahrain (GF),Gulf Air Bahrain,302,01:06,,,,,320 321,,,"Direct",2188,2057,2638
+- -,DXB,BAH,Qantas (QF),Qantas,302,01:06,,,,,332 772 773,,,"Codeshare",2188,2057,4089
+- -,DXB,BBO,Air Serbia (JU),Air Serbia,1232,02:57,,,,,737,,,"Direct",2188,1122,19582
+- -,DXB,BCN,Emirates (EK),Emirates,3214,06:55,,,,,388,,,"Direct",2188,1218,2183
+- -,DXB,BDH,Iran Aseman Airlines (EP),Iran Aseman Airlines,94,00:41,,,,,AT7,,,"Direct",2188,2110,2923
+- -,DXB,BEG,Fly Dubai (FZ),Fly Dubai,2370,05:14,,,,,73H,,,"Direct",2188,1739,14485
+- -,DXB,BEY,Emirates (EK),Emirates,1329,03:09,,,,,773,,,"Direct",2188,2177,2183
+- -,DXB,BEY,Middle East Airlines (ME),Middle East Airlines,1329,03:09,,,,,332 320,,,"Direct",2188,2177,3490
+- -,DXB,BGW,Emirates (EK),Emirates,868,02:14,,,,,332,,,"Direct",2188,4130,2183
+- -,DXB,BGW,Fly Dubai (FZ),Fly Dubai,868,02:14,,,,,73H,,,"Direct",2188,4130,14485
+- -,DXB,BHX,Emirates (EK),Emirates,3479,07:27,,,,,77W,,,"Direct",2188,469,2183
+- -,DXB,BHX,Qantas (QF),Qantas,3479,07:27,,,,,77W,,,"Codeshare",2188,469,4089
+- -,DXB,BKK,Emirates (EK),Emirates,3045,06:35,,,,,388 77W,,,"Direct",2188,3885,2183
+- -,DXB,BKK,Qantas (QF),Qantas,3045,06:35,,,,,388 77W,,,"Codeshare",2188,3885,4089
+- -,DXB,BKK,Thai Airways International (TG),Thai Airways International,3045,06:35,,,,,330,,,"Direct",2188,3885,4940
+- -,DXB,BLR,Emirates (EK),Emirates,1673,03:50,,,,,773,,,"Direct",2188,3131,2183
+- -,DXB,BND,Iran Aseman Airlines (EP),Iran Aseman Airlines,149,00:47,,,,,100,,,"Direct",2188,2134,2923
+- -,DXB,BND,Iran Air (IR),Iran Air,149,00:47,,,,,320,,,"Direct",2188,2134,2922
+- -,DXB,BNE,Emirates (EK),Emirates,7439,15:22,,,,,388,,,"Direct",2188,3320,2183
+- -,DXB,BNE,Qantas (QF),Qantas,7439,15:22,,,,,388,,,"Codeshare",2188,3320,4089
+- -,DXB,BOM,IndiGo Airlines (6E),IndiGo Airlines,1196,02:53,,,,,320,,,"Direct",2188,2997,2850
+- -,DXB,BOM,Jet Airways (9W),Jet Airways,1196,02:53,,,,,73H,,,"Direct",2188,2997,3000
+- -,DXB,BOM,Air India Limited (AI),Air India Limited,1196,02:53,,,,,321,,,"Direct",2188,2997,218
+- -,DXB,BOM,Emirates (EK),Emirates,1196,02:53,,,,,772 332 77W 73H 773,,,"Direct",2188,2997,2183
+- -,DXB,BOS,JetBlue Airways (B6),JetBlue Airways,6646,13:47,,,,,77L,,,"Direct",2188,3448,3029
+- -,DXB,BOS,Emirates (EK),Emirates,6646,13:47,,,,,77L,,,"Direct",2188,3448,2183
+- -,DXB,BSR,Emirates (EK),Emirates,595,01:41,,,,,332,,,"Direct",2188,2234,2183
+- -,DXB,BSR,Fly Dubai (FZ),Fly Dubai,595,01:41,,,,,73H,,,"Direct",2188,2234,14485
+- -,DXB,BUZ,Iran Aseman Airlines (EP),Iran Aseman Airlines,377,01:15,,,,,100,,,"Direct",2188,2106,2923
+- -,DXB,BWN,Royal Brunei Airlines (BI),Royal Brunei Airlines,4174,08:50,,,,,787,,,"Direct",2188,3272,4255
+- -,DXB,CAI,Emirates (EK),Emirates,1500,03:30,,,,,773 772,,,"Direct",2188,1128,2183
+- -,DXB,CAI,Egyptair (MS),Egyptair,1500,03:30,,,,,333 773,,,"Direct",2188,1128,2143
+- -,DXB,CAI,Singapore Airlines (SQ),Singapore Airlines,1500,03:30,,,,,333,,,"Direct",2188,1128,4435
+- -,DXB,CAN,China Southern Airlines (CZ),China Southern Airlines,3618,07:44,,,,,772,,,"Direct",2188,3370,1767
+- -,DXB,CAN,Emirates (EK),Emirates,3618,07:44,,,,,77W,,,"Direct",2188,3370,2183
+- -,DXB,CCJ,Air India Limited (AI),Air India Limited,1661,03:49,,,,,321,,,"Direct",2188,3137,218
+- -,DXB,CCJ,Emirates (EK),Emirates,1661,03:49,,,,,332 772,,,"Direct",2188,3137,2183
+- -,DXB,CCJ,Air India Express (IX),Air India Express,1661,03:49,,,,,738,,,"Direct",2188,3137,569
+- -,DXB,CCU,Emirates (EK),Emirates,2090,04:40,,,,,332,,,"Direct",2188,3043,2183
+- -,DXB,CDG,Air France (AF),Air France,3253,07:00,,,,,77W,,,"Direct",2188,1382,137
+- -,DXB,CDG,Alitalia (AZ),Alitalia,3253,07:00,,,,,77W,,,"Codeshare",2188,1382,596
+- -,DXB,CDG,Emirates (EK),Emirates,3253,07:00,,,,,77W 388,,,"Direct",2188,1382,2183
+- -,DXB,CGK,Emirates (EK),Emirates,4065,08:37,,,,,77W,,,"Direct",2188,3275,2183
+- -,DXB,CGK,Yemenia (IY),Yemenia,4065,08:37,,,,,330,,,"Direct",2188,3275,5496
+- -,DXB,CGP,Biman Bangladesh Airlines (BG),Biman Bangladesh Airlines,2306,05:06,,,,,313,,,"Direct",2188,3069,1359
+- -,DXB,CMB,Emirates (EK),Emirates,2042,04:35,,,,,77W,,,"Direct",2188,3024,2183
+- -,DXB,CMB,L (MJ),L,2042,04:35,,,,,343 320 332,,,"Codeshare",2188,3024,3342
+- -,DXB,CMB,SriLankan Airlines (UL),SriLankan Airlines,2042,04:35,,,,,332 320 321,,,"Direct",2188,3024,4349
+- -,DXB,CMN,Emirates (EK),Emirates,3776,08:03,,,,,77W,,,"Direct",2188,1074,2183
+- -,DXB,COK,IndiGo Airlines (6E),IndiGo Airlines,1728,03:57,,,,,320,,,"Direct",2188,3136,2850
+- -,DXB,COK,Emirates (EK),Emirates,1728,03:57,,,,,772 773 332,,,"Direct",2188,3136,2183
+- -,DXB,COK,Air India Express (IX),Air India Express,1728,03:57,,,,,738,,,"Direct",2188,3136,569
+- -,DXB,COK,Spicejet (SG),Spicejet,1728,03:57,,,,,737,,,"Direct",2188,3136,4375
+- -,DXB,CPH,Emirates (EK),Emirates,2992,06:29,,,,,77W,,,"Direct",2188,609,2183
+- -,DXB,CPH,Qantas (QF),Qantas,2992,06:29,,,,,77W,,,"Codeshare",2188,609,4089
+- -,DXB,CPT,Emirates (EK),Emirates,4746,09:59,,,,,77W,,,"Direct",2188,797,2183
+- -,DXB,CPT,South African Airways (SA),South African Airways,4746,09:59,,,,,77W,,,"Codeshare",2188,797,4305
+- -,DXB,DAC,United Airways (4H),United Airways,2196,04:53,,,,,313,,,"Direct",2188,3076,8463
+- -,DXB,DAC,Emirates (EK),Emirates,2196,04:53,,,,,77W,,,"Direct",2188,3076,2183
+- -,DXB,DAC,Fly Dubai (FZ),Fly Dubai,2196,04:53,,,,,73H,,,"Direct",2188,3076,14485
+- -,DXB,DAR,Emirates (EK),Emirates,2470,05:26,,,,,773,,,"Direct",2188,1177,2183
+- -,DXB,DEL,IndiGo Airlines (6E),IndiGo Airlines,1356,03:12,,,,,320,,,"Direct",2188,3093,2850
+- -,DXB,DEL,Jet Airways (9W),Jet Airways,1356,03:12,,,,,73H,,,"Direct",2188,3093,3000
+- -,DXB,DEL,Air India Limited (AI),Air India Limited,1356,03:12,,,,,788,,,"Direct",2188,3093,218
+- -,DXB,DEL,Emirates (EK),Emirates,1356,03:12,,,,,772 73H 77W 773,,,"Direct",2188,3093,2183
+- -,DXB,DEL,Spicejet (SG),Spicejet,1356,03:12,,,,,737,,,"Direct",2188,3093,4375
+- -,DXB,DFW,JetBlue Airways (B6),JetBlue Airways,8023,16:32,,,,,77L,,,"Direct",2188,3670,3029
+- -,DXB,DFW,Emirates (EK),Emirates,8023,16:32,,,,,77L,,,"Direct",2188,3670,2183
+- -,DXB,DKR,Emirates (EK),Emirates,4730,09:57,,,,,343,,,"Direct",2188,1084,2183
+- -,DXB,DME,Emirates (EK),Emirates,2261,05:01,,,,,388,,,"Direct",2188,4029,2183
+- -,DXB,DMM,Emirates (EK),Emirates,355,01:12,,,,,332 773 772,,,"Direct",2188,2064,2183
+- -,DXB,DMM,Fly Dubai (FZ),Fly Dubai,355,01:12,,,,,73H,,,"Direct",2188,2064,14485
+- -,DXB,DMM,Qantas (QF),Qantas,355,01:12,,,,,332 773 772,,,"Codeshare",2188,2064,4089
+- -,DXB,DMM,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,355,01:12,,,,,320 321,,,"Direct",2188,2064,4533
+- -,DXB,DOH,Emirates (EK),Emirates,234,00:58,,,,,772 77W 773 332,,,"Direct",2188,11051,2183
+- -,DXB,DOH,Fly Dubai (FZ),Fly Dubai,234,00:58,,,,,73H,,,"Direct",2188,11051,14485
+- -,DXB,DOH,Qatar Airways (QR),Qatar Airways,234,00:58,,,,,320 788 321 77W 77L 332 333,,,"Direct",2188,11051,4091
+- -,DXB,DOH,United Airlines (UA),United Airlines,234,00:58,,,,,777,,,"Direct",2188,11051,5209
+- -,DXB,DUB,Emirates (EK),Emirates,3675,07:51,,,,,77W,,,"Direct",2188,599,2183
+- -,DXB,DUB,Qantas (QF),Qantas,3675,07:51,,,,,77W,,,"Codeshare",2188,599,4089
+- -,DXB,DUR,Emirates (EK),Emirates,4115,08:43,,,,,77W,,,"Direct",2188,799,2183
+- -,DXB,DUR,South African Airways (SA),South African Airways,4115,08:43,,,,,77W,,,"Codeshare",2188,799,4305
+- -,DXB,DUS,Emirates (EK),Emirates,3108,06:42,,,,,77W,,,"Direct",2188,345,2183
+- -,DXB,DUS,Qantas (QF),Qantas,3108,06:42,,,,,77W,,,"Codeshare",2188,345,4089
+- -,DXB,DYU,Fly Dubai (FZ),Fly Dubai,1207,02:54,,,,,73H,,,"Direct",2188,2979,14485
+- -,DXB,DYU,Salzburg arrows (SZ),Salzburg arrows,1207,02:54,,,,,737,,,"Direct",2188,2979,10122
+- -,DXB,EBB,Emirates (EK),Emirates,2317,05:08,,,,,345,,,"Direct",2188,1187,2183
+- -,DXB,EBL,Emirates (EK),Emirates,1014,02:31,,,,,332,,,"Direct",2188,3989,2183
+- -,DXB,EBL,Fly Dubai (FZ),Fly Dubai,1014,02:31,,,,,73H,,,"Direct",2188,3989,14485
+- -,DXB,ELQ,Fly Dubai (FZ),Fly Dubai,724,01:56,,,,,73H,,,"Direct",2188,2067,14485
+- -,DXB,EVN,Fly Dubai (FZ),Fly Dubai,1207,02:54,,,,,73H,,,"Direct",2188,3964,14485
+- -,DXB,FCO,Emirates (EK),Emirates,2697,05:53,,,,,388 77W,,,"Direct",2188,1555,2183
+- -,DXB,FRA,Emirates (EK),Emirates,3007,06:30,,,,,77W,,,"Direct",2188,340,2183
+- -,DXB,FRA,Lufthansa (LH),Lufthansa,3007,06:30,,,,,343,,,"Direct",2188,340,3320
+- -,DXB,FRA,Qantas (QF),Qantas,3007,06:30,,,,,77W,,,"Codeshare",2188,340,4089
+- -,DXB,FRU,Fly Dubai (FZ),Fly Dubai,1636,03:46,,,,,73H,,,"Direct",2188,2912,14485
+- -,DXB,GIG,Emirates (EK),Emirates,7380,15:15,,,,,77W,,,"Direct",2188,2560,2183
+- -,DXB,GLA,Emirates (EK),Emirates,3627,07:45,,,,,77W 77L,,,"Direct",2188,534,2183
+- -,DXB,GLA,Qantas (QF),Qantas,3627,07:45,,,,,77W 77L,,,"Codeshare",2188,534,4089
+- -,DXB,GOI,Air India Limited (AI),Air India Limited,1374,03:14,,,,,319,,,"Direct",2188,3007,218
+- -,DXB,GRU,Emirates (EK),Emirates,7587,15:40,,,,,77W,,,"Direct",2188,2564,2183
+- -,DXB,GVA,Emirates (EK),Emirates,3055,06:36,,,,,77L 77W,,,"Direct",2188,1665,2183
+- -,DXB,GVA,Qantas (QF),Qantas,3055,06:36,,,,,77L 77W,,,"Codeshare",2188,1665,4089
+- -,DXB,GYD,Fly Dubai (FZ),Fly Dubai,1094,02:41,,,,,73H,,,"Direct",2188,2922,14485
+- -,DXB,GYD,Azerbaijan Airlines (J2),Azerbaijan Airlines,1094,02:41,,,,,757 319 320,,,"Direct",2188,2922,197
+- -,DXB,HAM,Emirates (EK),Emirates,3033,06:33,,,,,77W,,,"Direct",2188,342,2183
+- -,DXB,HAM,Qantas (QF),Qantas,3033,06:33,,,,,77W,,,"Codeshare",2188,342,4089
+- -,DXB,HAS,Fly Dubai (FZ),Fly Dubai,859,02:13,,,,,73H,,,"Direct",2188,2069,14485
+- -,DXB,HBE,Fly Dubai (FZ),Fly Dubai,1607,03:42,,,,,73H,,,"Direct",2188,3410,14485
+- -,DXB,HGA,Daallo Airlines (D3),Daallo Airlines,1314,03:07,,,,,321,,,"Direct",2188,1121,1966
+- -,DXB,HKG,Cathay Pacific (CX),Cathay Pacific,3676,07:51,,,,,333,,,"Direct",2188,3077,1680
+- -,DXB,HKG,Emirates (EK),Emirates,3676,07:51,,,,,388 77W,,,"Direct",2188,3077,2183
+- -,DXB,HKT,Emirates (EK),Emirates,3059,06:37,,,,,77W,,,"Direct",2188,3179,2183
+- -,DXB,HND,Emirates (EK),Emirates,4927,10:21,,,,,77L,,,"Direct",2188,2359,2183
+- -,DXB,HND,Japan Airlines (JL),Japan Airlines,4927,10:21,,,,,772,,,"Codeshare",2188,2359,2987
+- -,DXB,HRK,Fly Dubai (FZ),Fly Dubai,1985,04:28,,,,,73H,,,"Direct",2188,6105,14485
+- -,DXB,IAD,JetBlue Airways (B6),JetBlue Airways,7051,14:36,,,,,77W,,,"Direct",2188,3714,3029
+- -,DXB,IAD,Emirates (EK),Emirates,7051,14:36,,,,,77W,,,"Direct",2188,3714,2183
+- -,DXB,IAD,United Airlines (UA),United Airlines,7051,14:36,,,,,777,,,"Direct",2188,3714,5209
+- -,DXB,IAH,JetBlue Airways (B6),JetBlue Airways,8150,16:48,,,,,77W,,,"Direct",2188,3550,3029
+- -,DXB,IAH,Emirates (EK),Emirates,8150,16:48,,,,,77W,,,"Direct",2188,3550,2183
+- -,DXB,ICN,Emirates (EK),Emirates,4178,08:51,,,,,388,,,"Direct",2188,3930,2183
+- -,DXB,ICN,Korean Air (KE),Korean Air,4178,08:51,,,,,332,,,"Direct",2188,3930,3163
+- -,DXB,IFN,Iran Air (IR),Iran Air,559,01:37,,,,,320,,,"Direct",2188,2121,2922
+- -,DXB,IKA,Emirates (EK),Emirates,745,01:59,,,,,772 77W 332,,,"Direct",2188,4330,2183
+- -,DXB,IKA,Iran Aseman Airlines (EP),Iran Aseman Airlines,745,01:59,,,,,343,,,"Direct",2188,4330,2923
+- -,DXB,IKA,Iran Air (IR),Iran Air,745,01:59,,,,,320,,,"Direct",2188,4330,2922
+- -,DXB,IKA,Mahan Air (W5),Mahan Air,745,01:59,,,,,AB6,,,"Direct",2188,4330,3370
+- -,DXB,ISL,Emirates (EK),Emirates,1868,04:14,,,,,77W,,,"Direct",2188,1701,2183
+- -,DXB,ISL,Qantas (QF),Qantas,1868,04:14,,,,,77W,,,"Codeshare",2188,1701,4089
+- -,DXB,ISL,Turkish Airlines (TK),Turkish Airlines,1868,04:14,,,,,332 343 77W 321,,,"Direct",2188,1701,4951
+- -,DXB,ISU,Fly Dubai (FZ),Fly Dubai,928,02:21,,,,,73H,,,"Direct",2188,5952,14485
+- -,DXB,IXE,Jet Airways (9W),Jet Airways,1527,03:33,,,,,73H,,,"Direct",2188,3143,3000
+- -,DXB,IXE,Air India Express (IX),Air India Express,1527,03:33,,,,,738,,,"Direct",2188,3143,569
+- -,DXB,JED,Emirates (EK),Emirates,1055,02:36,,,,,388,,,"Direct",2188,2072,2183
+- -,DXB,JED,Fly Dubai (FZ),Fly Dubai,1055,02:36,,,,,73H,,,"Direct",2188,2072,14485
+- -,DXB,JED,Qantas (QF),Qantas,1055,02:36,,,,,388,,,"Codeshare",2188,2072,4089
+- -,DXB,JED,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,1055,02:36,,,,,321 333 773 777 320,,,"Direct",2188,2072,4533
+- -,DXB,JED,Nas Air (XY),Nas Air,1055,02:36,,,,,320,,,"Direct",2188,2072,3754
+- -,DXB,JFK,JetBlue Airways (B6),JetBlue Airways,6832,14:09,,,,,388,,,"Direct",2188,3797,3029
+- -,DXB,JFK,Emirates (EK),Emirates,6832,14:09,,,,,388,,,"Direct",2188,3797,2183
+- -,DXB,JIB,Fly Dubai (FZ),Fly Dubai,1237,02:58,,,,,73H,,,"Direct",2188,4119,14485
+- -,DXB,JNB,Emirates (EK),Emirates,3982,08:27,,,,,77W,,,"Direct",2188,813,2183
+- -,DXB,JNB,South African Airways (SA),South African Airways,3982,08:27,,,,,77W,,,"Codeshare",2188,813,4305
+- -,DXB,JUB,Fly Dubai (FZ),Fly Dubai,2111,04:43,,,,,73H,,,"Direct",2188,1173,14485
+- -,DXB,KBL,Safi Airlines (4Q),Safi Airlines,1047,02:35,,,,,319,,,"Direct",2188,2050,10758
+- -,DXB,KBL,Emirates (EK),Emirates,1047,02:35,,,,,345,,,"Direct",2188,2050,2183
+- -,DXB,KBL,Ariana Afghan Airlines (FG),Ariana Afghan Airlines,1047,02:35,,,,,734,,,"Direct",2188,2050,125
+- -,DXB,KBL,Fly Dubai (FZ),Fly Dubai,1047,02:35,,,,,73H,,,"Direct",2188,2050,14485
+- -,DXB,KBL,Kam Air (RQ),Kam Air,1047,02:35,,,,,320,,,"Direct",2188,2050,3097
+- -,DXB,KBP,Emirates (EK),Emirates,2166,04:49,,,,,345,,,"Direct",2188,2939,2183
+- -,DXB,KBP,Ukraine International Airlines (PS),Ukraine International Airlines,2166,04:49,,,,,738 73J 73N,,,"Direct",2188,2939,5282
+- -,DXB,KDH,Ariana Afghan Airlines (FG),Ariana Afghan Airlines,768,02:02,,,,,734,,,"Direct",2188,2051,125
+- -,DXB,KGL,Rwandair Express (WB),Rwandair Express,2525,05:33,,,,,738,,,"Direct",2188,1165,4292
+- -,DXB,KHI,Emirates (EK),Emirates,737,01:58,,,,,77W,,,"Direct",2188,2206,2183
+- -,DXB,KHI,Fly Dubai (FZ),Fly Dubai,737,01:58,,,,,73H,,,"Direct",2188,2206,14485
+- -,DXB,KHI,Shaheen Air International (NL),Shaheen Air International,737,01:58,,,,,320,,,"Direct",2188,2206,4311
+- -,DXB,KHI,Pakistan International Airlines (PK),Pakistan International Airlines,737,01:58,,,,,73H 737,,,"Direct",2188,2206,3871
+- -,DXB,KIH,Kish Air (Y9),Kish Air,122,00:44,,,,,M80 F50,,,"Direct",2188,2109,3148
+- -,DXB,KIX,Emirates (EK),Emirates,4705,09:54,,,,,77W,,,"Direct",2188,3992,2183
+- -,DXB,KIX,Japan Airlines (JL),Japan Airlines,4705,09:54,,,,,773,,,"Codeshare",2188,3992,2987
+- -,DXB,KJA,NordStar Airlines (Y7),NordStar Airlines,2824,06:08,,,,,738,,,"Direct",2188,4374,13088
+- -,DXB,KMG,China Eastern Airlines (MU),China Eastern Airlines,2956,06:24,,,,,333,,,"Direct",2188,3382,1758
+- -,DXB,KRR,Fly Dubai (FZ),Fly Dubai,1636,03:46,,,,,73H,,,"Direct",2188,2960,14485
+- -,DXB,KRR,Ural Airlines (U6),Ural Airlines,1636,03:46,,,,,320,,,"Direct",2188,2960,5234
+- -,DXB,KRT,Emirates (EK),Emirates,1616,03:43,,,,,332,,,"Direct",2188,1175,2183
+- -,DXB,KRT,Fly Dubai (FZ),Fly Dubai,1616,03:43,,,,,73H,,,"Direct",2188,1175,14485
+- -,DXB,KRT,Sudan Airways (SD),Sudan Airways,1616,03:43,,,,,AB6,,,"Direct",2188,1175,4521
+- -,DXB,KTM,Fly Dubai (FZ),Fly Dubai,1857,04:12,,,,,73H,,,"Direct",2188,3125,14485
+- -,DXB,KUF,Ural Airlines (U6),Ural Airlines,1969,04:26,,,,,320,,,"Direct",2188,2993,5234
+- -,DXB,KUL,Emirates (EK),Emirates,3446,07:23,,,,,77W 773,,,"Direct",2188,3304,2183
+- -,DXB,KUL,Yemenia (IY),Yemenia,3446,07:23,,,,,330,,,"Direct",2188,3304,5496
+- -,DXB,KUL,Qantas (QF),Qantas,3446,07:23,,,,,77W,,,"Codeshare",2188,3304,4089
+- -,DXB,KWI,Emirates (EK),Emirates,530,01:33,,,,,77W 772 332 773,,,"Direct",2188,2176,2183
+- -,DXB,KWI,Fly Dubai (FZ),Fly Dubai,530,01:33,,,,,73H,,,"Direct",2188,2176,14485
+- -,DXB,KWI,Jazeera Airways (J9),Jazeera Airways,530,01:33,,,,,320,,,"Direct",2188,2176,2993
+- -,DXB,KWI,Kuwait Airways (KU),Kuwait Airways,530,01:33,,,,,320 310 AB6,,,"Direct",2188,2176,3179
+- -,DXB,LAD,TAAG Angola Airlines (DT),TAAG Angola Airlines,3683,07:51,,,,,772,,,"Direct",2188,951,5133
+- -,DXB,LAD,Emirates (EK),Emirates,3683,07:51,,,,,77W 332 77L,,,"Direct",2188,951,2183
+- -,DXB,LAX,JetBlue Airways (B6),JetBlue Airways,8321,17:08,,,,,388,,,"Direct",2188,3484,3029
+- -,DXB,LAX,Emirates (EK),Emirates,8321,17:08,,,,,388,,,"Direct",2188,3484,2183
+- -,DXB,LCA,Emirates (EK),Emirates,1454,03:24,,,,,773,,,"Direct",2188,1197,2183
+- -,DXB,LED,Emirates (EK),Emirates,2670,05:50,,,,,77L 77W,,,"Direct",2188,2948,2183
+- -,DXB,LGW,Emirates (EK),Emirates,3398,07:17,,,,,77W 388,,,"Direct",2188,502,2183
+- -,DXB,LGW,Qantas (QF),Qantas,3398,07:17,,,,,77W 388,,,"Codeshare",2188,502,4089
+- -,DXB,LHE,Emirates (EK),Emirates,1232,02:57,,,,,77W,,,"Direct",2188,2207,2183
+- -,DXB,LHE,Shaheen Air International (NL),Shaheen Air International,1232,02:57,,,,,320,,,"Direct",2188,2207,4311
+- -,DXB,LHE,Pakistan International Airlines (PK),Pakistan International Airlines,1232,02:57,,,,,73H,,,"Direct",2188,2207,3871
+- -,DXB,LHR,American Airlines (AA),American Airlines,3414,07:19,,,,,744 777,,,"Codeshare",2188,507,24
+- -,DXB,LHR,British Airways (BA),British Airways,3414,07:19,,,,,744 777,,,"Direct",2188,507,1355
+- -,DXB,LHR,Emirates (EK),Emirates,3414,07:19,,,,,388,,,"Direct",2188,507,2183
+- -,DXB,LHR,Qantas (QF),Qantas,3414,07:19,,,,,388,,,"Direct",2188,507,4089
+- -,DXB,LHR,Virgin Atlantic Airways (VS),Virgin Atlantic Airways,3414,07:19,,,,,333,,,"Direct",2188,507,5347
+- -,DXB,LIS,Emirates (EK),Emirates,3811,08:07,,,,,77W,,,"Direct",2188,1638,2183
+- -,DXB,LIS,TAP Portugal (TP),TAP Portugal,3811,08:07,,,,,77W,,,"Codeshare",2188,1638,4869
+- -,DXB,LKO,Fly Dubai (FZ),Fly Dubai,1584,03:40,,,,,73H,,,"Direct",2188,3105,14485
+- -,DXB,LOS,Emirates (EK),Emirates,3661,07:49,,,,,77W,,,"Direct",2188,273,2183
+- -,DXB,LRR,Iran Aseman Airlines (EP),Iran Aseman Airlines,177,00:51,,,,,100 AT7,,,"Direct",2188,5934,2923
+- -,DXB,LUN,Emirates (EK),Emirates,3336,07:10,,,,,343,,,"Direct",2188,907,2183
+- -,DXB,LYS,Emirates (EK),Emirates,3097,06:41,,,,,77L,,,"Direct",2188,1335,2183
+- -,DXB,MAA,IndiGo Airlines (6E),IndiGo Airlines,1821,04:08,,,,,320,,,"Direct",2188,3144,2850
+- -,DXB,MAA,Emirates (EK),Emirates,1821,04:08,,,,,77W 772 332 773,,,"Direct",2188,3144,2183
+- -,DXB,MAD,Emirates (EK),Emirates,3508,07:30,,,,,77W,,,"Direct",2188,1229,2183
+- -,DXB,MAN,Emirates (EK),Emirates,3512,07:31,,,,,77W 388,,,"Direct",2188,478,2183
+- -,DXB,MAN,Qantas (QF),Qantas,3512,07:31,,,,,77W 388,,,"Codeshare",2188,478,4089
+- -,DXB,MBA,Rwandair Express (WB),Rwandair Express,2282,05:03,,,,,738,,,"Direct",2188,1145,4292
+- -,DXB,MCT,Emirates (EK),Emirates,216,00:55,,,,,738 332 E75 73H 77W 772 E90,,,"Direct",2188,2194,2183
+- -,DXB,MCT,Fly Dubai (FZ),Fly Dubai,216,00:55,,,,,73H,,,"Direct",2188,2194,14485
+- -,DXB,MCT,Qantas (QF),Qantas,216,00:55,,,,,332 77W 772,,,"Codeshare",2188,2194,4089
+- -,DXB,MCT,Oman Air (WY),Oman Air,216,00:55,,,,,738 E75 332 73G 333,,,"Direct",2188,2194,3778
+- -,DXB,MED,Emirates (EK),Emirates,981,02:27,,,,,332,,,"Direct",2188,2074,2183
+- -,DXB,MED,Fly Dubai (FZ),Fly Dubai,981,02:27,,,,,73H,,,"Direct",2188,2074,14485
+- -,DXB,MED,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,981,02:27,,,,,320,,,"Direct",2188,2074,4533
+- -,DXB,MEL,Emirates (EK),Emirates,7231,14:57,,,,,388,,,"Direct",2188,3339,2183
+- -,DXB,MEL,Qantas (QF),Qantas,7231,14:57,,,,,388,,,"Direct",2188,3339,4089
+- -,DXB,MHD,Iran Aseman Airlines (EP),Iran Aseman Airlines,799,02:05,,,,,100,,,"Direct",2188,4331,2923
+- -,DXB,MLA,Emirates (EK),Emirates,2519,05:32,,,,,773,,,"Direct",2188,1606,2183
+- -,DXB,MLE,Emirates (EK),Emirates,1888,04:16,,,,,773 77W,,,"Direct",2188,3156,2183
+- -,DXB,MNL,Cebu Pacific (5J),Cebu Pacific,4288,09:04,,,,,330,,,"Direct",2188,2397,1683
+- -,DXB,MNL,Emirates (EK),Emirates,4288,09:04,,,,,77W,,,"Direct",2188,2397,2183
+- -,DXB,MNL,Philippine Airlines (PR),Philippine Airlines,4288,09:04,,,,,77W,,,"Codeshare",2188,2397,3952
+- -,DXB,MRU,Emirates (EK),Emirates,3158,06:48,,,,,388 77W,,,"Direct",2188,893,2183
+- -,DXB,MRU,Air Mauritius (MK),Air Mauritius,3158,06:48,,,,,388 77W,,,"Codeshare",2188,893,1057
+- -,DXB,MRV,Fly Dubai (FZ),Fly Dubai,1480,03:27,,,,,73H,,,"Direct",2188,2962,14485
+- -,DXB,MRV,Ural Airlines (U6),Ural Airlines,1480,03:27,,,,,320,,,"Direct",2188,2962,5234
+- -,DXB,MUC,Emirates (EK),Emirates,2834,06:10,,,,,388,,,"Direct",2188,346,2183
+- -,DXB,MUC,Lufthansa (LH),Lufthansa,2834,06:10,,,,,333,,,"Direct",2188,346,3320
+- -,DXB,MUC,Qantas (QF),Qantas,2834,06:10,,,,,388,,,"Codeshare",2188,346,4089
+- -,DXB,MUX,Fly Dubai (FZ),Fly Dubai,1037,02:34,,,,,73H,,,"Direct",2188,2214,14485
+- -,DXB,MUX,Shaheen Air International (NL),Shaheen Air International,1037,02:34,,,,,734,,,"Direct",2188,2214,4311
+- -,DXB,MXP,JetBlue Airways (B6),JetBlue Airways,2923,06:20,,,,,77W,,,"Direct",2188,1524,3029
+- -,DXB,MXP,Emirates (EK),Emirates,2923,06:20,,,,,77W 773,,,"Direct",2188,1524,2183
+- -,DXB,NBO,Emirates (EK),Emirates,2210,04:55,,,,,77W 77L,,,"Direct",2188,4059,2183
+- -,DXB,NBO,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,2210,04:55,,,,,767,,,"Codeshare",2188,4059,3090
+- -,DXB,NBO,Kenya Airways (KQ),Kenya Airways,2210,04:55,,,,,763,,,"Direct",2188,4059,3126
+- -,DXB,NBO,Qantas (QF),Qantas,2210,04:55,,,,,77W 77L,,,"Codeshare",2188,4059,4089
+- -,DXB,NCE,Emirates (EK),Emirates,2970,06:26,,,,,77W,,,"Direct",2188,1354,2183
+- -,DXB,NCL,Emirates (EK),Emirates,3510,07:31,,,,,77W,,,"Direct",2188,521,2183
+- -,DXB,NCL,Qantas (QF),Qantas,3510,07:31,,,,,77W,,,"Codeshare",2188,521,4089
+- -,DXB,NJF,Fly Dubai (FZ),Fly Dubai,810,02:07,,,,,73H,,,"Direct",2188,7490,14485
+- -,DXB,NRT,Emirates (EK),Emirates,4955,10:24,,,,,77W,,,"Direct",2188,2279,2183
+- -,DXB,NRT,Japan Airlines (JL),Japan Airlines,4955,10:24,,,,,773,,,"Codeshare",2188,2279,2987
+- -,DXB,OTP,Fly Dubai (FZ),Fly Dubai,2108,04:42,,,,,73H,,,"Direct",2188,1657,14485
+- -,DXB,OTP,Tarom (RO),Tarom,2108,04:42,,,,,73W,,,"Direct",2188,1657,5179
+- -,DXB,OVB,S7 Airlines (S7),S7 Airlines,2476,05:27,,,,,320,,,"Direct",2188,4078,4329
+- -,DXB,PEK,Air China (CA),Air China,3629,07:45,,,,,333,,,"Direct",2188,3364,751
+- -,DXB,PEK,Emirates (EK),Emirates,3629,07:45,,,,,388 77W,,,"Direct",2188,3364,2183
+- -,DXB,PER,Emirates (EK),Emirates,5614,11:43,,,,,77W,,,"Direct",2188,3351,2183
+- -,DXB,PER,Qantas (QF),Qantas,5614,11:43,,,,,77W,,,"Codeshare",2188,3351,4089
+- -,DXB,PEW,Emirates (EK),Emirates,1139,02:46,,,,,772 332,,,"Direct",2188,2219,2183
+- -,DXB,PEW,Shaheen Air International (NL),Shaheen Air International,1139,02:46,,,,,320,,,"Direct",2188,2219,4311
+- -,DXB,PRG,Emirates (EK),Emirates,2772,06:02,,,,,77W,,,"Direct",2188,1587,2183
+- -,DXB,PRG,Qantas (QF),Qantas,2772,06:02,,,,,77W,,,"Codeshare",2188,1587,4089
+- -,DXB,PVG,Emirates (EK),Emirates,4004,08:30,,,,,388 77W,,,"Direct",2188,3406,2183
+- -,DXB,PZU,Fly Dubai (FZ),Fly Dubai,1224,02:56,,,,,73H,,,"Direct",2188,5702,14485
+- -,DXB,RIY,Yemenia (IY),Yemenia,827,02:09,,,,,310,,,"Direct",2188,3974,5496
+- -,DXB,ROV,Fly Dubai (FZ),Fly Dubai,1752,04:00,,,,,73H,,,"Direct",2188,2964,14485
+- -,DXB,RUH,Emirates (EK),Emirates,542,01:35,,,,,77W 773 772,,,"Direct",2188,2082,2183
+- -,DXB,RUH,Qantas (QF),Qantas,542,01:35,,,,,773 772,,,"Codeshare",2188,2082,4089
+- -,DXB,RUH,Saudi Arabian Airlines (SV),Saudi Arabian Airlines,542,01:35,,,,,321 333 777 320 773,,,"Direct",2188,2082,4533
+- -,DXB,RUH,Nas Air (XY),Nas Air,542,01:35,,,,,320,,,"Direct",2188,2082,3754
+- -,DXB,SAH,Emirates (EK),Emirates,987,02:28,,,,,332,,,"Direct",2188,3980,2183
+- -,DXB,SAH,Fly Dubai (FZ),Fly Dubai,987,02:28,,,,,73H,,,"Direct",2188,3980,14485
+- -,DXB,SAH,Yemenia (IY),Yemenia,987,02:28,,,,,310 330,,,"Direct",2188,3980,5496
+- -,DXB,SAW,Fly Dubai (FZ),Fly Dubai,1842,04:11,,,,,73H,,,"Direct",2188,4317,14485
+- -,DXB,SAW,Pegasus Airlines (PC),Pegasus Airlines,1842,04:11,,,,,738,,,"Direct",2188,4317,3926
+- -,DXB,SEA,JetBlue Airways (B6),JetBlue Airways,7407,15:18,,,,,77W,,,"Direct",2188,3577,3029
+- -,DXB,SEA,Emirates (EK),Emirates,7407,15:18,,,,,77W,,,"Direct",2188,3577,2183
+- -,DXB,SEZ,Emirates (EK),Emirates,2066,04:37,,,,,77W,,,"Direct",2188,994,2183
+- -,DXB,SFO,JetBlue Airways (B6),JetBlue Airways,8085,16:40,,,,,77W,,,"Direct",2188,3469,3029
+- -,DXB,SFO,Emirates (EK),Emirates,8085,16:40,,,,,77W,,,"Direct",2188,3469,2183
+- -,DXB,SGN,Emirates (EK),Emirates,3489,07:28,,,,,772,,,"Direct",2188,3205,2183
+- -,DXB,SIN,Emirates (EK),Emirates,3630,07:45,,,,,77W 388,,,"Direct",2188,3316,2183
+- -,DXB,SIN,Ethiopian Airlines (ET),Ethiopian Airlines,3630,07:45,,,,,77W 333,,,"Codeshare",2188,3316,2220
+- -,DXB,SIN,Egyptair (MS),Egyptair,3630,07:45,,,,,333,,,"Codeshare",2188,3316,2143
+- -,DXB,SIN,Qantas (QF),Qantas,3630,07:45,,,,,77W 388,,,"Codeshare",2188,3316,4089
+- -,DXB,SIN,Singapore Airlines (SQ),Singapore Airlines,3630,07:45,,,,,77W 333,,,"Direct",2188,3316,4435
+- -,DXB,SKP,Fly Dubai (FZ),Fly Dubai,2236,04:58,,,,,73H,,,"Direct",2188,1737,14485
+- -,DXB,SKT,Emirates (EK),Emirates,1251,03:00,,,,,332,,,"Direct",2188,6776,2183
+- -,DXB,SKT,Fly Dubai (FZ),Fly Dubai,1251,03:00,,,,,73H,,,"Direct",2188,6776,14485
+- -,DXB,SLL,Fly Dubai (FZ),Fly Dubai,573,01:38,,,,,73H,,,"Direct",2188,2195,14485
+- -,DXB,SLL,Oman Air (WY),Oman Air,573,01:38,,,,,E75,,,"Direct",2188,2195,3778
+- -,DXB,SVO,Kenya Airways (KQ),Kenya Airways,2305,05:06,,,,,320,,,"Codeshare",2188,2985,3126
+- -,DXB,SVO,Aeroflot Russian Airlines (SU),Aeroflot Russian Airlines,2305,05:06,,,,,320,,,"Direct",2188,2985,130
+- -,DXB,SVX,Ural Airlines (U6),Ural Airlines,2191,04:52,,,,,320,,,"Direct",2188,2975,5234
+- -,DXB,SYD,Emirates (EK),Emirates,7479,15:27,,,,,388,,,"Direct",2188,3361,2183
+- -,DXB,SYD,Qantas (QF),Qantas,7479,15:27,,,,,388,,,"Direct",2188,3361,4089
+- -,DXB,SYZ,Iran Aseman Airlines (EP),Iran Aseman Airlines,341,01:10,,,,,100,,,"Direct",2188,2157,2923
+- -,DXB,TAS,Uzbekistan Airways (HY),Uzbekistan Airways,1362,03:13,,,,,763,,,"Direct",2188,2983,5281
+- -,DXB,TBS,Fly Dubai (FZ),Fly Dubai,1280,03:03,,,,,73H,,,"Direct",2188,3973,14485
+- -,DXB,TBZ,Iran Aseman Airlines (EP),Iran Aseman Airlines,1037,02:34,,,,,100,,,"Direct",2188,2162,2923
+- -,DXB,TIF,Fly Dubai (FZ),Fly Dubai,974,02:26,,,,,73H,,,"Direct",2188,2090,14485
+- -,DXB,TIP,Afriqiyah Airways (8U),Afriqiyah Airways,2583,05:39,,,,,332,,,"Direct",2188,1157,32
+- -,DXB,TPE,Emirates (EK),Emirates,4071,08:38,,,,,77W,,,"Direct",2188,2276,2183
+- -,DXB,TRV,IndiGo Airlines (6E),IndiGo Airlines,1830,04:09,,,,,320,,,"Direct",2188,3153,2850
+- -,DXB,TRV,Emirates (EK),Emirates,1830,04:09,,,,,332,,,"Direct",2188,3153,2183
+- -,DXB,TRV,Air India Express (IX),Air India Express,1830,04:09,,,,,738,,,"Direct",2188,3153,569
+- -,DXB,TUN,Emirates (EK),Emirates,2760,06:01,,,,,773,,,"Direct",2188,287,2183
+- -,DXB,TUN,Tunisair (TU),Tunisair,2760,06:01,,,,,319,,,"Direct",2188,287,4870
+- -,DXB,TUU,Fly Dubai (FZ),Fly Dubai,1173,02:50,,,,,73H,,,"Direct",2188,2089,14485
+- -,DXB,VCE,Emirates (EK),Emirates,2751,06:00,,,,,77W,,,"Direct",2188,1551,2183
+- -,DXB,VIE,Emirates (EK),Emirates,2622,05:44,,,,,77W,,,"Direct",2188,1613,2183
+- -,DXB,VIE,Austrian Airlines (OS),Austrian Airlines,2622,05:44,,,,,763,,,"Codeshare",2188,1613,491
+- -,DXB,VOG,Fly Dubai (FZ),Fly Dubai,1730,03:57,,,,,73H,,,"Direct",2188,2967,14485
+- -,DXB,WAW,Emirates (EK),Emirates,2580,05:39,,,,,332,,,"Direct",2188,679,2183
+- -,DXB,WAW,Qantas (QF),Qantas,2580,05:39,,,,,332,,,"Codeshare",2188,679,4089
+- -,DXB,XSB,VRG Linhas Aereas (RG),VRG Linhas Aereas,186,00:52,,,,,ERJ,,,"Direct",2188,8961,5368
+- -,DXB,YNB,Fly Dubai (FZ),Fly Dubai,1087,02:40,,,,,73H,,,"Direct",2188,2096,14485
+- -,DXB,YYZ,Emirates (EK),Emirates,6882,14:15,,,,,388,,,"Direct",2188,193,2183
+- -,DXB,ZAH,Iran Aseman Airlines (EP),Iran Aseman Airlines,447,01:23,,,,,100,,,"Direct",2188,2167,2923
+- -,DXB,ZBR,Iran Aseman Airlines (EP),Iran Aseman Airlines,313,01:07,,,,,100,,,"Direct",2188,2166,2923
+- -,DXB,ZRH,Emirates (EK),Emirates,2960,06:25,,,,,388 77W,,,"Direct",2188,1678,2183
+- -,DXB,ZRH,Swiss International Air Lines (LX),Swiss International Air Lines,2960,06:25,,,,,333,,,"Direct",2188,1678,4559
+- -,DXB,ZRH,Qantas (QF),Qantas,2960,06:25,,,,,388 77W,,,"Codeshare",2188,1678,4089
+- -,DXB,ZYL,Biman Bangladesh Airlines (BG),Biman Bangladesh Airlines,2275,05:03,,,,,313,,,"Direct",2188,3074,1359

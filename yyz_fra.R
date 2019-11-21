@@ -57,6 +57,7 @@ yyz_ac_flights$RouteInfo <- paste0("<b>",
 
 #Frankfurt flights
 fra_flights <- read.csv("fra.csv")
+toDelete <- seq(1, nrow(fra_flights), 2)
 fra_flights <- fra_flights[toDelete,]
 
 fra_flights <- select(fra_flights, From, To, Airline, Distance, Duration)
@@ -79,6 +80,40 @@ fra_flights$RouteInfo <- paste0("<b>",
 
 #final table for mapdeck (both yyz and fra airports)
 yyz_fra <- rbind(yyz_ac_flights, fra_flights)
+
+#add more flights
+ams_flights <- read.csv("ams.csv")
+dxb_flights <- read.csv("dxb.csv")
+kef_flights <- read.csv("kef.csv")
+
+flight_list <- list(ams_flights, dxb_flights, kef_flights)
+long_list <- c(4.7683, 55.3657, -22.6350)
+lat_list <- c(52.3105, 25.2532, 63.9786)
+
+for (i in seq(1,3)){
+  toDelete <- seq(1, nrow(flight_list[[i]]), 2)
+  flight_list[[i]] <- flight_list[[i]][toDelete,]
+  flight_list[[i]] <- select(flight_list[[i]], From, To, Airline, Distance, Duration)
+  flight_list[[i]] <- merge(flight_list[[i]], all_airport_coordinates, by = "To")
+  colnames(flight_list[[i]])[7:8] <- c("destination_long", "destination_lat")
+  flight_list[[i]]$origin_long <- rep(long_list[i], nrow(flight_list[[i]]))
+  flight_list[[i]]$origin_lat <- rep(lat_list[i], nrow(flight_list[[i]]))
+  flight_list[[i]] <- flight_list[[i]][!duplicated(flight_list[[i]]$To),]
+  flight_list[[i]]$RouteInfo <- paste0("<b>",
+                                  flight_list[[i]]$From, 
+                                  " - ", flight_list[[i]]$To,
+                                  "; Airline: ", flight_list[[i]]$Airline,
+                                  "; Distance: ",  flight_list[[i]]$Distance,
+                                  "; Flight Time: ", flight_list[[i]]$Duration, "Hrs",
+                                  "</b>")
+}
+  
+ams_flights <- flight_list[[1]]
+dxb_flights <- flight_list[[2]]
+kef_flights <- flight_list[[3]]
+
+all_flights <- rbind(yyz_fra, ams_flights, dxb_flights, kef_flights)
+
 
 #create arcs for flights out of those two airports with mapdeck
 key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
@@ -209,7 +244,7 @@ ui2 <- dashboardPage(
 server2 <- function(input, output) {
   
   set_token(key) 
-  slidertable <- yyz_fra
+  slidertable <- all_flights
   
   output$myMap <- renderMapdeck({
     mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) 
