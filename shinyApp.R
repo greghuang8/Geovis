@@ -23,8 +23,8 @@ library(shiny)
 #load in data
 all_flights <- read.csv("flights_for_shiny.csv")
 
-#mapdeck key
-key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
+#mapdeck key: copy and paste your key in between the quotation marks
+key <- ""
 
 ui <- fluidPage(
   mapdeckOutput(outputId = 'myMap'),
