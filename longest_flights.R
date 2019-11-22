@@ -19,8 +19,8 @@ install.packages("mapdeck")
 library(mapdeck)
 
 
-#Mapbox access token
-key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
+#Mapbox access token: remember to insert your own between the quotation marks 
+key <- ''
 
 #Prepping data: Longest flights in the world 
 flights <- read.csv("Longest_flights.csv")

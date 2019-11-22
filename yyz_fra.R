@@ -114,9 +114,11 @@ kef_flights <- flight_list[[3]]
 
 all_flights <- rbind(yyz_fra, ams_flights, dxb_flights, kef_flights)
 
-
 #create arcs for flights out of those two airports with mapdeck
-key <- 'pk.eyJ1IjoiZ3JlZ29yeWh1YW5nIiwiYSI6ImNrMGhhZzgxODAwbGszYm81eTlrOTl1dWQifQ.K01kaB-lrjqeCjNeTbvKxg'
+#remember to add your own key between the quotation marks or else it won't work
+key <- ''
+
+
 mapdeck(token = key, style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', pitch = 20) %>%
   add_arc(
     data = yyz_fra,
