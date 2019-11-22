@@ -6,7 +6,9 @@ Initial Commit: Nov 17th, 2019
 Last update:    Nov 21st, 2019
 
 Tl;dr: For those who want to jump right into playing with the ShinyApp:  
-Download the repository. You should see a large green button that says "Clone or Download" on this page; download the repository from there. Assuming you have all the required files in the same folder, simply open shinyApp.R in RStudio and Run the code. That should give you a popup window containing the Shiny App. If the window only shows a slidebar, click on "View in Browser" to open up the app in your browser.  
+1. Download the repository. You should see a large green button that says "Clone or Download" on this page; download the repository from there. 
+2. Assuming you have all the required files in the same folder, simply open shinyApp.R in RStudio and Run the code. That should give you a popup window containing the Shiny App. 
+3. If the window only shows a slidebar, click on "View in Browser" to open up the app in your browser.  
 
 =====  
 
