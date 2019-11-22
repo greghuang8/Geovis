@@ -26,6 +26,8 @@ all_flights <- read.csv("flights_for_shiny.csv")
 #mapdeck key: copy and paste your key in between the quotation marks
 key <- ""
 
+
+#create UI and define a slider input
 ui <- fluidPage(
   mapdeckOutput(outputId = 'myMap'),
   sliderInput(
@@ -36,18 +38,22 @@ ui <- fluidPage(
     value = c(-180,-90)),
   verbatimTextOutput(outputId = "observed_click"))
 
+
+#create server
 server <- function(input, output) {
-  
   set_token(key) 
+  
+  #get data
   slidertable <- all_flights
   
+  #initial map creation
   output$myMap <- renderMapdeck({
     mapdeck(style = 'mapbox://styles/gregoryhuang/ck33n2hav1vtn1cnkr16ls3uq', 
             pitch = 20,
             height = 60) 
   })
   
-  ## plot points & lines according to the selected longitudes
+  #reactive slider table
   slidertable_reactive <- reactive({
     if(is.null(input$longitudes)) return(NULL)
     lons <- input$longitudes
@@ -76,5 +82,6 @@ server <- function(input, output) {
   })
 }
 
+#run to launch the app (make sure all previous code ran without issues)
 shinyApp(ui,server)
 
