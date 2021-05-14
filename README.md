@@ -8,6 +8,11 @@ Last update:    Nov 21st, 2019
 Tl;dr: For those who want to jump right into playing with the ShinyApp:  
 https://greghuang8.shinyapps.io/geovis/
 
+Change the slider to show routes out of airports within the coordinate range.
+Scroll in/out to zoom. 
+Right-click and drag to change perspectives. 
+Hover over lines to show route information. 
+
 =====  
 
 This module is divided into two main focuses. The first focus is a demonstration of mapdeck's capabilities, including drawing arcs, lines, text, and others; as well as the package's customizability. The second focus is an application on a large real-life dataset to show how this package may be applied using open access data, including using Shiny as an interactive interface.  
