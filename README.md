@@ -6,10 +6,7 @@ Initial Commit: Nov 17th, 2019
 Last update:    Nov 21st, 2019
 
 Tl;dr: For those who want to jump right into playing with the ShinyApp:  
-1. Download the repository. You should see a large green button that says "Clone or Download" on this page; download the repository from there. 
-2. Get your mapbox access token. Here's the link again:  https://docs.mapbox.com/help/how-mapbox-works/access-tokens/  
-3. Assuming you have all the required files in the same folder, simply open shinyApp.R in RStudio, change the token, and Run the code. That should give you a popup window containing the Shiny App. 
-4. If the window only shows a slidebar, click on "View in Browser" to open up the app in your browser.  
+https://greghuang8.shinyapps.io/geovis/
 
 =====  
 
