@@ -9,9 +9,13 @@ Tl;dr: For those who want to jump right into playing with the ShinyApp:
 https://greghuang8.shinyapps.io/geovis/
 
 Change the slider to show routes out of airports within the coordinate range.
+
 Scroll in/out to zoom. 
+
 Right-click and drag to change perspectives. 
+
 Hover over lines to show route information. 
+
 
 =====  
 
