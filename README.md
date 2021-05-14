@@ -12,6 +12,8 @@ Change the slider to show routes out of airports within the coordinate range.
 
 Scroll in/out to zoom. 
 
+Left-click and drag to pan.
+
 Right-click and drag to change perspectives. 
 
 Hover over lines to show route information. 
